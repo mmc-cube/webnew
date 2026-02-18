@@ -75,6 +75,11 @@ export interface LeaderboardEntry {
   name: string
   stars: number
   growth: number
+  description?: string
+  language?: string
+  topics?: string[]
+  forks?: number
+  stars_24h?: number
 }
 
 export type LeaderboardPeriod = 'daily' | 'weekly' | 'monthly' | '3month' | '6month' | '9month' | 'yearly'

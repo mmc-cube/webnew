@@ -173,18 +173,34 @@ function ClusterTag({ cluster }: { cluster: EventCluster }) {
 function LeaderboardRow({ entry, index }: { entry: LeaderboardEntry; index: number }) {
   const medalColors = ['text-yellow-500', 'text-gray-400', 'text-amber-600']
   return (
-    <div className="flex items-center gap-3 py-2 px-3 rounded-lg hover:bg-gray-50 transition-colors">
-      <span className={`flex-shrink-0 w-5 h-5 rounded-full ${index < 3 ? 'bg-yellow-50' : 'bg-gray-50'} text-[11px] font-bold ${index < 3 ? medalColors[index] : 'text-gray-400'} flex items-center justify-center`}>
+    <div className="flex items-start gap-3 py-2 px-3 rounded-lg hover:bg-gray-50 transition-colors">
+      <span className={`flex-shrink-0 w-5 h-5 rounded-full ${index < 3 ? 'bg-yellow-50' : 'bg-gray-50'} text-[11px] font-bold ${index < 3 ? medalColors[index] : 'text-gray-400'} flex items-center justify-center mt-0.5`}>
         {index + 1}
       </span>
       <div className="flex-1 min-w-0">
-        <a href={`https://github.com/${entry.name}`} target="_blank" rel="noreferrer"
-          className="text-sm font-medium text-blue-600 hover:underline truncate block">
-          {entry.name}
-        </a>
-        <div className="flex items-center gap-3 mt-0.5 text-[11px] text-gray-400">
+        <div className="flex items-center gap-2 flex-wrap">
+          <a href={`https://github.com/${entry.name}`} target="_blank" rel="noreferrer"
+            className="text-sm font-medium text-blue-600 hover:underline truncate">
+            {entry.name}
+          </a>
+          <span className="text-[9px] font-bold px-1.5 py-0.5 rounded bg-green-100 text-green-600 flex items-center gap-0.5">
+            <ArrowUp size={9} />+{entry.growth.toLocaleString()}
+          </span>
+          {entry.language && (
+            <span className="text-[10px] text-gray-400">{entry.language}</span>
+          )}
+        </div>
+        {entry.description && (
+          <p className="text-xs text-gray-500 mt-0.5 line-clamp-1">{entry.description}</p>
+        )}
+        <div className="flex items-center gap-3 mt-1 text-[11px] text-gray-400">
           <span className="flex items-center gap-0.5"><Star size={10} className="text-yellow-400" />{entry.stars.toLocaleString()}</span>
-          <span className="flex items-center gap-0.5 text-green-500 font-medium"><ArrowUp size={10} />+{entry.growth.toLocaleString()}</span>
+          {(entry.stars_24h ?? 0) > 0 && (
+            <span className="flex items-center gap-0.5 text-green-500"><ArrowUp size={10} />+{entry.stars_24h}/d</span>
+          )}
+          {entry.topics?.slice(0, 3).map(t => (
+            <span key={t} className="px-1.5 py-0.5 rounded bg-gray-100 text-[10px]">{t}</span>
+          ))}
         </div>
       </div>
     </div>

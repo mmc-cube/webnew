@@ -50,6 +50,7 @@ class StarTracker:
         """记录今天所有 repo 的星数和 24h 涨星"""
         today = date_str or datetime.now().strftime("%Y-%m-%d")
         self._stars_24h: dict[str, int] = {}
+        self._repo_meta: dict[str, dict] = {}
         for repo in repos:
             name = repo.get("name", "")
             stars = repo.get("stars", 0)
@@ -62,6 +63,14 @@ class StarTracker:
             stars_24h = repo.get("stars_24h", 0)
             if stars_24h and stars_24h > 0:
                 self._stars_24h[name] = stars_24h
+            # 缓存 repo 元信息，用于排行榜展示
+            self._repo_meta[name] = {
+                "description": repo.get("description", ""),
+                "language": repo.get("language", ""),
+                "topics": repo.get("topics", []),
+                "forks": repo.get("forks", 0),
+                "stars_24h": stars_24h,
+            }
 
     def cleanup_old(self):
         """清理超过 MAX_HISTORY_DAYS 的旧数据"""
@@ -113,6 +122,7 @@ class StarTracker:
         result = {}
 
         stars_24h = getattr(self, "_stars_24h", {})
+        repo_meta = getattr(self, "_repo_meta", {})
 
         for label, days in PERIODS:
             entries = []
@@ -125,10 +135,16 @@ class StarTracker:
                 if growth is None and label == "daily" and name in stars_24h:
                     growth = stars_24h[name]
                 if growth is not None and growth > 0:
+                    meta = repo_meta.get(name, {})
                     entries.append({
                         "name": name,
                         "stars": current,
                         "growth": growth,
+                        "description": meta.get("description", ""),
+                        "language": meta.get("language", ""),
+                        "topics": meta.get("topics", []),
+                        "forks": meta.get("forks", 0),
+                        "stars_24h": meta.get("stars_24h", 0),
                     })
 
             entries.sort(key=lambda x: x["growth"], reverse=True)
