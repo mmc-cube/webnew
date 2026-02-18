@@ -47,8 +47,9 @@ class StarTracker:
         )
 
     def update(self, repos: list[dict], date_str: str | None = None):
-        """记录今天所有 repo 的星数"""
+        """记录今天所有 repo 的星数和 24h 涨星"""
         today = date_str or datetime.now().strftime("%Y-%m-%d")
+        self._stars_24h: dict[str, int] = {}
         for repo in repos:
             name = repo.get("name", "")
             stars = repo.get("stars", 0)
@@ -57,6 +58,10 @@ class StarTracker:
             if name not in self.history:
                 self.history[name] = {}
             self.history[name][today] = stars
+            # 保存 24h 涨星数，用于日榜 fallback
+            stars_24h = repo.get("stars_24h", 0)
+            if stars_24h and stars_24h > 0:
+                self._stars_24h[name] = stars_24h
 
     def cleanup_old(self):
         """清理超过 MAX_HISTORY_DAYS 的旧数据"""
@@ -107,6 +112,8 @@ class StarTracker:
         today = today or datetime.now().strftime("%Y-%m-%d")
         result = {}
 
+        stars_24h = getattr(self, "_stars_24h", {})
+
         for label, days in PERIODS:
             entries = []
             for name, dates in self.history.items():
@@ -114,6 +121,9 @@ class StarTracker:
                 if current is None:
                     continue
                 growth = self.calc_growth(name, days, today)
+                # 日榜 fallback：没有历史对比时用采集到的 stars_24h
+                if growth is None and label == "daily" and name in stars_24h:
+                    growth = stars_24h[name]
                 if growth is not None and growth > 0:
                     entries.append({
                         "name": name,
