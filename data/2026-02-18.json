@@ -1,60 +1,60 @@
 {
   "date": "2026-02-17",
-  "generated_at": "2026-02-18T10:49:19.045194",
+  "generated_at": "2026-02-18T10:59:34.494367",
   "brief": [
     {
-      "conclusion": "阿里巴巴发布轻量级向量数据库zvec，加速AI应用开发。",
-      "why_hot": "为开发者提供高效的数据处理解决方案，降低AI应用构建门槛。",
+      "conclusion": "阿里巴巴推出轻量级、超快的进程内向量数据库zvec，为AI应用提供高效的数据处理方案。",
+      "why_hot": "加速了AI场景下的数据检索速度，降低了开发者的使用门槛。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "QwenLM团队推出终端AI助手qwen-code，进一步简化代码生成流程。",
-      "why_hot": "将AI技术与日常开发环境紧密结合，提升程序员工作效率。",
+      "conclusion": "QwenLM发布了一个开源AI代理qwen-code，它能够直接在终端中运行，简化了开发者的工作流程。",
+      "why_hot": "增强了AI与日常开发工具的集成度，提升了编程效率。",
       "evidence_urls": [
         "https://github.com/QwenLM/qwen-code"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "P-E-W发布了自动去除语言模型审查的工具heretic，引发广泛关注。",
-      "why_hot": "该工具可能改变内容审核方式，影响信息自由度。",
+      "conclusion": "p-e-w/heretic项目提供了全自动的语言模型审查移除功能，旨在保护言论自由。",
+      "why_hot": "对于促进更加开放和包容的AI环境具有重要意义。",
       "evidence_urls": [
         "https://github.com/p-e-w/heretic"
       ],
       "category": "github"
     },
     {
-      "conclusion": "NirDiamant分享了RAG_Techniques仓库，展示了多种检索增强生成技术。",
-      "why_hot": "为理解和改进LLM提供了新的视角和技术路径。",
-      "evidence_urls": [
-        "https://github.com/NirDiamant/RAG_Techniques"
-      ],
-      "category": "github"
-    },
-    {
-      "conclusion": "Harvard大学公开了cs249r_book课程资料，聚焦机器学习系统。",
-      "why_hot": "教育资源开放促进了人工智能教育领域的发展。",
+      "conclusion": "obra/superpowers是一个新型的软件开发方法论框架，专注于提升团队协作效率。",
+      "why_hot": "为现代软件工程实践引入了新的思考方式。",
       "evidence_urls": [
         "https://github.com/harvard-edge/cs249r_book"
       ],
       "category": "github"
     },
     {
-      "conclusion": "Galxe平台上的ECOR活动吸引了大量用户参与，奖励丰厚。",
-      "why_hot": "Web3社区通过此类激励机制有效增加了用户粘性。",
+      "conclusion": "NirDiamant/RAG_Techniques展示了多种高级检索增强生成技术的应用案例。",
+      "why_hot": "有助于研究人员更好地理解和利用RAG技术。",
       "evidence_urls": [
-        "https://galxe.com/ECOR/campaign/GCn5bF6"
+        "https://github.com/NirDiamant/RAG_Techniques"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "Galxe平台上ECOR活动吸引了大量用户参与，只需简单几步即可获得高达$1,000奖励。",
+      "why_hot": "为Web3社区成员提供了低门槛高回报的机会。",
+      "evidence_urls": [
+        "https://galxe.com/ECOR/campaign/GCJtGZsYX"
       ],
       "category": "web3"
     },
     {
-      "conclusion": "UniMex发起关注即得UNX代币活动，鼓励更多人加入其生态系统。",
-      "why_hot": "这种直接奖励机制有助于快速扩大项目影响力。",
+      "conclusion": "SodaBot通过Galxe举办马年特别社区赠品活动，鼓励更多人加入其生态系统。",
+      "why_hot": "加强了品牌与用户之间的互动，促进了社区增长。",
       "evidence_urls": [
-        "https://galxe.com/UniMexX/campaign/GCwGJYK"
+        "https://galxe.com/SodaBot/campaign/GCJtGZsYX"
       ],
       "category": "web3"
     }
@@ -65,8 +65,8 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4668,
-      "forks": 254,
+      "stars": 4674,
+      "forks": 255,
       "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
       "language": "C++",
@@ -91,7 +91,7 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 7582,
+      "stars": 7586,
       "forks": 774,
       "stars_24h": 656,
       "created_at": "2025-09-21T05:46:16+00:00",
@@ -115,7 +115,7 @@
       "name": "OpenCTI-Platform/opencti",
       "owner": "OpenCTI-Platform",
       "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8517,
+      "stars": 8519,
       "forks": 1232,
       "stars_24h": 16,
       "created_at": "2018-12-17T22:57:34+00:00",
@@ -143,7 +143,7 @@
       "name": "QwenLM/qwen-code",
       "owner": "QwenLM",
       "description": "An open-source AI agent that lives in your terminal.",
-      "stars": 18601,
+      "stars": 18606,
       "forks": 1631,
       "stars_24h": 82,
       "created_at": "2025-06-26T01:37:46+00:00",
@@ -163,7 +163,7 @@
       "name": "NirDiamant/RAG_Techniques",
       "owner": "NirDiamant",
       "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
-      "stars": 24991,
+      "stars": 24995,
       "forks": 2949,
       "stars_24h": 280,
       "created_at": "2024-07-13T16:08:36+00:00",
@@ -195,7 +195,7 @@
       "name": "harvard-edge/cs249r_book",
       "owner": "harvard-edge",
       "description": "Introduction to Machine Learning Systems",
-      "stars": 19249,
+      "stars": 19253,
       "forks": 2265,
       "stars_24h": 374,
       "created_at": "2023-09-06T19:31:06+00:00",
@@ -228,7 +228,7 @@
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53934,
+      "stars": 53940,
       "forks": 4092,
       "stars_24h": 569,
       "created_at": "2025-10-09T19:45:18+00:00",
@@ -249,7 +249,7 @@
       "name": "HailToDodongo/pyrite64",
       "owner": "HailToDodongo",
       "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
-      "stars": 869,
+      "stars": 875,
       "forks": 33,
       "stars_24h": 407,
       "created_at": "2025-09-23T20:07:13+00:00",
@@ -270,7 +270,7 @@
       "name": "ComposioHQ/composio",
       "owner": "ComposioHQ",
       "description": "Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling",
-      "stars": 26612,
+      "stars": 26614,
       "forks": 4416,
       "stars_24h": 14,
       "created_at": "2024-02-23T13:58:27+00:00",
@@ -309,7 +309,7 @@
       "name": "p2r3/convert",
       "owner": "p2r3",
       "description": "Truly universal online file converter",
-      "stars": 1094,
+      "stars": 1102,
       "forks": 115,
       "stars_24h": 397,
       "created_at": "2025-12-07T07:40:09+00:00",
@@ -322,15 +322,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 9,
-      "open_issues": 69
+      "watchers": 8,
+      "open_issues": 68
     },
     {
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 206831,
-      "forks": 37869,
+      "stars": 206866,
+      "forks": 37874,
       "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -350,8 +350,8 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1119,
-      "open_issues": 7423
+      "watchers": 1120,
+      "open_issues": 7437
     },
     {
       "name": "hummingbot/hummingbot",
@@ -394,7 +394,7 @@
       "name": "AstrBotDevs/AstrBot",
       "owner": "AstrBotDevs",
       "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 16554,
+      "stars": 16556,
       "forks": 1301,
       "stars_24h": 385,
       "created_at": "2022-12-08T13:27:46+00:00",
