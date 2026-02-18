@@ -338,12 +338,12 @@ export default function App() {
           </div>
         )}
 
-        {/* Content: 三栏布局 */}
+        {/* Content: 两栏布局 */}
         {data && !loading && (
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-4">
 
-            {/* 左栏：晨报速览 */}
-            <div className="lg:col-span-4">
+            {/* 左栏：晨报速览 + AI热点 + 聚类 */}
+            <div className="lg:col-span-5 space-y-4">
               <div className="bg-white rounded-xl border border-gray-100 overflow-hidden">
                 <div className="px-4 py-2.5 border-b border-gray-50 flex items-center justify-between">
                   <h2 className="text-sm font-bold text-gray-800">晨报速览</h2>
@@ -355,10 +355,7 @@ export default function App() {
                   ))}
                 </div>
               </div>
-            </div>
 
-            {/* 中栏：AI 热点 + 聚类 */}
-            <div className="lg:col-span-4 space-y-4">
               {/* AI 热点 */}
               {data.top_tweets.length > 0 && (
                 <div className="bg-white rounded-xl border border-gray-100 overflow-hidden">
@@ -390,7 +387,7 @@ export default function App() {
             </div>
 
             {/* 右栏：GitHub Trending + 涨星排行榜 */}
-            <div className="lg:col-span-4 space-y-4">
+            <div className="lg:col-span-7 space-y-4">
               {(data.github_trending.length > 0 || data.github_new.length > 0) && (
                 <div className="bg-white rounded-xl border border-gray-100 overflow-hidden">
                   <div className="px-4 py-2.5 border-b border-gray-50 flex items-center justify-between">
