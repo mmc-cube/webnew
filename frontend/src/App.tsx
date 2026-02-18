@@ -4,9 +4,9 @@ import {
   Zap, GitBranch, Globe, Star, ArrowUp, ExternalLink,
   ChevronLeft, ChevronRight, Loader2, AlertCircle,
   Flame, MessageSquare, Heart, Bookmark, Repeat2,
-  TrendingUp, Clock,
+  TrendingUp, Clock, Trophy,
 } from 'lucide-react'
-import type { BriefItem, Tweet, Repo, EventCluster } from './types'
+import type { BriefItem, Tweet, Repo, EventCluster, LeaderboardEntry, LeaderboardPeriod } from './types'
 
 // ========== 分类图标 & 颜色 ==========
 const categoryConfig = {
@@ -14,6 +14,17 @@ const categoryConfig = {
   github: { icon: GitBranch, color: 'text-purple-500', bg: 'bg-purple-50', label: 'GitHub' },
   web3: { icon: Globe, color: 'text-green-500', bg: 'bg-green-50', label: 'Web3' },
 }
+
+// ========== 排行榜周期配置 ==========
+const PERIOD_TABS: { key: LeaderboardPeriod; label: string }[] = [
+  { key: 'daily', label: '日榜' },
+  { key: 'weekly', label: '周榜' },
+  { key: 'monthly', label: '月榜' },
+  { key: '3month', label: '3月榜' },
+  { key: '6month', label: '6月榜' },
+  { key: '9month', label: '9月榜' },
+  { key: 'yearly', label: '年榜' },
+]
 
 // ========== 晨报条目 ==========
 function BriefRow({ item, index }: { item: BriefItem; index: number }) {
@@ -158,6 +169,97 @@ function ClusterTag({ cluster }: { cluster: EventCluster }) {
   )
 }
 
+// ========== 排行榜条目 ==========
+function LeaderboardRow({ entry, index }: { entry: LeaderboardEntry; index: number }) {
+  const medalColors = ['text-yellow-500', 'text-gray-400', 'text-amber-600']
+  return (
+    <div className="flex items-center gap-3 py-2 px-3 rounded-lg hover:bg-gray-50 transition-colors">
+      <span className={`flex-shrink-0 w-5 h-5 rounded-full ${index < 3 ? 'bg-yellow-50' : 'bg-gray-50'} text-[11px] font-bold ${index < 3 ? medalColors[index] : 'text-gray-400'} flex items-center justify-center`}>
+        {index + 1}
+      </span>
+      <div className="flex-1 min-w-0">
+        <a href={`https://github.com/${entry.name}`} target="_blank" rel="noreferrer"
+          className="text-sm font-medium text-blue-600 hover:underline truncate block">
+          {entry.name}
+        </a>
+        <div className="flex items-center gap-3 mt-0.5 text-[11px] text-gray-400">
+          <span className="flex items-center gap-0.5"><Star size={10} className="text-yellow-400" />{entry.stars.toLocaleString()}</span>
+          <span className="flex items-center gap-0.5 text-green-500 font-medium"><ArrowUp size={10} />+{entry.growth.toLocaleString()}</span>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+// ========== 排行榜面板 ==========
+function LeaderboardPanel({ leaderboards }: { leaderboards: Partial<Record<LeaderboardPeriod, LeaderboardEntry[]>> }) {
+  const [activePeriod, setActivePeriod] = useState<LeaderboardPeriod>('daily')
+  const entries = leaderboards[activePeriod] || []
+
+  // 找出有数据的 tab
+  const availableTabs = PERIOD_TABS.filter(t => {
+    const list = leaderboards[t.key]
+    return list && list.length > 0
+  })
+
+  if (availableTabs.length === 0) {
+    return (
+      <div className="bg-white rounded-xl border border-gray-100 overflow-hidden">
+        <div className="px-4 py-2.5 border-b border-gray-50 flex items-center gap-2">
+          <Trophy size={14} className="text-yellow-500" />
+          <h2 className="text-sm font-bold text-gray-800">涨星排行榜</h2>
+        </div>
+        <div className="p-6 text-center text-xs text-gray-400">
+          数据积累中，排行榜将在采集数据后逐步生成
+        </div>
+      </div>
+    )
+  }
+
+  return (
+    <div className="bg-white rounded-xl border border-gray-100 overflow-hidden">
+      <div className="px-4 py-2.5 border-b border-gray-50 flex items-center gap-2">
+        <Trophy size={14} className="text-yellow-500" />
+        <h2 className="text-sm font-bold text-gray-800">涨星排行榜</h2>
+      </div>
+      {/* Tab 切换 */}
+      <div className="px-3 pt-2 pb-1 flex gap-1 flex-wrap">
+        {PERIOD_TABS.map(tab => {
+          const hasData = leaderboards[tab.key] && leaderboards[tab.key]!.length > 0
+          return (
+            <button
+              key={tab.key}
+              onClick={() => setActivePeriod(tab.key)}
+              className={`px-2.5 py-1 rounded-full text-xs font-medium transition-colors ${
+                activePeriod === tab.key
+                  ? 'bg-blue-500 text-white'
+                  : hasData
+                    ? 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                    : 'bg-gray-50 text-gray-300 cursor-not-allowed'
+              }`}
+              disabled={!hasData}
+            >
+              {tab.label}
+            </button>
+          )
+        })}
+      </div>
+      {/* 排行列表 */}
+      <div className="divide-y divide-gray-50">
+        {entries.length > 0 ? (
+          entries.map((entry, i) => (
+            <LeaderboardRow key={entry.name} entry={entry} index={i} />
+          ))
+        ) : (
+          <div className="p-4 text-center text-xs text-gray-400">
+            该周期暂无数据，需积累更多天数
+          </div>
+        )}
+      </div>
+    </div>
+  )
+}
+
 // ========== 主应用 ==========
 export default function App() {
   const [selectedDate, setSelectedDate] = useState(new Date().toISOString().slice(0, 10))
@@ -271,8 +373,8 @@ export default function App() {
               )}
             </div>
 
-            {/* 右栏：GitHub Trending */}
-            <div className="lg:col-span-4">
+            {/* 右栏：GitHub Trending + 涨星排行榜 */}
+            <div className="lg:col-span-4 space-y-4">
               {(data.github_trending.length > 0 || data.github_new.length > 0) && (
                 <div className="bg-white rounded-xl border border-gray-100 overflow-hidden">
                   <div className="px-4 py-2.5 border-b border-gray-50 flex items-center justify-between">
@@ -285,6 +387,11 @@ export default function App() {
                     ))}
                   </div>
                 </div>
+              )}
+
+              {/* 涨星排行榜 */}
+              {data.leaderboards && (
+                <LeaderboardPanel leaderboards={data.leaderboards} />
               )}
             </div>
 

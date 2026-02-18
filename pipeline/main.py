@@ -28,6 +28,7 @@ from pipeline.processors.clusterer import Clusterer
 from pipeline.processors.ranker import Ranker
 from pipeline.generators.brief import BriefGenerator
 from pipeline.generators.daily_json import DailyJsonGenerator
+from pipeline.processors.star_tracker import StarTracker
 
 logging.basicConfig(
     level=logging.INFO,
@@ -94,6 +95,17 @@ async def run_pipeline():
 
     logger.info(f"Normalized: {len(repos_trending)} trending repos, {len(repos_new)} new repos")
 
+    # ===== 阶段 2.5：更新星数历史 & 生成排行榜 =====
+    logger.info("Phase 2.5: Updating star history & generating leaderboards...")
+    star_tracker = StarTracker(data_dir=config.data_dir)
+    all_repos_raw = github_raw.get("trending", []) + github_raw.get("new", [])
+    star_tracker.update(all_repos_raw, date_str)
+    star_tracker.cleanup_old()
+    star_tracker.save()
+    leaderboards = star_tracker.generate_leaderboards(top_n=20, today=date_str)
+    for period, entries in leaderboards.items():
+        logger.info(f"  Leaderboard [{period}]: {len(entries)} repos")
+
     # ===== 阶段 3：生成晨报 =====
     logger.info("Phase 3: Generating brief...")
     brief_gen = BriefGenerator(config.dashscope_api_key)
@@ -114,6 +126,7 @@ async def run_pipeline():
         markets=markets,
         meta=meta,
         output_dir=config.output_dir,
+        leaderboards=leaderboards,
     )
 
     logger.info(f"Output: {output_path}")

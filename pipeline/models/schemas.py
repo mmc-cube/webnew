@@ -85,6 +85,13 @@ class BriefItem:
 
 
 @dataclass
+class LeaderboardEntry:
+    name: str       # owner/repo
+    stars: int      # 当前星数
+    growth: int     # 周期内涨星数
+
+
+@dataclass
 class DailyOutput:
     date: str
     generated_at: str
@@ -95,4 +102,5 @@ class DailyOutput:
     clusters: list[EventCluster]
     quests: list[Quest]
     markets: list[MarketSignal]
+    leaderboards: dict = field(default_factory=dict)  # {"daily": [...], "weekly": [...], ...}
     meta: dict = field(default_factory=dict)

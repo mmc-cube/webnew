@@ -71,6 +71,14 @@ export interface BriefItem {
   category: 'ai' | 'github' | 'web3'
 }
 
+export interface LeaderboardEntry {
+  name: string
+  stars: number
+  growth: number
+}
+
+export type LeaderboardPeriod = 'daily' | 'weekly' | 'monthly' | '3month' | '6month' | '9month' | 'yearly'
+
 export interface DailyData {
   date: string
   generated_at: string
@@ -81,6 +89,7 @@ export interface DailyData {
   clusters: EventCluster[]
   quests: Quest[]
   markets: MarketSignal[]
+  leaderboards?: Partial<Record<LeaderboardPeriod, LeaderboardEntry[]>>
   meta: {
     degraded?: boolean
     degraded_modules?: string[]

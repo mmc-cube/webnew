@@ -80,7 +80,7 @@ jobs:
       - name: Cleanup old data (> 30 days)
         run: |
           set -e
-          find data/ -name "*.json" -mtime +30 -delete 2>/dev/null || true
+          find data/ -name "*.json" -mtime +30 ! -name "star_history.json" -delete 2>/dev/null || true
           find frontend/public/data/ -name "*.json" -mtime +30 ! -name "latest.json" -delete 2>/dev/null || true
 
           git add -A

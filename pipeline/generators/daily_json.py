@@ -24,6 +24,7 @@ class DailyJsonGenerator:
         markets: list[MarketSignal],
         meta: dict,
         output_dir: str = "output",
+        leaderboards: dict | None = None,
     ) -> str:
         output = DailyOutput(
             date=date,
@@ -35,6 +36,7 @@ class DailyJsonGenerator:
             clusters=clusters,
             quests=quests,
             markets=markets,
+            leaderboards=leaderboards or {},
             meta=meta,
         )
 
