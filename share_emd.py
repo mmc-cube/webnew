@@ -123,9 +123,24 @@ def build_raw_text(sheets: dict) -> str:
 # Qwen 润色
 # =============================
 
-def qwen_polish(text: str) -> str:
+# 两个账号的风格配置：同一账号内可以相似，不同账号之间要有明显差异
+ACCOUNT_STYLES = [
+    {
+        "system": "你是闲鱼SEO获客文案助手。你的风格偏技术实干派，语气像一个做硬件的工程师在发帖，简洁直接，少废话。",
+        "extra_rule": "风格要求：像技术人员自己发帖，语气简洁干练，多用短句，直接说能做什么、怎么交付。不要抒情，不要铺垫太多。",
+    },
+    {
+        "system": "你是闲鱼SEO获客文案助手。你的风格偏热心卖家，语气像一个耐心的店主在介绍服务，亲切随和，有问必答的感觉。",
+        "extra_rule": "风格要求：像热心店主在介绍自己的服务，语气亲切随和，可以用一些口语化表达（比如'聊聊需求''都可以做'），让人感觉好沟通。",
+    },
+]
+
+
+def qwen_polish(text: str, style_index: int = 0) -> str:
     if not QWEN_API_KEY:
         return text
+
+    style = ACCOUNT_STYLES[style_index % len(ACCOUNT_STYLES)]
 
     url = f"{QWEN_BASE_URL}/chat/completions"
     headers = {
@@ -150,7 +165,8 @@ def qwen_polish(text: str) -> str:
         '5) 禁止夸张词（轻松搞定/从0到1/完美/秒出/全网最低）和强营销口号（限时/速来/赶紧下单）。\n'
         '6) 保留一句自然的私信引导（如"有需要可以私信聊"）。\n'
         '7) 不要使用小标题（如【交付内容】），用自然段。\n'
-        '8) 字数控制在 220~320 字。\n\n'
+        '8) 字数控制在 220~320 字。\n'
+        f'9) {style["extra_rule"]}\n\n'
         '把下面文本润色后输出（只输出润色后的最终文案）：\n\n'
         f'<<<\n{text}\n>>>'
     )
@@ -158,7 +174,7 @@ def qwen_polish(text: str) -> str:
     payload = {
         "model": QWEN_MODEL,
         "messages": [
-            {"role": "system", "content": "你是闲鱼SEO获客文案助手，擅长把搜索关键词自然嵌入文案，风格朴实像真人发帖。"},
+            {"role": "system", "content": style["system"]},
             {"role": "user", "content": user_prompt}
         ],
         "temperature": 0.7
@@ -189,20 +205,24 @@ def telegram_send_text(msg: str):
 # =============================
 
 def run_batch(count: int = 4):
-    """生成 count 条文案，带编号发送，最后发日期汇报"""
+    """生成 count 条文案，带编号发送，最后发日期汇报。
+    前半用风格A（技术实干派），后半用风格B（热心卖家），两个账号有明显差异。
+    """
     sheets = load_sheets(XLSX_PATH)
+    half = count // 2  # 前 half 条 = 账号A，后面 = 账号B
 
     success = 0
     for i in range(1, count + 1):
         try:
             raw = build_raw_text(sheets)
-            final = qwen_polish(raw) if QWEN_API_KEY else raw
+            style_index = 0 if i <= half else 1
+            style_label = "A" if i <= half else "B"
+            final = qwen_polish(raw, style_index) if QWEN_API_KEY else raw
 
-            # 加编号前缀
-            numbered = f"【{i}/{count}】\n\n{final}"
+            numbered = f"【账号{style_label} - {i}/{count}】\n\n{final}"
             telegram_send_text(numbered)
             success += 1
-            print(f"[{i}/{count}] 已发送")
+            print(f"[{i}/{count}] 账号{style_label} 已发送")
         except Exception as e:
             print(f"[{i}/{count}] 失败: {e}")
 
