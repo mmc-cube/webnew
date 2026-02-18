@@ -1,47 +1,47 @@
 {
-  "p-e-w/heretic": {
-    "2026-02-17": 7562
-  },
-  "seerr-team/seerr": {
-    "2026-02-17": 9408
-  },
-  "obra/superpowers": {
-    "2026-02-17": 53911
-  },
-  "steipete/gogcli": {
-    "2026-02-17": 3987
-  },
   "alibaba/zvec": {
-    "2026-02-17": 4658
+    "2026-02-17": 4668
   },
-  "openclaw/openclaw": {
-    "2026-02-17": 206736
-  },
-  "SynkraAI/aios-core": {
-    "2026-02-17": 1264
-  },
-  "ashishps1/awesome-system-design-resources": {
-    "2026-02-17": 32967
-  },
-  "steipete/summarize": {
-    "2026-02-17": 3582
-  },
-  "hummingbot/hummingbot": {
-    "2026-02-17": 17203
-  },
-  "anthropics/claude-quickstarts": {
-    "2026-02-17": 14610
-  },
-  "davila7/claude-code-templates": {
-    "2026-02-17": 20819
+  "p-e-w/heretic": {
+    "2026-02-17": 7582
   },
   "OpenCTI-Platform/opencti": {
-    "2026-02-17": 8509
+    "2026-02-17": 8517
   },
-  "ruvnet/wifi-densepose": {
-    "2026-02-17": 6967
+  "QwenLM/qwen-code": {
+    "2026-02-17": 18601
   },
-  "GH05TCREW/pentestagent": {
-    "2026-02-17": 1603
+  "NirDiamant/RAG_Techniques": {
+    "2026-02-17": 24991
+  },
+  "harvard-edge/cs249r_book": {
+    "2026-02-17": 19249
+  },
+  "obra/superpowers": {
+    "2026-02-17": 53934
+  },
+  "HailToDodongo/pyrite64": {
+    "2026-02-17": 869
+  },
+  "ComposioHQ/composio": {
+    "2026-02-17": 26612
+  },
+  "p2r3/convert": {
+    "2026-02-17": 1094
+  },
+  "openclaw/openclaw": {
+    "2026-02-17": 206831
+  },
+  "hummingbot/hummingbot": {
+    "2026-02-17": 17213
+  },
+  "AstrBotDevs/AstrBot": {
+    "2026-02-17": 16554
+  },
+  "mistralai/mistral-vibe": {
+    "2026-02-17": 3126
+  },
+  "NVIDIA-NeMo/Automodel": {
+    "2026-02-17": 318
   }
 }

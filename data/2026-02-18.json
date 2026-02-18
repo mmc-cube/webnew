@@ -1,44 +1,60 @@
 {
   "date": "2026-02-17",
-  "generated_at": "2026-02-18T10:12:51.180207",
+  "generated_at": "2026-02-18T10:49:19.045194",
   "brief": [
     {
-      "conclusion": "阿里云发布轻量级向量数据库zvec，旨在提供更快的数据检索速度。",
-      "why_hot": "向量数据库是AI应用中的关键组件，提高查询效率意味着更广泛的应用场景。",
+      "conclusion": "阿里巴巴发布轻量级向量数据库zvec，加速AI应用开发。",
+      "why_hot": "为开发者提供高效的数据处理解决方案，降低AI应用构建门槛。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "SynkraAI推出了新的AIOS核心框架，为全栈开发引入了AI编排系统。",
-      "why_hot": "这标志着AI技术在软件开发自动化领域的进一步深入。",
+      "conclusion": "QwenLM团队推出终端AI助手qwen-code，进一步简化代码生成流程。",
+      "why_hot": "将AI技术与日常开发环境紧密结合，提升程序员工作效率。",
       "evidence_urls": [
-        "https://github.com/SynkraAI/aios-core"
+        "https://github.com/QwenLM/qwen-code"
       ],
       "category": "ai"
     },
     {
-      "conclusion": "p-e-w/heretic项目提供了全自动的语言模型审查移除工具，受到广泛关注。",
-      "why_hot": "随着对内容审查的讨论增加，此类工具对于维护言论自由至关重要。",
+      "conclusion": "P-E-W发布了自动去除语言模型审查的工具heretic，引发广泛关注。",
+      "why_hot": "该工具可能改变内容审核方式，影响信息自由度。",
       "evidence_urls": [
         "https://github.com/p-e-w/heretic"
       ],
       "category": "github"
     },
     {
-      "conclusion": "obra/superpowers项目提出了一种新的技能框架与软件开发方法论。",
-      "why_hot": "该项目可能革新现有的团队协作方式及个人生产力工具。",
+      "conclusion": "NirDiamant分享了RAG_Techniques仓库，展示了多种检索增强生成技术。",
+      "why_hot": "为理解和改进LLM提供了新的视角和技术路径。",
       "evidence_urls": [
-        "https://github.com/obra/superpowers"
+        "https://github.com/NirDiamant/RAG_Techniques"
       ],
       "category": "github"
     },
     {
-      "conclusion": "Galxe平台上ECOR活动通过简单参与即可获得高达1000美元奖励。",
-      "why_hot": "此类低门槛高回报的Web3活动有助于吸引更多用户加入区块链生态。",
+      "conclusion": "Harvard大学公开了cs249r_book课程资料，聚焦机器学习系统。",
+      "why_hot": "教育资源开放促进了人工智能教育领域的发展。",
       "evidence_urls": [
-        "https://galxe.com/"
+        "https://github.com/harvard-edge/cs249r_book"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "Galxe平台上的ECOR活动吸引了大量用户参与，奖励丰厚。",
+      "why_hot": "Web3社区通过此类激励机制有效增加了用户粘性。",
+      "evidence_urls": [
+        "https://galxe.com/ECOR/campaign/GCn5bF6"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "UniMex发起关注即得UNX代币活动，鼓励更多人加入其生态系统。",
+      "why_hot": "这种直接奖励机制有助于快速扩大项目影响力。",
+      "evidence_urls": [
+        "https://galxe.com/UniMexX/campaign/GCwGJYK"
       ],
       "category": "web3"
     }
@@ -46,112 +62,10 @@
   "top_tweets": [],
   "github_trending": [
     {
-      "name": "p-e-w/heretic",
-      "owner": "p-e-w",
-      "description": "Fully automatic censorship removal for language models",
-      "stars": 7562,
-      "forks": 772,
-      "stars_24h": 656,
-      "created_at": "2025-09-21T05:46:16+00:00",
-      "language": "Python",
-      "topics": [
-        "abliteration",
-        "llm",
-        "transformer"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 36,
-      "open_issues": 62
-    },
-    {
-      "name": "seerr-team/seerr",
-      "owner": "seerr-team",
-      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9408,
-      "forks": 616,
-      "stars_24h": 282,
-      "created_at": "2022-03-09T09:18:22+00:00",
-      "language": "TypeScript",
-      "topics": [
-        "docker",
-        "emby",
-        "jellyfin",
-        "movie",
-        "notifications",
-        "nzb",
-        "plex",
-        "radarr",
-        "sonarr",
-        "tv"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 41,
-      "open_issues": 328
-    },
-    {
-      "name": "obra/superpowers",
-      "owner": "obra",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53911,
-      "forks": 4091,
-      "stars_24h": 569,
-      "created_at": "2025-10-09T19:45:18+00:00",
-      "language": "Shell",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 304,
-      "open_issues": 152
-    },
-    {
-      "name": "steipete/gogcli",
-      "owner": "steipete",
-      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3987,
-      "forks": 324,
-      "stars_24h": 469,
-      "created_at": "2025-12-12T12:36:45+00:00",
-      "language": "Go",
-      "topics": [
-        "gcal",
-        "gcontacts",
-        "gdrive",
-        "gmail",
-        "google"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 23,
-      "open_issues": 124
-    },
-    {
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4658,
+      "stars": 4668,
       "forks": 254,
       "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
@@ -174,11 +88,249 @@
       "open_issues": 47
     },
     {
+      "name": "p-e-w/heretic",
+      "owner": "p-e-w",
+      "description": "Fully automatic censorship removal for language models",
+      "stars": 7582,
+      "forks": 774,
+      "stars_24h": 656,
+      "created_at": "2025-09-21T05:46:16+00:00",
+      "language": "Python",
+      "topics": [
+        "abliteration",
+        "llm",
+        "transformer"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 36,
+      "open_issues": 62
+    },
+    {
+      "name": "OpenCTI-Platform/opencti",
+      "owner": "OpenCTI-Platform",
+      "description": "Open Cyber Threat Intelligence Platform",
+      "stars": 8517,
+      "forks": 1232,
+      "stars_24h": 16,
+      "created_at": "2018-12-17T22:57:34+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "cti",
+        "cyber",
+        "cybersecurity",
+        "intelligence",
+        "osint",
+        "security",
+        "threat-intelligence"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 147,
+      "open_issues": 1753
+    },
+    {
+      "name": "QwenLM/qwen-code",
+      "owner": "QwenLM",
+      "description": "An open-source AI agent that lives in your terminal.",
+      "stars": 18601,
+      "forks": 1631,
+      "stars_24h": 82,
+      "created_at": "2025-06-26T01:37:46+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 107,
+      "open_issues": 531
+    },
+    {
+      "name": "NirDiamant/RAG_Techniques",
+      "owner": "NirDiamant",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+      "stars": 24991,
+      "forks": 2949,
+      "stars_24h": 280,
+      "created_at": "2024-07-13T16:08:36+00:00",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "ai",
+        "langchain",
+        "llama-index",
+        "llm",
+        "llms",
+        "opeani",
+        "python",
+        "rag",
+        "tutorials"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "eval",
+        "RAG"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 243,
+      "open_issues": 20
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "owner": "harvard-edge",
+      "description": "Introduction to Machine Learning Systems",
+      "stars": 19249,
+      "forks": 2265,
+      "stars_24h": 374,
+      "created_at": "2023-09-06T19:31:06+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "artificial-intelligence",
+        "cloud-ml",
+        "computer-systems",
+        "courseware",
+        "deep-learning",
+        "edge-machine-learning",
+        "embedded-ml",
+        "machine-learning",
+        "machine-learning-systems",
+        "mobile-ml",
+        "textbook",
+        "tinyml"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 156,
+      "open_issues": 33
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 53934,
+      "forks": 4092,
+      "stars_24h": 569,
+      "created_at": "2025-10-09T19:45:18+00:00",
+      "language": "Shell",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 304,
+      "open_issues": 152
+    },
+    {
+      "name": "HailToDodongo/pyrite64",
+      "owner": "HailToDodongo",
+      "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+      "stars": 869,
+      "forks": 33,
+      "stars_24h": 407,
+      "created_at": "2025-09-23T20:07:13+00:00",
+      "language": "C++",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "RAG"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 21,
+      "open_issues": 29
+    },
+    {
+      "name": "ComposioHQ/composio",
+      "owner": "ComposioHQ",
+      "description": "Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling",
+      "stars": 26612,
+      "forks": 4416,
+      "stars_24h": 14,
+      "created_at": "2024-02-23T13:58:27+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "aiagents",
+        "developer-tools",
+        "function-calling",
+        "gpt-4",
+        "javascript",
+        "js",
+        "llm",
+        "llmops",
+        "mcp",
+        "python",
+        "remote-mcp-server",
+        "sse",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 61,
+      "open_issues": 46
+    },
+    {
+      "name": "p2r3/convert",
+      "owner": "p2r3",
+      "description": "Truly universal online file converter",
+      "stars": 1094,
+      "forks": 115,
+      "stars_24h": 397,
+      "created_at": "2025-12-07T07:40:09+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 9,
+      "open_issues": 69
+    },
+    {
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 206736,
-      "forks": 37841,
+      "stars": 206831,
+      "forks": 37869,
       "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -198,106 +350,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1121,
-      "open_issues": 7405
-    },
-    {
-      "name": "SynkraAI/aios-core",
-      "owner": "SynkraAI",
-      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1264,
-      "forks": 419,
-      "stars_24h": 194,
-      "created_at": "2025-12-09T15:19:10+00:00",
-      "language": "JavaScript",
-      "topics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "automation",
-        "claude",
-        "cli",
-        "development",
-        "framework",
-        "fullstack",
-        "nodejs",
-        "orchestration",
-        "typescript"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "workflow",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 51,
-      "open_issues": 27
-    },
-    {
-      "name": "ashishps1/awesome-system-design-resources",
-      "owner": "ashishps1",
-      "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "stars": 32967,
-      "forks": 7308,
-      "stars_24h": 510,
-      "created_at": "2023-10-25T01:50:42+00:00",
-      "language": "Java",
-      "topics": [
-        "awesome",
-        "backend",
-        "computer-science",
-        "distributed-systems",
-        "high-level-design",
-        "hld",
-        "interview",
-        "interview-questions",
-        "scalability",
-        "system-design"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 404,
-      "open_issues": 8
-    },
-    {
-      "name": "steipete/summarize",
-      "owner": "steipete",
-      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "stars": 3582,
-      "forks": 225,
-      "stars_24h": 119,
-      "created_at": "2025-12-17T12:19:51+00:00",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "cli",
-        "summarize",
-        "typescript"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 13,
-      "open_issues": 27
+      "watchers": 1119,
+      "open_issues": 7423
     },
     {
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 17203,
-      "forks": 4427,
+      "stars": 17213,
+      "forks": 4429,
       "stars_24h": 568,
       "created_at": "2019-04-02T21:41:52+00:00",
       "language": "Python",
@@ -326,139 +387,107 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 194,
+      "watchers": 195,
       "open_issues": 335
     },
     {
-      "name": "anthropics/claude-quickstarts",
-      "owner": "anthropics",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14610,
-      "forks": 2432,
-      "stars_24h": 87,
-      "created_at": "2024-08-29T19:52:32+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 135,
-      "open_issues": 143
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "owner": "davila7",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 20819,
-      "forks": 1941,
-      "stars_24h": 111,
-      "created_at": "2025-07-04T01:26:26+00:00",
+      "name": "AstrBotDevs/AstrBot",
+      "owner": "AstrBotDevs",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 16554,
+      "forks": 1301,
+      "stars_24h": 385,
+      "created_at": "2022-12-08T13:27:46+00:00",
       "language": "Python",
       "topics": [
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-code"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 142,
-      "open_issues": 95
-    },
-    {
-      "name": "OpenCTI-Platform/opencti",
-      "owner": "OpenCTI-Platform",
-      "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8509,
-      "forks": 1231,
-      "stars_24h": 16,
-      "created_at": "2018-12-17T22:57:34+00:00",
-      "language": "TypeScript",
-      "topics": [
-        "cti",
-        "cyber",
-        "cybersecurity",
-        "intelligence",
-        "osint",
-        "security",
-        "threat-intelligence"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 147,
-      "open_issues": 1752
-    },
-    {
-      "name": "ruvnet/wifi-densepose",
-      "owner": "ruvnet",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6967,
-      "forks": 604,
-      "stars_24h": 258,
-      "created_at": "2025-06-07T04:32:30+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 46,
-      "open_issues": 9
-    },
-    {
-      "name": "GH05TCREW/pentestagent",
-      "owner": "GH05TCREW",
-      "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
-      "stars": 1603,
-      "forks": 354,
-      "stars_24h": 18,
-      "created_at": "2025-05-15T22:28:38+00:00",
-      "language": "Python",
-      "topics": [
+        "agent",
         "ai",
-        "ai-agents",
-        "ai-assistant",
-        "ai-cybersecurity",
-        "ai-hacking",
-        "ai-security-tool",
-        "blackbox-testing",
-        "ctf-tools",
-        "knowledge-graph",
+        "chatbot",
+        "chatgpt",
+        "docker",
+        "gemini",
+        "gpt",
+        "llama",
         "llm",
-        "mcp-tools",
-        "penetration-testing",
-        "pentesting-tools",
-        "red-teaming",
-        "security-automation"
+        "mcp",
+        "openai",
+        "python",
+        "qq",
+        "qqbot",
+        "qqchannel",
+        "telegram"
       ],
       "readme_summary": "",
       "relevance_tags": [
         "coding agent",
-        "workflow",
         "tooling"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 19,
-      "open_issues": 7
+      "watchers": 56,
+      "open_issues": 445
+    },
+    {
+      "name": "mistralai/mistral-vibe",
+      "owner": "mistralai",
+      "description": "Minimal CLI coding agent by Mistral",
+      "stars": 3126,
+      "forks": 316,
+      "stars_24h": 15,
+      "created_at": "2025-12-08T18:56:59+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 11,
+      "open_issues": 111
+    },
+    {
+      "name": "NVIDIA-NeMo/Automodel",
+      "owner": "NVIDIA-NeMo",
+      "description": "Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support",
+      "stars": 318,
+      "forks": 69,
+      "stars_24h": 5,
+      "created_at": "2025-05-21T21:45:47+00:00",
+      "language": "Python",
+      "topics": [
+        "deepseek-v3-2",
+        "finetuning",
+        "gemma3",
+        "gemma3n",
+        "glm",
+        "gpt-oss",
+        "huggingface",
+        "kimi-k2",
+        "llama",
+        "llama3",
+        "llm",
+        "minimax-m2",
+        "mistral",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "qwen3-next",
+        "stepfun",
+        "vlm"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 7,
+      "open_issues": 193
     }
   ],
   "github_new": [],
