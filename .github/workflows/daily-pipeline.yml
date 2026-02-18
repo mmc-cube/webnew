@@ -40,7 +40,6 @@ jobs:
         env:
           DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TWITTER_SCRAPER_KEY: ${{ secrets.TWITTER_SCRAPER_KEY }}
           OUTPUT_DIR: output
           DATA_DIR: data
         run: python -m pipeline.main

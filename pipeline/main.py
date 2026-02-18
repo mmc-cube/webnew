@@ -20,7 +20,6 @@ load_dotenv(real_env if real_env.exists() else env_path)
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from pipeline.config import Config
-from pipeline.collectors.twitter import TwitterCollector
 from pipeline.collectors.github_trending import GitHubCollector
 from pipeline.collectors.web3 import Web3Collector
 from pipeline.processors.normalizer import Normalizer
@@ -56,22 +55,16 @@ async def run_pipeline():
     logger.info("=" * 50)
 
     logger.info("Phase 1: Collecting data...")
-    twitter_col = TwitterCollector(config)
     github_col = GitHubCollector(config)
     web3_col = Web3Collector(config)
 
-    twitter_raw, github_raw, web3_raw = await asyncio.gather(
-        twitter_col.collect(date_range=date_range),
+    github_raw, web3_raw = await asyncio.gather(
         github_col.collect(),
         web3_col.collect(),
         return_exceptions=True,
     )
 
     # 处理采集失败
-    if isinstance(twitter_raw, Exception):
-        logger.error(f"Twitter collection failed: {twitter_raw}")
-        twitter_raw = []
-        meta["degraded_modules"].append("twitter")
     if isinstance(github_raw, Exception):
         logger.error(f"GitHub collection failed: {github_raw}")
         github_raw = {"trending": [], "new": []}
@@ -86,7 +79,7 @@ async def run_pipeline():
         meta["message"] = f"部分数据源受限: {', '.join(meta['degraded_modules'])}"
 
     logger.info(
-        f"Collected: {len(twitter_raw)} tweets, "
+        f"Collected: "
         f"{len(github_raw.get('trending', []))} trending repos, "
         f"{len(web3_raw.get('quests', []))} quests"
     )
@@ -94,51 +87,29 @@ async def run_pipeline():
     # ===== 阶段 2：标准化 =====
     logger.info("Phase 2: Normalizing...")
     normalizer = Normalizer()
-    tweets = normalizer.normalize_tweets(twitter_raw)
     repos_trending = normalizer.normalize_repos(github_raw.get("trending", []))
     repos_new = normalizer.normalize_repos(github_raw.get("new", []))
     quests = normalizer.normalize_quests(web3_raw.get("quests", []))
     markets = normalizer.normalize_markets(web3_raw.get("markets", []))
 
-    logger.info(f"Normalized: {len(tweets)} tweets, {len(repos_trending)} repos")
+    logger.info(f"Normalized: {len(repos_trending)} trending repos, {len(repos_new)} new repos")
 
-    # ===== 阶段 3：去重 + 聚类 =====
-    logger.info("Phase 3: Dedup + Clustering...")
-    dedup = Deduplicator()
-    tweets = dedup.dedup(tweets)
-    logger.info(f"After dedup: {len(tweets)} tweets")
-
-    clusterer = Clusterer()
-    clusters = clusterer.cluster_events(tweets)
-    logger.info(f"Clusters: {len(clusters)}")
-
-    # ===== 阶段 4：排序 =====
-    logger.info("Phase 4: Ranking...")
-    ranker = Ranker(
-        w_spread=config.w_spread,
-        w_discuss=config.w_discuss,
-        w_dev=config.w_dev,
-        w_ad_penalty=config.w_ad_penalty,
-    )
-    top_tweets = ranker.rank_tweets(tweets, clusters)
-    logger.info(f"Top tweets: {len(top_tweets)}")
-
-    # ===== 阶段 5：生成晨报 =====
-    logger.info("Phase 5: Generating brief...")
+    # ===== 阶段 3：生成晨报 =====
+    logger.info("Phase 3: Generating brief...")
     brief_gen = BriefGenerator(config.dashscope_api_key)
-    brief = brief_gen.generate(clusters, top_tweets, repos_trending, quests)
+    brief = brief_gen.generate([], [], repos_trending, quests)
     logger.info(f"Brief items: {len(brief)}")
 
     # ===== 输出 =====
-    logger.info("Phase 6: Generating daily.json...")
+    logger.info("Phase 4: Generating daily.json...")
     generator = DailyJsonGenerator()
     output_path = generator.generate(
         date=date_str,
         brief=brief,
-        top_tweets=top_tweets,
+        top_tweets=[],
         github_trending=repos_trending,
         github_new=repos_new,
-        clusters=clusters,
+        clusters=[],
         quests=quests,
         markets=markets,
         meta=meta,
