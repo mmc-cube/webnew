@@ -1,44 +1,52 @@
 {
   "date": "2026-02-17",
-  "generated_at": "2026-02-18T08:05:39.411195",
+  "generated_at": "2026-02-18T08:44:01.971731",
   "brief": [
     {
-      "conclusion": "openclaw/openclaw 24h +4201 stars — Your own personal AI assistant. Any OS. Any Platform. The lo",
-      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 206,407",
-      "evidence_urls": [
-        "https://github.com/openclaw/openclaw"
-      ],
-      "category": "github"
-    },
-    {
-      "conclusion": "alibaba/zvec 24h +1473 stars — A lightweight, lightning-fast, in-process vector database",
-      "why_hot": "新项目爆发，语言: C++，总 stars: 4,616",
+      "conclusion": "阿里云发布了轻量级、超高速的进程内向量数据库zvec，支持快速嵌入式应用。",
+      "why_hot": "为AI和大数据处理提供更高效的数据检索解决方案。",
       "evidence_urls": [
         "https://github.com/alibaba/zvec"
       ],
-      "category": "github"
+      "category": "ai"
     },
     {
-      "conclusion": "p-e-w/heretic 24h +656 stars — Fully automatic censorship removal for language models",
-      "why_hot": "新项目爆发，语言: Python，总 stars: 7,472",
+      "conclusion": "OpenClaw发布了一个跨平台个人AI助手项目，支持多种操作系统与平台。",
+      "why_hot": "标志着个性化AI助手技术向更多用户群体扩展。",
+      "evidence_urls": [
+        "https://github.com/openclaw/openclaw"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "SynkraAI推出了AIOS核心框架，旨在通过AI协调全栈开发流程。",
+      "why_hot": "加速软件开发生命周期并提高开发者生产力。",
+      "evidence_urls": [
+        "https://github.com/SynkraAI/aios-core"
+      ],
+      "category": "ai"
+    },
+    {
+      "conclusion": "P-E-W推出Heretic项目，实现全自动移除语言模型中的审查机制。",
+      "why_hot": "促进了自由表达及信息透明度，在AI伦理讨论中占据重要位置。",
       "evidence_urls": [
         "https://github.com/p-e-w/heretic"
       ],
       "category": "github"
     },
     {
-      "conclusion": "[Galxe] ECOR | Clicked a couple of times — grabbed $1,000（0成本）",
-      "why_hot": "来自 ECOR 的热门活动",
+      "conclusion": "Seerr团队发布了一款开源媒体请求与发现管理工具，适用于Jellyfin, Plex等平台。",
+      "why_hot": "增强了家庭媒体服务器用户的体验。",
       "evidence_urls": [
-        "https://galxe.com/ECOR"
+        "https://github.com/seerr-team/seerr"
       ],
-      "category": "web3"
+      "category": "github"
     },
     {
-      "conclusion": "[Galxe] 🧧 SodaBot Year of the Horse Community Giveaway（0成本）",
-      "why_hot": "来自 SodaBot 的热门活动",
+      "conclusion": "Galxe平台上ECOR活动吸引了大量参与者，仅需点击几次即可获得1000美元奖励。",
+      "why_hot": "展示了Web3领域如何通过简单互动吸引用户参与。",
       "evidence_urls": [
-        "https://galxe.com/SodaBot"
+        "https://galxe.com/ECOR/campaign/GCv5wE"
       ],
       "category": "web3"
     }
@@ -49,8 +57,8 @@
       "name": "p-e-w/heretic",
       "owner": "p-e-w",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 7472,
-      "forks": 764,
+      "stars": 7499,
+      "forks": 767,
       "stars_24h": 656,
       "created_at": "2025-09-21T05:46:16+00:00",
       "language": "Python",
@@ -66,15 +74,15 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 37,
+      "watchers": 36,
       "open_issues": 63
     },
     {
       "name": "seerr-team/seerr",
       "owner": "seerr-team",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "stars": 9384,
-      "forks": 615,
+      "stars": 9390,
+      "forks": 616,
       "stars_24h": 282,
       "created_at": "2022-03-09T09:18:22+00:00",
       "language": "TypeScript",
@@ -104,7 +112,7 @@
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 53831,
+      "stars": 53847,
       "forks": 4088,
       "stars_24h": 569,
       "created_at": "2025-10-09T19:45:18+00:00",
@@ -118,14 +126,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 303,
+      "watchers": 304,
       "open_issues": 152
     },
     {
       "name": "steipete/gogcli",
       "owner": "steipete",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "stars": 3965,
+      "stars": 3969,
       "forks": 324,
       "stars_24h": 469,
       "created_at": "2025-12-12T12:36:45+00:00",
@@ -151,7 +159,7 @@
       "name": "alibaba/zvec",
       "owner": "alibaba",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 4616,
+      "stars": 4629,
       "forks": 254,
       "stars_24h": 1473,
       "created_at": "2025-12-05T07:45:38+00:00",
@@ -177,8 +185,8 @@
       "name": "openclaw/openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 206407,
-      "forks": 37750,
+      "stars": 206505,
+      "forks": 37773,
       "stars_24h": 4201,
       "created_at": "2025-11-24T10:16:47+00:00",
       "language": "TypeScript",
@@ -199,13 +207,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 1117,
-      "open_issues": 7350
+      "open_issues": 7373
     },
     {
       "name": "SynkraAI/aios-core",
       "owner": "SynkraAI",
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "stars": 1253,
+      "stars": 1256,
       "forks": 418,
       "stars_24h": 194,
       "created_at": "2025-12-09T15:19:10+00:00",
@@ -240,7 +248,7 @@
       "name": "ashishps1/awesome-system-design-resources",
       "owner": "ashishps1",
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "stars": 32940,
+      "stars": 32944,
       "forks": 7307,
       "stars_24h": 510,
       "created_at": "2023-10-25T01:50:42+00:00",
@@ -264,14 +272,14 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 403,
+      "watchers": 404,
       "open_issues": 8
     },
     {
       "name": "steipete/summarize",
       "owner": "steipete",
       "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "stars": 3542,
+      "stars": 3555,
       "forks": 225,
       "stars_24h": 119,
       "created_at": "2025-12-17T12:19:51+00:00",
@@ -296,8 +304,8 @@
       "name": "hummingbot/hummingbot",
       "owner": "hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "stars": 17170,
-      "forks": 4423,
+      "stars": 17181,
+      "forks": 4425,
       "stars_24h": 568,
       "created_at": "2019-04-02T21:41:52+00:00",
       "language": "Python",
@@ -333,7 +341,7 @@
       "name": "anthropics/claude-quickstarts",
       "owner": "anthropics",
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 14586,
+      "stars": 14595,
       "forks": 2431,
       "stars_24h": 87,
       "created_at": "2024-08-29T19:52:32+00:00",
@@ -353,7 +361,7 @@
       "name": "davila7/claude-code-templates",
       "owner": "davila7",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 20802,
+      "stars": 20807,
       "forks": 1941,
       "stars_24h": 111,
       "created_at": "2025-07-04T01:26:26+00:00",
@@ -378,7 +386,7 @@
       "name": "OpenCTI-Platform/opencti",
       "owner": "OpenCTI-Platform",
       "description": "Open Cyber Threat Intelligence Platform",
-      "stars": 8486,
+      "stars": 8493,
       "forks": 1231,
       "stars_24h": 16,
       "created_at": "2018-12-17T22:57:34+00:00",
@@ -400,13 +408,13 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 147,
-      "open_issues": 1751
+      "open_issues": 1753
     },
     {
       "name": "ruvnet/wifi-densepose",
       "owner": "ruvnet",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-      "stars": 6965,
+      "stars": 6966,
       "forks": 603,
       "stars_24h": 258,
       "created_at": "2025-06-07T04:32:30+00:00",
@@ -427,7 +435,7 @@
       "owner": "GH05TCREW",
       "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
       "stars": 1602,
-      "forks": 353,
+      "forks": 354,
       "stars_24h": 18,
       "created_at": "2025-05-15T22:28:38+00:00",
       "language": "Python",
@@ -499,14 +507,14 @@
     {
       "title": "Will BV Borussia 09 Dortmund win on 2026-02-17?",
       "summary": "In the upcoming game, scheduled for February 17, 2026\nIf BV Borussia 09 Dortmund wins, this market will resolve to \"Yes\"",
-      "volume": "$11,235,665",
+      "volume": "$11,110,916",
       "odds_change": null,
       "url": "https://polymarket.com/event/ucl-bvb1-ata1-2026-02-17-bvb1"
     },
     {
       "title": "Will Real Madrid CF win on 2026-02-17?",
       "summary": "In the upcoming game, scheduled for February 17, 2026\nIf Real Madrid CF wins, this market will resolve to \"Yes\".\nOtherwi",
-      "volume": "$7,050,028",
+      "volume": "$6,615,331",
       "odds_change": null,
       "url": "https://polymarket.com/event/ucl-ben-rma-2026-02-17-rma"
     }
