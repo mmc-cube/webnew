@@ -22,7 +22,8 @@
   "obra/superpowers": {
     "2026-02-17": 54548,
     "2026-02-18": 55474,
-    "2026-02-19": 56297
+    "2026-02-19": 56297,
+    "2026-02-20": 57088
   },
   "HailToDodongo/pyrite64": {
     "2026-02-17": 1351,
@@ -53,7 +54,8 @@
     "2026-02-17": 322
   },
   "RichardAtCT/claude-code-telegram": {
-    "2026-02-18": 1004
+    "2026-02-18": 1004,
+    "2026-02-20": 1422
   },
   "open-mercato/open-mercato": {
     "2026-02-18": 758
@@ -85,7 +87,8 @@
     "2026-02-18": 65180
   },
   "vxcontrol/pentagi": {
-    "2026-02-19": 4043
+    "2026-02-19": 4043,
+    "2026-02-20": 5708
   },
   "blackboardsh/electrobun": {
     "2026-02-19": 6092
@@ -109,9 +112,43 @@
     "2026-02-19": 2739
   },
   "huggingface/skills": {
-    "2026-02-19": 1453
+    "2026-02-19": 1453,
+    "2026-02-20": 1718
   },
   "databricks-solutions/ai-dev-kit": {
     "2026-02-19": 554
+  },
+  "abhigyanpatwari/GitNexus": {
+    "2026-02-20": 1087
+  },
+  "PowerShell/PowerShell": {
+    "2026-02-20": 51565
+  },
+  "anthropics/claude-code": {
+    "2026-02-20": 68467
+  },
+  "stan-smith/FossFLOW": {
+    "2026-02-20": 17812
+  },
+  "ggml-org/ggml": {
+    "2026-02-20": 14074
+  },
+  "Stremio/stremio-web": {
+    "2026-02-20": 9477
+  },
+  "HandsOnLLM/Hands-On-Large-Language-Models": {
+    "2026-02-20": 22604
+  },
+  "cloudflare/agents": {
+    "2026-02-20": 3476
+  },
+  "hiddify/hiddify-app": {
+    "2026-02-20": 26442
+  },
+  "oppia/oppia": {
+    "2026-02-20": 6527
+  },
+  "microsoft/agent-framework": {
+    "2026-02-20": 7341
   }
 }
