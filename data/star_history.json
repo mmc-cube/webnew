@@ -88,7 +88,8 @@
   },
   "vxcontrol/pentagi": {
     "2026-02-19": 4043,
-    "2026-02-20": 5708
+    "2026-02-20": 5708,
+    "2026-02-21": 7162
   },
   "blackboardsh/electrobun": {
     "2026-02-19": 6092
@@ -113,34 +114,40 @@
   },
   "huggingface/skills": {
     "2026-02-19": 1453,
-    "2026-02-20": 1718
+    "2026-02-20": 1718,
+    "2026-02-21": 2793
   },
   "databricks-solutions/ai-dev-kit": {
     "2026-02-19": 554
   },
   "abhigyanpatwari/GitNexus": {
-    "2026-02-20": 1087
+    "2026-02-20": 1087,
+    "2026-02-21": 1562
   },
   "PowerShell/PowerShell": {
     "2026-02-20": 51565
   },
   "anthropics/claude-code": {
-    "2026-02-20": 68467
+    "2026-02-20": 68467,
+    "2026-02-21": 69031
   },
   "stan-smith/FossFLOW": {
-    "2026-02-20": 17812
+    "2026-02-20": 17812,
+    "2026-02-21": 18214
   },
   "ggml-org/ggml": {
     "2026-02-20": 14074
   },
   "Stremio/stremio-web": {
-    "2026-02-20": 9477
+    "2026-02-20": 9477,
+    "2026-02-21": 9740
   },
   "HandsOnLLM/Hands-On-Large-Language-Models": {
     "2026-02-20": 22604
   },
   "cloudflare/agents": {
-    "2026-02-20": 3476
+    "2026-02-20": 3476,
+    "2026-02-21": 3772
   },
   "hiddify/hiddify-app": {
     "2026-02-20": 26442
@@ -150,5 +157,29 @@
   },
   "microsoft/agent-framework": {
     "2026-02-20": 7341
+  },
+  "x1xhlol/system-prompts-and-models-of-ai-tools": {
+    "2026-02-21": 118015
+  },
+  "OpenBB-finance/OpenBB": {
+    "2026-02-21": 61034
+  },
+  "mihail911/modern-software-dev-assignments": {
+    "2026-02-21": 1998
+  },
+  "yt-dlp/yt-dlp": {
+    "2026-02-21": 148103
+  },
+  "openai/evals": {
+    "2026-02-21": 17886
+  },
+  "opengeos/geoai": {
+    "2026-02-21": 2584
+  },
+  "Zie619/n8n-workflows": {
+    "2026-02-21": 51979
+  },
+  "agno-agi/agno": {
+    "2026-02-21": 38099
   }
 }
