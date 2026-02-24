@@ -115,14 +115,16 @@
   "huggingface/skills": {
     "2026-02-19": 1453,
     "2026-02-20": 1718,
-    "2026-02-21": 2793
+    "2026-02-21": 2793,
+    "2026-02-22": 4084
   },
   "databricks-solutions/ai-dev-kit": {
     "2026-02-19": 554
   },
   "abhigyanpatwari/GitNexus": {
     "2026-02-20": 1087,
-    "2026-02-21": 1562
+    "2026-02-21": 1562,
+    "2026-02-22": 1978
   },
   "PowerShell/PowerShell": {
     "2026-02-20": 51565
@@ -133,21 +135,24 @@
   },
   "stan-smith/FossFLOW": {
     "2026-02-20": 17812,
-    "2026-02-21": 18214
+    "2026-02-21": 18214,
+    "2026-02-22": 18588
   },
   "ggml-org/ggml": {
     "2026-02-20": 14074
   },
   "Stremio/stremio-web": {
     "2026-02-20": 9477,
-    "2026-02-21": 9740
+    "2026-02-21": 9740,
+    "2026-02-22": 9978
   },
   "HandsOnLLM/Hands-On-Large-Language-Models": {
     "2026-02-20": 22604
   },
   "cloudflare/agents": {
     "2026-02-20": 3476,
-    "2026-02-21": 3772
+    "2026-02-21": 3772,
+    "2026-02-22": 4047
   },
   "hiddify/hiddify-app": {
     "2026-02-20": 26442
@@ -159,10 +164,12 @@
     "2026-02-20": 7341
   },
   "x1xhlol/system-prompts-and-models-of-ai-tools": {
-    "2026-02-21": 118015
+    "2026-02-21": 118015,
+    "2026-02-22": 121155
   },
   "OpenBB-finance/OpenBB": {
-    "2026-02-21": 61034
+    "2026-02-21": 61034,
+    "2026-02-22": 61510
   },
   "mihail911/modern-software-dev-assignments": {
     "2026-02-21": 1998
@@ -181,5 +188,29 @@
   },
   "agno-agi/agno": {
     "2026-02-21": 38099
+  },
+  "muratcankoylan/Agent-Skills-for-Context-Engineering": {
+    "2026-02-22": 9058
+  },
+  "f/prompts.chat": {
+    "2026-02-22": 147133
+  },
+  "CompVis/stable-diffusion": {
+    "2026-02-22": 72512
+  },
+  "VectifyAI/PageIndex": {
+    "2026-02-22": 16871
+  },
+  "siteboon/claudecodeui": {
+    "2026-02-22": 6658
+  },
+  "NevaMind-AI/memU": {
+    "2026-02-22": 10196
+  },
+  "clash-verge-rev/clash-verge-rev": {
+    "2026-02-22": 98309
+  },
+  "sansan0/TrendRadar": {
+    "2026-02-22": 47028
   }
 }
