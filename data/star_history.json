@@ -153,7 +153,8 @@
   },
   "google-research/timesfm": {
     "2026-02-19": 8866,
-    "2026-03-31": 12294
+    "2026-03-31": 12294,
+    "2026-04-01": 13504
   },
   "roboflow/trackers": {
     "2026-02-19": 2739,
@@ -369,7 +370,8 @@
     "2026-02-25": 20965
   },
   "farion1231/cc-switch": {
-    "2026-02-25": 20794
+    "2026-02-25": 20794,
+    "2026-04-01": 37992
   },
   "ruvnet/claude-flow": {
     "2026-02-25": 15036
@@ -1119,7 +1121,8 @@
   "sherlock-project/sherlock": {
     "2026-03-29": 74835,
     "2026-03-30": 75638,
-    "2026-03-31": 76527
+    "2026-03-31": 76527,
+    "2026-04-01": 77425
   },
   "PaddlePaddle/PaddleOCR": {
     "2026-03-30": 74317,
@@ -1138,12 +1141,46 @@
     "2026-03-31": 108890
   },
   "openai/codex": {
-    "2026-03-31": 71943
+    "2026-03-31": 71943,
+    "2026-04-01": 72686
   },
   "NVIDIA/Model-Optimizer": {
     "2026-03-31": 2321
   },
   "allenai/OLMo-core": {
     "2026-03-31": 1087
+  },
+  "siddharthvaddem/openscreen": {
+    "2026-04-01": 16266
+  },
+  "Yeachan-Heo/oh-my-codex": {
+    "2026-04-01": 12100
+  },
+  "asgeirtj/system_prompts_leaks": {
+    "2026-04-01": 36565
+  },
+  "MervinPraison/PraisonAI": {
+    "2026-04-01": 6343
+  },
+  "yusufkaraaslan/Skill_Seekers": {
+    "2026-04-01": 12172
+  },
+  "zai-org/GLM-OCR": {
+    "2026-04-01": 5265
+  },
+  "roboflow/supervision": {
+    "2026-04-01": 37459
+  },
+  "Alishahryar1/free-claude-code": {
+    "2026-04-01": 1430
+  },
+  "antinomyhq/forgecode": {
+    "2026-04-01": 5727
+  },
+  "lance-format/lance": {
+    "2026-04-01": 6265
+  },
+  "rivet-dev/rivet": {
+    "2026-04-01": 5372
   }
 }
