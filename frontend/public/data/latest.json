@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-10T06:30:18.919855",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-11T06:35:59.008594",
   "brief": [
     {
-      "conclusion": "morluto/rea 24h +14927 stars — Reverse engineer anything with agents, from app behavior dow",
-      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 53,518",
+      "conclusion": "morluto/rea 24h +25793 stars — Reverse engineer anything with agents, from app behavior dow",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 78,944",
       "evidence_urls": [
         "https://github.com/morluto/rea"
       ],
       "category": "github"
     },
     {
-      "conclusion": "boykopovar/AnyPS5 24h +5868 stars — Tool for automatic PS5 executables porting to Linux and Wind",
-      "why_hot": "新项目爆发，语言: C++，总 stars: 23,268",
+      "conclusion": "boykopovar/AnyPS5 24h +5805 stars — Tool for automatic PS5 executables porting to Linux and Wind",
+      "why_hot": "新项目爆发，语言: C++，总 stars: 27,508",
       "evidence_urls": [
         "https://github.com/boykopovar/AnyPS5"
       ],
       "category": "github"
     },
     {
-      "conclusion": "storytold/artcraft 24h +3752 stars — ArtCraft is an intentional crafting engine for artists, desi",
-      "why_hot": "新项目爆发，语言: Rust，总 stars: 12,166",
+      "conclusion": "storytold/artcraft 24h +3222 stars — ArtCraft is an intentional crafting engine for artists, desi",
+      "why_hot": "新项目爆发，语言: Rust，总 stars: 15,118",
       "evidence_urls": [
         "https://github.com/storytold/artcraft"
       ],
@@ -49,9 +49,9 @@
       "name": "morluto/rea",
       "owner": "morluto",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 53518,
-      "forks": 10034,
-      "stars_24h": 14927,
+      "stars": 78944,
+      "forks": 17031,
+      "stars_24h": 25793,
       "created_at": "2026-04-14T00:51:32+00:00",
       "language": "TypeScript",
       "topics": [
@@ -84,16 +84,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 167,
-      "open_issues": 119
+      "watchers": 252,
+      "open_issues": 130
     },
     {
       "name": "boykopovar/AnyPS5",
       "owner": "boykopovar",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": 23268,
-      "forks": 1919,
-      "stars_24h": 5868,
+      "stars": 27508,
+      "forks": 2326,
+      "stars_24h": 5805,
       "created_at": "2026-08-03T21:30:25+00:00",
       "language": "C++",
       "topics": [
@@ -112,36 +112,42 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 260,
-      "open_issues": 313
+      "watchers": 317,
+      "open_issues": 338
     },
     {
-      "name": "mattpocock/skills",
-      "owner": "mattpocock",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 283161,
-      "forks": 23721,
-      "stars_24h": 1687,
-      "created_at": "2026-02-03T11:15:53+00:00",
-      "language": "Shell",
-      "topics": [],
+      "name": "storytold/artcraft",
+      "owner": "storytold",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": 15118,
+      "forks": 2400,
+      "stars_24h": 3222,
+      "created_at": "2022-03-31T23:19:12+00:00",
+      "language": "Rust",
+      "topics": [
+        "3d-graphics",
+        "ai",
+        "aivideo",
+        "filmmaking",
+        "imagegeneration"
+      ],
       "readme_summary": "",
       "relevance_tags": [
-        "coding agent"
+        "IDE"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1506,
-      "open_issues": 162
+      "watchers": 85,
+      "open_issues": 161
     },
     {
       "name": "cathrynlavery/diagram-design",
       "owner": "cathrynlavery",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 48187,
-      "forks": 3049,
-      "stars_24h": 1739,
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 49227,
+      "forks": 3118,
+      "stars_24h": 1190,
       "created_at": "2026-04-16T18:01:16+00:00",
       "language": "HTML",
       "topics": [
@@ -162,45 +168,249 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 136,
-      "open_issues": 81
+      "watchers": 140,
+      "open_issues": 83
     },
     {
-      "name": "alibaba/open-code-review",
-      "owner": "alibaba",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 45491,
-      "forks": 3284,
-      "stars_24h": 326,
-      "created_at": "2026-05-18T02:16:36+00:00",
-      "language": "Go",
+      "name": "mksglu/context-mode",
+      "owner": "mksglu",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 26444,
+      "forks": 1903,
+      "stars_24h": 178,
+      "created_at": "2026-02-23T05:56:28+00:00",
+      "language": "TypeScript",
       "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "codex",
+        "codex-cli",
+        "context-mode",
+        "copilot",
+        "cursor-plugin",
+        "kiro",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "openclaw",
+        "opencode",
+        "pi-agent",
+        "skills",
+        "zed-extension"
       ],
       "readme_summary": "",
       "relevance_tags": [
         "coding agent",
-        "workflow",
+        "IDE",
         "tooling"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 135,
-      "open_issues": 286
+      "watchers": 103,
+      "open_issues": 342
+    },
+    {
+      "name": "mattpocock/skills",
+      "owner": "mattpocock",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 284879,
+      "forks": 23841,
+      "stars_24h": 1736,
+      "created_at": "2026-02-03T11:15:53+00:00",
+      "language": "Shell",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1516,
+      "open_issues": 165
+    },
+    {
+      "name": "flutter/flutter",
+      "owner": "flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "stars": 179634,
+      "forks": 33626,
+      "stars_24h": 88,
+      "created_at": "2015-03-06T22:54:58+00:00",
+      "language": "Dart",
+      "topics": [
+        "android",
+        "app-framework",
+        "cross-platform",
+        "dart",
+        "dart-platform",
+        "desktop",
+        "flutter",
+        "flutter-package",
+        "fuchsia",
+        "ios",
+        "linux-desktop",
+        "macos",
+        "material-design",
+        "mobile",
+        "mobile-development",
+        "skia",
+        "web",
+        "web-framework",
+        "windows"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 3551,
+      "open_issues": 13336
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "owner": "tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "stars": 200792,
+      "forks": 78988,
+      "stars_24h": 26,
+      "created_at": "2015-11-07T01:19:20+00:00",
+      "language": "C++",
+      "topics": [
+        "deep-learning",
+        "deep-neural-networks",
+        "distributed",
+        "machine-learning",
+        "ml",
+        "neural-network",
+        "python",
+        "tensorflow"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 7539,
+      "open_issues": 3307
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "stars": 59751,
+      "forks": 4712,
+      "stars_24h": 461,
+      "created_at": "2025-12-10T06:54:33+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "aippt",
+        "office",
+        "powerpoint",
+        "powerpoint-generation",
+        "ppt",
+        "pptx",
+        "presentation",
+        "slide",
+        "slides"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 116,
+      "open_issues": 10
+    },
+    {
+      "name": "pytorch/pytorch",
+      "owner": "pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 104204,
+      "forks": 31968,
+      "stars_24h": 84,
+      "created_at": "2016-08-13T05:26:41+00:00",
+      "language": "Python",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1805,
+      "open_issues": 17715
+    },
+    {
+      "name": "huggingface/transformers",
+      "owner": "huggingface",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "stars": 167380,
+      "forks": 34809,
+      "stars_24h": 96,
+      "created_at": "2018-10-29T13:56:00+00:00",
+      "language": "Python",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1249,
+      "open_issues": 2348
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "owner": "anthropics",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 28419,
-      "forks": 3255,
-      "stars_24h": 709,
+      "stars": 28924,
+      "forks": 3286,
+      "stars_24h": 625,
       "created_at": "2026-01-23T20:11:54+00:00",
       "language": "Python",
       "topics": [],
@@ -211,273 +421,98 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 186,
-      "open_issues": 136
+      "watchers": 187,
+      "open_issues": 141
     },
     {
-      "name": "BerriAI/litellm",
-      "owner": "BerriAI",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "stars": 60782,
-      "forks": 12199,
-      "stars_24h": 95,
-      "created_at": "2023-07-27T00:09:52+00:00",
-      "language": "Python",
-      "topics": [
-        "ai-gateway",
-        "anthropic",
-        "azure-openai",
-        "bedrock",
-        "gateway",
-        "langchain",
-        "litellm",
-        "llm",
-        "llm-gateway",
-        "llmops",
-        "mcp-gateway",
-        "openai",
-        "openai-proxy",
-        "rust",
-        "rust-ai",
-        "vertex-ai"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 236,
-      "open_issues": 5422
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "owner": "addyosmani",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 104170,
-      "forks": 10872,
-      "stars_24h": 436,
-      "created_at": "2026-02-15T20:20:26+00:00",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 526,
-      "open_issues": 139
-    },
-    {
-      "name": "storytold/artcraft",
-      "owner": "storytold",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": 12166,
-      "forks": 1853,
-      "stars_24h": 3752,
-      "created_at": "2022-03-31T23:19:12+00:00",
-      "language": "Rust",
-      "topics": [
-        "3d-graphics",
-        "ai",
-        "aivideo",
-        "filmmaking",
-        "imagegeneration"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 72,
-      "open_issues": 102
-    },
-    {
-      "name": "Robbyant/lingbot-map",
-      "owner": "Robbyant",
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "stars": 17800,
-      "forks": 1957,
-      "stars_24h": 110,
-      "created_at": "2026-04-15T17:59:48+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 172,
-      "open_issues": 83
-    },
-    {
-      "name": "twostraws/SwiftUI-Agent-Skill",
-      "owner": "twostraws",
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": 5568,
-      "forks": 197,
-      "stars_24h": 65,
-      "created_at": "2026-03-05T20:13:14+00:00",
+      "name": "multica-ai/andrej-karpathy-skills",
+      "owner": "multica-ai",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 218461,
+      "forks": 22001,
+      "stars_24h": 278,
+      "created_at": "2026-01-27T03:53:13+00:00",
       "language": "",
       "topics": [],
       "readme_summary": "",
       "relevance_tags": [
-        "coding agent",
         "tooling"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 65,
-      "open_issues": 12
+      "watchers": 1273,
+      "open_issues": 133
     },
     {
-      "name": "Tencent-Hunyuan/Hy-MT2",
-      "owner": "Tencent-Hunyuan",
-      "description": "",
-      "stars": 1201,
-      "forks": 116,
-      "stars_24h": 114,
-      "created_at": "2026-05-18T07:54:11+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 7,
-      "open_issues": 14
-    },
-    {
-      "name": "ayghri/i-have-adhd",
-      "owner": "ayghri",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 56161,
-      "forks": 3201,
-      "stars_24h": 389,
-      "created_at": "2026-05-13T20:42:06+00:00",
+      "name": "fastapi/fastapi",
+      "owner": "fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "stars": 102976,
+      "forks": 10021,
+      "stars_24h": 56,
+      "created_at": "2018-12-08T08:21:47+00:00",
       "language": "Python",
       "topics": [
-        "adhd",
-        "claude-",
-        "claude-code-plugin",
-        "claude-skills",
-        "developer-tools",
-        "productivity"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 166,
-      "open_issues": 66
-    },
-    {
-      "name": "unslothai/unsloth",
-      "owner": "unslothai",
-      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
-      "stars": 77664,
-      "forks": 7168,
-      "stars_24h": 132,
-      "created_at": "2023-11-29T16:50:09+00:00",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "ai",
-        "chatgpt",
-        "deepseek",
-        "fine-tuning",
-        "gemma",
-        "image-generation",
-        "llama",
-        "llm",
-        "llms",
-        "openai",
-        "python",
-        "qwen",
-        "reinforcement-learning",
-        "self-hosted",
-        "stable-diffusion",
-        "text-to-speech",
-        "tts",
-        "ui",
-        "unsloth"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 389,
-      "open_issues": 669
-    },
-    {
-      "name": "headroomlabs-ai/headroom",
-      "owner": "headroomlabs-ai",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "stars": 74858,
-      "forks": 5805,
-      "stars_24h": 104,
-      "created_at": "2026-01-07T19:58:51+00:00",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "ai",
-        "anthropic",
-        "claude-code",
-        "compression",
-        "context-engineering",
-        "context-window",
-        "cursor",
+        "api",
+        "async",
+        "asyncio",
         "fastapi",
-        "langchain",
-        "llm",
-        "mcp",
-        "openai",
-        "prompt-engineering",
-        "proxy",
+        "framework",
+        "json",
+        "json-schema",
+        "openapi",
+        "openapi3",
+        "pydantic",
         "python",
-        "rag",
-        "token-optimization",
-        "tokens",
-        "typescript"
+        "python-types",
+        "python3",
+        "redoc",
+        "rest",
+        "starlette",
+        "swagger",
+        "swagger-ui",
+        "uvicorn",
+        "web"
       ],
       "readme_summary": "",
       "relevance_tags": [
-        "coding agent",
-        "IDE",
-        "RAG",
         "tooling"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 217,
-      "open_issues": 447
+      "watchers": 771,
+      "open_issues": 88
+    },
+    {
+      "name": "home-assistant/core",
+      "owner": "home-assistant",
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "stars": 91368,
+      "forks": 38867,
+      "stars_24h": 18,
+      "created_at": "2013-09-17T07:29:48+00:00",
+      "language": "Python",
+      "topics": [
+        "asyncio",
+        "hacktoberfest",
+        "home-automation",
+        "internet-of-things",
+        "iot",
+        "mqtt",
+        "python",
+        "raspberry-pi"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1365,
+      "open_issues": 3369
     }
   ],
   "github_new": [],
@@ -516,26 +551,26 @@
   ],
   "markets": [
     {
-      "title": "US x Iran ceasefire continues through October 12?",
-      "summary": "This market will resolve to “No” if the United States takes a qualifying military action against Iran by the specified d",
-      "volume": "$702,246",
+      "title": "Boise State vs. Fresno State",
+      "summary": "In the upcoming college football game between Boise State and Fresno State, scheduled for October 10 at 10:30PM ET:\nThis",
+      "volume": "$1,009,342",
       "odds_change": null,
-      "url": "https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-12"
+      "url": "https://polymarket.com/event/cfb-boise-frest-2026-10-10"
     },
     {
-      "title": "Putin out as President of Russia by December 31, 2026?",
-      "summary": "This market will resolve to “Yes” if Vladimir Putin ceases to be President of Russia for any period of time between mark",
-      "volume": "$342,086",
+      "title": "Will Athletic Club win on 2026-10-10?",
+      "summary": "In the upcoming game, scheduled for October 10, 2026\nIf Athletic Club wins, this market will resolve to \"Yes\".\nOtherwise",
+      "volume": "$718,020",
       "odds_change": null,
-      "url": "https://polymarket.com/event/putin-out-before-2027-346"
+      "url": "https://polymarket.com/event/lal-ray-bil-2026-10-10-bil"
     }
   ],
   "leaderboards": {
     "daily": [
       {
         "name": "morluto/rea",
-        "stars": 53518,
-        "growth": 22568,
+        "stars": 78944,
+        "growth": 25426,
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "language": "TypeScript",
         "topics": [
@@ -560,13 +595,13 @@
           "reverse-engineering",
           "static-analysis"
         ],
-        "forks": 10034,
-        "stars_24h": 14927
+        "forks": 17031,
+        "stars_24h": 25793
       },
       {
         "name": "boykopovar/AnyPS5",
-        "stars": 23268,
-        "growth": 6216,
+        "stars": 27508,
+        "growth": 4240,
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "language": "C++",
         "topics": [
@@ -578,13 +613,13 @@
           "spir-v",
           "vulkan"
         ],
-        "forks": 1919,
-        "stars_24h": 5868
+        "forks": 2326,
+        "stars_24h": 5805
       },
       {
         "name": "storytold/artcraft",
-        "stars": 12166,
-        "growth": 3288,
+        "stars": 15118,
+        "growth": 2952,
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "language": "Rust",
         "topics": [
@@ -594,24 +629,24 @@
           "filmmaking",
           "imagegeneration"
         ],
-        "forks": 1853,
-        "stars_24h": 3752
+        "forks": 2400,
+        "stars_24h": 3222
       },
       {
         "name": "mattpocock/skills",
-        "stars": 283161,
-        "growth": 1630,
+        "stars": 284879,
+        "growth": 1718,
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
         "topics": [],
-        "forks": 23721,
-        "stars_24h": 1687
+        "forks": 23841,
+        "stars_24h": 1736
       },
       {
         "name": "cathrynlavery/diagram-design",
-        "stars": 48187,
-        "growth": 1323,
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "stars": 49227,
+        "growth": 1040,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "language": "HTML",
         "topics": [
           "agent-skills",
@@ -623,59 +658,56 @@
           "mermaid",
           "svg"
         ],
-        "forks": 3049,
-        "stars_24h": 1739
-      },
-      {
-        "name": "addyosmani/agent-skills",
-        "stars": 104170,
-        "growth": 1166,
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "topics": [
-          "agent-skills",
-          "antigravity",
-          "claude-code",
-          "codex",
-          "cursor",
-          "skills"
-        ],
-        "forks": 10872,
-        "stars_24h": 436
+        "forks": 3118,
+        "stars_24h": 1190
       },
       {
         "name": "anthropics/knowledge-work-plugins",
-        "stars": 28419,
-        "growth": 579,
+        "stars": 28924,
+        "growth": 505,
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "language": "Python",
         "topics": [],
-        "forks": 3255,
-        "stars_24h": 709
-      },
-      {
-        "name": "ayghri/i-have-adhd",
-        "stars": 56161,
-        "growth": 268,
-        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "language": "Python",
-        "topics": [
-          "adhd",
-          "claude-",
-          "claude-code-plugin",
-          "claude-skills",
-          "developer-tools",
-          "productivity"
-        ],
-        "forks": 3201,
-        "stars_24h": 389
+        "forks": 3286,
+        "stars_24h": 625
       }
     ],
     "weekly": [
       {
+        "name": "morluto/rea",
+        "stars": 78944,
+        "growth": 68399,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "forks": 17031,
+        "stars_24h": 25793
+      },
+      {
         "name": "boykopovar/AnyPS5",
-        "stars": 23268,
-        "growth": 18124,
+        "stars": 27508,
+        "growth": 22364,
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "language": "C++",
         "topics": [
@@ -687,77 +719,24 @@
           "spir-v",
           "vulkan"
         ],
-        "forks": 1919,
-        "stars_24h": 5868
+        "forks": 2326,
+        "stars_24h": 5805
       },
       {
         "name": "mattpocock/skills",
-        "stars": 283161,
-        "growth": 8331,
+        "stars": 284879,
+        "growth": 9382,
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
         "topics": [],
-        "forks": 23721,
-        "stars_24h": 1687
-      },
-      {
-        "name": "addyosmani/agent-skills",
-        "stars": 104170,
-        "growth": 3255,
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "topics": [
-          "agent-skills",
-          "antigravity",
-          "claude-code",
-          "codex",
-          "cursor",
-          "skills"
-        ],
-        "forks": 10872,
-        "stars_24h": 436
-      }
-    ],
-    "monthly": [
-      {
-        "name": "alibaba/open-code-review",
-        "stars": 45491,
-        "growth": 21707,
-        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "language": "Go",
-        "topics": [
-          "agent",
-          "agent-skills",
-          "code-review",
-          "code-review-assistant",
-          "harness",
-          "repository-level-context"
-        ],
-        "forks": 3284,
-        "stars_24h": 326
-      },
-      {
-        "name": "ayghri/i-have-adhd",
-        "stars": 56161,
-        "growth": 17232,
-        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "language": "Python",
-        "topics": [
-          "adhd",
-          "claude-",
-          "claude-code-plugin",
-          "claude-skills",
-          "developer-tools",
-          "productivity"
-        ],
-        "forks": 3201,
-        "stars_24h": 389
+        "forks": 23841,
+        "stars_24h": 1736
       },
       {
         "name": "cathrynlavery/diagram-design",
-        "stars": 48187,
-        "growth": 10221,
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "stars": 49227,
+        "growth": 4998,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "language": "HTML",
         "topics": [
           "agent-skills",
@@ -769,40 +748,197 @@
           "mermaid",
           "svg"
         ],
-        "forks": 3049,
-        "stars_24h": 1739
+        "forks": 3118,
+        "stars_24h": 1190
+      },
+      {
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": 28924,
+        "growth": 2277,
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "topics": [],
+        "forks": 3286,
+        "stars_24h": 625
+      },
+      {
+        "name": "mksglu/context-mode",
+        "stars": 26444,
+        "growth": 1147,
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "topics": [
+          "antigravity",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugins",
+          "claude-code-skill",
+          "codex",
+          "codex-cli",
+          "context-mode",
+          "copilot",
+          "cursor-plugin",
+          "kiro",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "openclaw",
+          "opencode",
+          "pi-agent",
+          "skills",
+          "zed-extension"
+        ],
+        "forks": 1903,
+        "stars_24h": 178
+      }
+    ],
+    "monthly": [
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 49227,
+        "growth": 11261,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 3118,
+        "stars_24h": 1190
+      },
+      {
+        "name": "multica-ai/andrej-karpathy-skills",
+        "stars": 218461,
+        "growth": 6870,
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "",
+        "topics": [],
+        "forks": 22001,
+        "stars_24h": 278
+      },
+      {
+        "name": "mksglu/context-mode",
+        "stars": 26444,
+        "growth": 4965,
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "topics": [
+          "antigravity",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugins",
+          "claude-code-skill",
+          "codex",
+          "codex-cli",
+          "context-mode",
+          "copilot",
+          "cursor-plugin",
+          "kiro",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "openclaw",
+          "opencode",
+          "pi-agent",
+          "skills",
+          "zed-extension"
+        ],
+        "forks": 1903,
+        "stars_24h": 178
+      },
+      {
+        "name": "huggingface/transformers",
+        "stars": 167380,
+        "growth": 1300,
+        "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+        "language": "Python",
+        "topics": [
+          "audio",
+          "deep-learning",
+          "deepseek",
+          "gemma",
+          "glm",
+          "hacktoberfest",
+          "llm",
+          "machine-learning",
+          "model-hub",
+          "natural-language-processing",
+          "nlp",
+          "pretrained-models",
+          "python",
+          "pytorch",
+          "pytorch-transformers",
+          "qwen",
+          "speech-recognition",
+          "transformer",
+          "vlm"
+        ],
+        "forks": 34809,
+        "stars_24h": 96
       }
     ],
     "3month": [
       {
         "name": "mattpocock/skills",
-        "stars": 283161,
-        "growth": 118373,
+        "stars": 284879,
+        "growth": 114237,
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "language": "Shell",
         "topics": [],
-        "forks": 23721,
-        "stars_24h": 1687
+        "forks": 23841,
+        "stars_24h": 1736
       },
       {
-        "name": "addyosmani/agent-skills",
-        "stars": 104170,
-        "growth": 27264,
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
+        "name": "home-assistant/core",
+        "stars": 91368,
+        "growth": 2217,
+        "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+        "language": "Python",
         "topics": [
-          "agent-skills",
-          "antigravity",
-          "claude-code",
-          "codex",
-          "cursor",
-          "skills"
+          "asyncio",
+          "hacktoberfest",
+          "home-automation",
+          "internet-of-things",
+          "iot",
+          "mqtt",
+          "python",
+          "raspberry-pi"
         ],
-        "forks": 10872,
-        "stars_24h": 436
+        "forks": 38867,
+        "stars_24h": 18
       }
     ],
-    "6month": [],
+    "6month": [
+      {
+        "name": "hugohe3/ppt-master",
+        "stars": 59751,
+        "growth": 54561,
+        "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "aippt",
+          "office",
+          "powerpoint",
+          "powerpoint-generation",
+          "ppt",
+          "pptx",
+          "presentation",
+          "slide",
+          "slides"
+        ],
+        "forks": 4712,
+        "stars_24h": 461
+      }
+    ],
     "9month": [],
     "yearly": []
   },
