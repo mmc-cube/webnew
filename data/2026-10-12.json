@@ -1,0 +1,1015 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-12T06:41:53.229470",
+  "brief": [
+    {
+      "conclusion": "morluto/rea 24h +25599 stars — Reverse engineer anything with agents, from app behavior dow",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 118,730",
+      "evidence_urls": [
+        "https://github.com/morluto/rea"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "boykopovar/AnyPS5 24h +3952 stars — Tool for automatic PS5 executables porting to Linux and Wind",
+      "why_hot": "新项目爆发，语言: C++，总 stars: 30,889",
+      "evidence_urls": [
+        "https://github.com/boykopovar/AnyPS5"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "storytold/artcraft 24h +2957 stars — ArtCraft is an intentional crafting engine for artists, desi",
+      "why_hot": "新项目爆发，语言: Rust，总 stars: 18,945",
+      "evidence_urls": [
+        "https://github.com/storytold/artcraft"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰（0成本）",
+      "why_hot": "来自 Coincamps 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Coincamps"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Join AVA Smart Program & Win 500 USDT 🔥（0成本）",
+      "why_hot": "来自 Travala.com 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Travala"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "morluto/rea",
+      "owner": "morluto",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 118730,
+      "forks": 26673,
+      "stars_24h": 25599,
+      "created_at": "2026-04-14T00:51:32+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis",
+        "claude-code",
+        "cli",
+        "codex",
+        "cordis",
+        "ctf",
+        "decompiler",
+        "developer-tools",
+        "disassembler",
+        "dsh",
+        "dsh-plugin",
+        "ghidra",
+        "hopper",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "reverse-engineering",
+        "static-analysis"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 368,
+      "open_issues": 194
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "owner": "boykopovar",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 30889,
+      "forks": 2659,
+      "stars_24h": 3952,
+      "created_at": "2026-08-03T21:30:25+00:00",
+      "language": "C++",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v",
+        "vulkan"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 328,
+      "open_issues": 617
+    },
+    {
+      "name": "storytold/artcraft",
+      "owner": "storytold",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": 18945,
+      "forks": 3099,
+      "stars_24h": 2957,
+      "created_at": "2022-03-31T23:19:12+00:00",
+      "language": "Rust",
+      "topics": [
+        "3d-graphics",
+        "ai",
+        "aivideo",
+        "filmmaking",
+        "imagegeneration"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 103,
+      "open_issues": 238
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "owner": "cathrynlavery",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 50966,
+      "forks": 3232,
+      "stars_24h": 1083,
+      "created_at": "2026-04-16T18:01:16+00:00",
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio",
+        "mermaid",
+        "svg"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 142,
+      "open_issues": 87
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "owner": "bilawalsidhu",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 52171,
+      "forks": 10437,
+      "stars_24h": 886,
+      "created_at": "2026-06-22T23:37:22+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis",
+        "osint",
+        "photogrammetry",
+        "satellite-tracking",
+        "spatial-intelligence",
+        "webgl",
+        "worldview"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1017,
+      "open_issues": 380
+    },
+    {
+      "name": "pytorch/pytorch",
+      "owner": "pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 104628,
+      "forks": 32183,
+      "stars_24h": 315,
+      "created_at": "2016-08-13T05:26:41+00:00",
+      "language": "Python",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1804,
+      "open_issues": 17710
+    },
+    {
+      "name": "lyogavin/airllm",
+      "owner": "lyogavin",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 36755,
+      "forks": 3829,
+      "stars_24h": 548,
+      "created_at": "2023-06-12T16:28:41+00:00",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "chinese-llm",
+        "chinese-nlp",
+        "finetune",
+        "generative-ai",
+        "instruct-gpt",
+        "instruction-set",
+        "llama",
+        "llm",
+        "lora",
+        "open-models",
+        "open-source",
+        "open-source-models",
+        "qlora"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 305,
+      "open_issues": 160
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "owner": "chrislgarry",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars": 74409,
+      "forks": 8114,
+      "stars_24h": 466,
+      "created_at": "2014-04-03T15:45:02+00:00",
+      "language": "Assembly",
+      "topics": [
+        "agc",
+        "apollo",
+        "hacktoberfest",
+        "nasa"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1390,
+      "open_issues": 146
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": 58168,
+      "forks": 9242,
+      "stars_24h": 506,
+      "created_at": "2026-01-28T19:02:30+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 396,
+      "open_issues": 301
+    },
+    {
+      "name": "huggingface/transformers",
+      "owner": "huggingface",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "stars": 167539,
+      "forks": 34844,
+      "stars_24h": 501,
+      "created_at": "2018-10-29T13:56:00+00:00",
+      "language": "Python",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1247,
+      "open_issues": 2339
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "stars": 60593,
+      "forks": 4783,
+      "stars_24h": 1104,
+      "created_at": "2025-12-10T06:54:33+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "aippt",
+        "office",
+        "powerpoint",
+        "powerpoint-generation",
+        "ppt",
+        "pptx",
+        "presentation",
+        "slide",
+        "slides"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 117,
+      "open_issues": 5
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 59188,
+      "forks": 6633,
+      "stars_24h": 1225,
+      "created_at": "2026-04-09T21:40:26+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "tauri",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 233,
+      "open_issues": 113
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "owner": "HunxByts",
+      "description": "Useful tool to track location or mobile number",
+      "stars": 18264,
+      "forks": 2493,
+      "stars_24h": 165,
+      "created_at": "2023-04-15T07:20:47+00:00",
+      "language": "Python",
+      "topics": [
+        "cybersecurity",
+        "fyp",
+        "hacking",
+        "hacking-tool",
+        "indonesia",
+        "information",
+        "information-gathering",
+        "ip-geolocation",
+        "linux",
+        "osint",
+        "osint-python",
+        "osint-tool",
+        "pentesting",
+        "phone-number",
+        "python",
+        "python-hacking",
+        "termux",
+        "termux-hacks",
+        "termux-tool"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 182,
+      "open_issues": 138
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 46218,
+      "forks": 15949,
+      "stars_24h": 504,
+      "created_at": "2026-03-18T14:33:04+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "career",
+        "claude-code",
+        "cover-letter",
+        "cv",
+        "interview-preparation",
+        "job-application",
+        "job-hunting",
+        "job-search",
+        "latex",
+        "resume"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "eval",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 168,
+      "open_issues": 16
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "owner": "ComposioHQ",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 76900,
+      "forks": 9049,
+      "stars_24h": 68,
+      "created_at": "2025-10-17T07:15:01+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "antigravity",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "composio",
+        "cursor",
+        "developer-tools",
+        "gemini-cli",
+        "mcp",
+        "openai-codex",
+        "rube",
+        "saas",
+        "skill",
+        "workflow-automation"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 465,
+      "open_issues": 1691
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Join AVA Smart Program & Win 500 USDT 🔥",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793534400,
+      "url": "https://galxe.com/Travala",
+      "note": "来自 Travala.com 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "FCFS!!! $USDT Rewards for X Blue-Verified Accounts",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "LoL: KT Rolster vs Team Vitality - Game 1 Winner",
+      "summary": "This market refers to the LoL Quarterfinal 2 match between KT Rolster and Team Vitality in the Demacia Cup Global Invita",
+      "volume": "$587,447",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/lol-kt-vit-2026-10-12-game1"
+    },
+    {
+      "title": "Shanghai Rolex Masters: Pablo Carreno Busta vs Felix Auger-Aliassime",
+      "summary": "This market refers to the tennis match between Pablo Carreno Busta and Felix Auger-Aliassime in the Shanghai Rolex Maste",
+      "volume": "$509,466",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/atp-busta-augeral-2026-10-11"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "morluto/rea",
+        "stars": 118730,
+        "growth": 39786,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "forks": 26673,
+        "stars_24h": 25599
+      },
+      {
+        "name": "storytold/artcraft",
+        "stars": 18945,
+        "growth": 3827,
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "forks": 3099,
+        "stars_24h": 2957
+      },
+      {
+        "name": "boykopovar/AnyPS5",
+        "stars": 30889,
+        "growth": 3381,
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "topics": [
+          "anyps5",
+          "dynamic-library",
+          "game-porting",
+          "ps5",
+          "ps5-tools",
+          "spir-v",
+          "vulkan"
+        ],
+        "forks": 2659,
+        "stars_24h": 3952
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 50966,
+        "growth": 1739,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 3232,
+        "stars_24h": 1083
+      },
+      {
+        "name": "hugohe3/ppt-master",
+        "stars": 60593,
+        "growth": 842,
+        "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "aippt",
+          "office",
+          "powerpoint",
+          "powerpoint-generation",
+          "ppt",
+          "pptx",
+          "presentation",
+          "slide",
+          "slides"
+        ],
+        "forks": 4783,
+        "stars_24h": 1104
+      },
+      {
+        "name": "pytorch/pytorch",
+        "stars": 104628,
+        "growth": 424,
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "language": "Python",
+        "topics": [
+          "autograd",
+          "deep-learning",
+          "gpu",
+          "machine-learning",
+          "neural-network",
+          "numpy",
+          "python",
+          "tensor"
+        ],
+        "forks": 32183,
+        "stars_24h": 315
+      },
+      {
+        "name": "huggingface/transformers",
+        "stars": 167539,
+        "growth": 159,
+        "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+        "language": "Python",
+        "topics": [
+          "audio",
+          "deep-learning",
+          "deepseek",
+          "gemma",
+          "glm",
+          "hacktoberfest",
+          "llm",
+          "machine-learning",
+          "model-hub",
+          "natural-language-processing",
+          "nlp",
+          "pretrained-models",
+          "python",
+          "pytorch",
+          "pytorch-transformers",
+          "qwen",
+          "speech-recognition",
+          "transformer",
+          "vlm"
+        ],
+        "forks": 34844,
+        "stars_24h": 501
+      }
+    ],
+    "weekly": [
+      {
+        "name": "morluto/rea",
+        "stars": 118730,
+        "growth": 108185,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "forks": 26673,
+        "stars_24h": 25599
+      },
+      {
+        "name": "boykopovar/AnyPS5",
+        "stars": 30889,
+        "growth": 25745,
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "topics": [
+          "anyps5",
+          "dynamic-library",
+          "game-porting",
+          "ps5",
+          "ps5-tools",
+          "spir-v",
+          "vulkan"
+        ],
+        "forks": 2659,
+        "stars_24h": 3952
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 50966,
+        "growth": 6737,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 3232,
+        "stars_24h": 1083
+      },
+      {
+        "name": "HunxByts/GhostTrack",
+        "stars": 18264,
+        "growth": 1750,
+        "description": "Useful tool to track location or mobile number",
+        "language": "Python",
+        "topics": [
+          "cybersecurity",
+          "fyp",
+          "hacking",
+          "hacking-tool",
+          "indonesia",
+          "information",
+          "information-gathering",
+          "ip-geolocation",
+          "linux",
+          "osint",
+          "osint-python",
+          "osint-tool",
+          "pentesting",
+          "phone-number",
+          "python",
+          "python-hacking",
+          "termux",
+          "termux-hacks",
+          "termux-tool"
+        ],
+        "forks": 2493,
+        "stars_24h": 165
+      }
+    ],
+    "monthly": [
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 59188,
+        "growth": 31811,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 6633,
+        "stars_24h": 1225
+      },
+      {
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": 52171,
+        "growth": 21840,
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "forks": 10437,
+        "stars_24h": 886
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 50966,
+        "growth": 13000,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 3232,
+        "stars_24h": 1083
+      },
+      {
+        "name": "Alishahryar1/free-claude-code",
+        "stars": 58168,
+        "growth": 3939,
+        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "topics": [],
+        "forks": 9242,
+        "stars_24h": 506
+      },
+      {
+        "name": "huggingface/transformers",
+        "stars": 167539,
+        "growth": 1459,
+        "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+        "language": "Python",
+        "topics": [
+          "audio",
+          "deep-learning",
+          "deepseek",
+          "gemma",
+          "glm",
+          "hacktoberfest",
+          "llm",
+          "machine-learning",
+          "model-hub",
+          "natural-language-processing",
+          "nlp",
+          "pretrained-models",
+          "python",
+          "pytorch",
+          "pytorch-transformers",
+          "qwen",
+          "speech-recognition",
+          "transformer",
+          "vlm"
+        ],
+        "forks": 34844,
+        "stars_24h": 501
+      }
+    ],
+    "3month": [],
+    "6month": [
+      {
+        "name": "hugohe3/ppt-master",
+        "stars": 60593,
+        "growth": 55403,
+        "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "aippt",
+          "office",
+          "powerpoint",
+          "powerpoint-generation",
+          "ppt",
+          "pptx",
+          "presentation",
+          "slide",
+          "slides"
+        ],
+        "forks": 4783,
+        "stars_24h": 1104
+      },
+      {
+        "name": "chrislgarry/Apollo-11",
+        "stars": 74409,
+        "growth": 7562,
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "language": "Assembly",
+        "topics": [
+          "agc",
+          "apollo",
+          "hacktoberfest",
+          "nasa"
+        ],
+        "forks": 8114,
+        "stars_24h": 466
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
