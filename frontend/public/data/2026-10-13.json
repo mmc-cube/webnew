@@ -1,0 +1,1091 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-13T07:11:53.531272",
+  "brief": [
+    {
+      "conclusion": "morluto/rea 24h +45327 stars — Reverse engineer anything with agents, from app behavior dow",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 174,489",
+      "evidence_urls": [
+        "https://github.com/morluto/rea"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "storytold/artcraft 24h +4095 stars — ArtCraft is an intentional crafting engine for artists, desi",
+      "why_hot": "新项目爆发，语言: Rust，总 stars: 23,134",
+      "evidence_urls": [
+        "https://github.com/storytold/artcraft"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "cathrynlavery/diagram-design 24h +2081 stars — Editorial diagram design for Claude Code, Codex, GitHub Copi",
+      "why_hot": "新项目爆发，语言: HTML，总 stars: 53,081",
+      "evidence_urls": [
+        "https://github.com/cathrynlavery/diagram-design"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰（0成本）",
+      "why_hot": "来自 Coincamps 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Coincamps"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Join AVA Smart Program & Win 500 USDT 🔥（0成本）",
+      "why_hot": "来自 Travala.com 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Travala"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "morluto/rea",
+      "owner": "morluto",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 174489,
+      "forks": 41820,
+      "stars_24h": 45327,
+      "created_at": "2026-04-14T00:51:32+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis",
+        "claude-code",
+        "cli",
+        "codex",
+        "cordis",
+        "ctf",
+        "decompiler",
+        "developer-tools",
+        "disassembler",
+        "dsh",
+        "dsh-plugin",
+        "ghidra",
+        "hopper",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "reverse-engineering",
+        "static-analysis"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 581,
+      "open_issues": 537
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "owner": "bilawalsidhu",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 54190,
+      "forks": 10669,
+      "stars_24h": 1895,
+      "created_at": "2026-06-22T23:37:22+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis",
+        "osint",
+        "photogrammetry",
+        "satellite-tracking",
+        "spatial-intelligence",
+        "webgl",
+        "worldview"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1027,
+      "open_issues": 386
+    },
+    {
+      "name": "mksglu/context-mode",
+      "owner": "mksglu",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 27566,
+      "forks": 1956,
+      "stars_24h": 246,
+      "created_at": "2026-02-23T05:56:28+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "codex",
+        "codex-cli",
+        "context-mode",
+        "copilot",
+        "cursor-plugin",
+        "kiro",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "openclaw",
+        "opencode",
+        "pi-agent",
+        "skills",
+        "zed-extension"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 106,
+      "open_issues": 351
+    },
+    {
+      "name": "storytold/artcraft",
+      "owner": "storytold",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": 23134,
+      "forks": 3695,
+      "stars_24h": 4095,
+      "created_at": "2022-03-31T23:19:12+00:00",
+      "language": "Rust",
+      "topics": [
+        "3d-graphics",
+        "ai",
+        "aivideo",
+        "filmmaking",
+        "imagegeneration"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 123,
+      "open_issues": 280
+    },
+    {
+      "name": "open-webui/open-webui",
+      "owner": "open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 155335,
+      "forks": 22664,
+      "stars_24h": 157,
+      "created_at": "2023-10-06T22:08:27+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "RAG"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 676,
+      "open_issues": 196
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "owner": "cathrynlavery",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 53081,
+      "forks": 3353,
+      "stars_24h": 2081,
+      "created_at": "2026-04-16T18:01:16+00:00",
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio",
+        "mermaid",
+        "svg"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 142,
+      "open_issues": 44
+    },
+    {
+      "name": "lyogavin/airllm",
+      "owner": "lyogavin",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "stars": 37775,
+      "forks": 3890,
+      "stars_24h": 879,
+      "created_at": "2023-06-12T16:28:41+00:00",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "chinese-llm",
+        "chinese-nlp",
+        "finetune",
+        "generative-ai",
+        "instruct-gpt",
+        "instruction-set",
+        "llama",
+        "llm",
+        "lora",
+        "open-models",
+        "open-source",
+        "open-source-models",
+        "qlora"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 313,
+      "open_issues": 163
+    },
+    {
+      "name": "microsoft/BitNet",
+      "owner": "microsoft",
+      "description": "Official inference framework for 1-bit LLMs",
+      "stars": 41028,
+      "forks": 3819,
+      "stars_24h": 97,
+      "created_at": "2024-08-05T09:07:38+00:00",
+      "language": "C++",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 371,
+      "open_issues": 373
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": 59521,
+      "forks": 9354,
+      "stars_24h": 626,
+      "created_at": "2026-01-28T19:02:30+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 400,
+      "open_issues": 303
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 60920,
+      "forks": 6836,
+      "stars_24h": 1691,
+      "created_at": "2026-04-09T21:40:26+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "tauri",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 244,
+      "open_issues": 118
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "stars": 61340,
+      "forks": 4858,
+      "stars_24h": 786,
+      "created_at": "2025-12-10T06:54:33+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "aippt",
+        "office",
+        "powerpoint",
+        "powerpoint-generation",
+        "ppt",
+        "pptx",
+        "presentation",
+        "slide",
+        "slides"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 118,
+      "open_issues": 5
+    },
+    {
+      "name": "google/skills",
+      "owner": "google",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 21227,
+      "forks": 1775,
+      "stars_24h": 43,
+      "created_at": "2026-03-31T19:02:20+00:00",
+      "language": "Python",
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 137,
+      "open_issues": 22
+    },
+    {
+      "name": "public-apis/public-apis",
+      "owner": "public-apis",
+      "description": "A collective list of free APIs",
+      "stars": 488116,
+      "forks": 54111,
+      "stars_24h": 432,
+      "created_at": "2016-03-20T23:49:42+00:00",
+      "language": "Python",
+      "topics": [
+        "api",
+        "apis",
+        "dataset",
+        "development",
+        "free",
+        "list",
+        "lists",
+        "open-source",
+        "public",
+        "public-api",
+        "public-apis",
+        "resources",
+        "software"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 4738,
+      "open_issues": 2127
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 46442,
+      "forks": 16054,
+      "stars_24h": 304,
+      "created_at": "2026-03-18T14:33:04+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "career",
+        "claude-code",
+        "cover-letter",
+        "cv",
+        "interview-preparation",
+        "job-application",
+        "job-hunting",
+        "job-search",
+        "latex",
+        "resume"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "eval",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 170,
+      "open_issues": 31
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "owner": "multimodal-art-projection",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": 11838,
+      "forks": 1347,
+      "stars_24h": 216,
+      "created_at": "2025-01-23T06:21:58+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audio-generation",
+        "deep-learning",
+        "foundation-models",
+        "gpt",
+        "huggingface",
+        "llama",
+        "llms",
+        "music-generation",
+        "style-transfers",
+        "voice-cloning"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 104,
+      "open_issues": 75
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Join AVA Smart Program & Win 500 USDT 🔥",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793534400,
+      "url": "https://galxe.com/Travala",
+      "note": "来自 Travala.com 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "FCFS!!! $USDT Rewards for X Blue-Verified Accounts",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs",
+      "summary": "This market refers to the LoL Quarterfinal 3 match between Team WE and FlyQuest in the Demacia Cup Global Invitational P",
+      "volume": "$706,196",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/lol-we-fly-2026-10-13"
+    },
+    {
+      "title": "LoL: Team WE vs FlyQuest - Game 1 Winner",
+      "summary": "This market refers to the LoL Quarterfinal 3 match between Team WE and FlyQuest in the Demacia Cup Global Invitational P",
+      "volume": "$695,849",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/lol-we-fly-2026-10-13-game1"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "morluto/rea",
+        "stars": 174489,
+        "growth": 55759,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "forks": 41820,
+        "stars_24h": 45327
+      },
+      {
+        "name": "storytold/artcraft",
+        "stars": 23134,
+        "growth": 4189,
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "forks": 3695,
+        "stars_24h": 4095
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 53081,
+        "growth": 2115,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 3353,
+        "stars_24h": 2081
+      },
+      {
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": 54190,
+        "growth": 2019,
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "forks": 10669,
+        "stars_24h": 1895
+      },
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 60920,
+        "growth": 1732,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 6836,
+        "stars_24h": 1691
+      },
+      {
+        "name": "Alishahryar1/free-claude-code",
+        "stars": 59521,
+        "growth": 1353,
+        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "topics": [],
+        "forks": 9354,
+        "stars_24h": 626
+      },
+      {
+        "name": "mksglu/context-mode",
+        "stars": 27566,
+        "growth": 1122,
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "topics": [
+          "antigravity",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugins",
+          "claude-code-skill",
+          "codex",
+          "codex-cli",
+          "context-mode",
+          "copilot",
+          "cursor-plugin",
+          "kiro",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "openclaw",
+          "opencode",
+          "pi-agent",
+          "skills",
+          "zed-extension"
+        ],
+        "forks": 1956,
+        "stars_24h": 246
+      },
+      {
+        "name": "lyogavin/airllm",
+        "stars": 37775,
+        "growth": 1020,
+        "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "topics": [
+          "chinese-llm",
+          "chinese-nlp",
+          "finetune",
+          "generative-ai",
+          "instruct-gpt",
+          "instruction-set",
+          "llama",
+          "llm",
+          "lora",
+          "open-models",
+          "open-source",
+          "open-source-models",
+          "qlora"
+        ],
+        "forks": 3890,
+        "stars_24h": 879
+      },
+      {
+        "name": "hugohe3/ppt-master",
+        "stars": 61340,
+        "growth": 747,
+        "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "aippt",
+          "office",
+          "powerpoint",
+          "powerpoint-generation",
+          "ppt",
+          "pptx",
+          "presentation",
+          "slide",
+          "slides"
+        ],
+        "forks": 4858,
+        "stars_24h": 786
+      },
+      {
+        "name": "MadsLorentzen/ai-job-search",
+        "stars": 46442,
+        "growth": 224,
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "career",
+          "claude-code",
+          "cover-letter",
+          "cv",
+          "interview-preparation",
+          "job-application",
+          "job-hunting",
+          "job-search",
+          "latex",
+          "resume"
+        ],
+        "forks": 16054,
+        "stars_24h": 304
+      }
+    ],
+    "weekly": [
+      {
+        "name": "morluto/rea",
+        "stars": 174489,
+        "growth": 163944,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "forks": 41820,
+        "stars_24h": 45327
+      },
+      {
+        "name": "storytold/artcraft",
+        "stars": 23134,
+        "growth": 14256,
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "forks": 3695,
+        "stars_24h": 4095
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 53081,
+        "growth": 8852,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 3353,
+        "stars_24h": 2081
+      },
+      {
+        "name": "mksglu/context-mode",
+        "stars": 27566,
+        "growth": 2269,
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "topics": [
+          "antigravity",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugins",
+          "claude-code-skill",
+          "codex",
+          "codex-cli",
+          "context-mode",
+          "copilot",
+          "cursor-plugin",
+          "kiro",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "openclaw",
+          "opencode",
+          "pi-agent",
+          "skills",
+          "zed-extension"
+        ],
+        "forks": 1956,
+        "stars_24h": 246
+      }
+    ],
+    "monthly": [
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 60920,
+        "growth": 33543,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 6836,
+        "stars_24h": 1691
+      },
+      {
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": 54190,
+        "growth": 21869,
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "forks": 10669,
+        "stars_24h": 1895
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 53081,
+        "growth": 15115,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 3353,
+        "stars_24h": 2081
+      },
+      {
+        "name": "multimodal-art-projection/YuE",
+        "stars": 11838,
+        "growth": 3947,
+        "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audio-generation",
+          "deep-learning",
+          "foundation-models",
+          "gpt",
+          "huggingface",
+          "llama",
+          "llms",
+          "music-generation",
+          "style-transfers",
+          "voice-cloning"
+        ],
+        "forks": 1347,
+        "stars_24h": 216
+      }
+    ],
+    "3month": [
+      {
+        "name": "lyogavin/airllm",
+        "stars": 37775,
+        "growth": 14398,
+        "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "topics": [
+          "chinese-llm",
+          "chinese-nlp",
+          "finetune",
+          "generative-ai",
+          "instruct-gpt",
+          "instruction-set",
+          "llama",
+          "llm",
+          "lora",
+          "open-models",
+          "open-source",
+          "open-source-models",
+          "qlora"
+        ],
+        "forks": 3890,
+        "stars_24h": 879
+      }
+    ],
+    "6month": [
+      {
+        "name": "public-apis/public-apis",
+        "stars": 488116,
+        "growth": 63875,
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "topics": [
+          "api",
+          "apis",
+          "dataset",
+          "development",
+          "free",
+          "list",
+          "lists",
+          "open-source",
+          "public",
+          "public-api",
+          "public-apis",
+          "resources",
+          "software"
+        ],
+        "forks": 54111,
+        "stars_24h": 432
+      },
+      {
+        "name": "hugohe3/ppt-master",
+        "stars": 61340,
+        "growth": 56150,
+        "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+        "language": "Python",
+        "topics": [
+          "ai-agent",
+          "aippt",
+          "office",
+          "powerpoint",
+          "powerpoint-generation",
+          "ppt",
+          "pptx",
+          "presentation",
+          "slide",
+          "slides"
+        ],
+        "forks": 4858,
+        "stars_24h": 786
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
