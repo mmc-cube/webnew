@@ -1,0 +1,1026 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-14T05:34:56.986936",
+  "brief": [
+    {
+      "conclusion": "morluto/rea 24h +54679 stars — Reverse engineer anything with agents, from app behavior dow",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 215,969",
+      "evidence_urls": [
+        "https://github.com/morluto/rea"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "storytold/artcraft 24h +4081 stars — ArtCraft is an intentional crafting engine for artists, desi",
+      "why_hot": "新项目爆发，语言: Rust，总 stars: 26,265",
+      "evidence_urls": [
+        "https://github.com/storytold/artcraft"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "bilawalsidhu/gods-eye-view 24h +1961 stars — A spy satellite simulator in your browser, except the data i",
+      "why_hot": "新项目爆发，语言: JavaScript，总 stars: 55,740",
+      "evidence_urls": [
+        "https://github.com/bilawalsidhu/gods-eye-view"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰（0成本）",
+      "why_hot": "来自 Coincamps 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Coincamps"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Join AVA Smart Program & Win 500 USDT 🔥（0成本）",
+      "why_hot": "来自 Travala.com 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Travala"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "morluto/rea",
+      "owner": "morluto",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 215969,
+      "forks": 53281,
+      "stars_24h": 54679,
+      "created_at": "2026-04-14T00:51:32+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis",
+        "claude-code",
+        "cli",
+        "codex",
+        "cordis",
+        "ctf",
+        "decompiler",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "ghidra",
+        "hopper",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "rea",
+        "reverse-engineering",
+        "static-analysis"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 724,
+      "open_issues": 597
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "owner": "bilawalsidhu",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 55740,
+      "forks": 10878,
+      "stars_24h": 1961,
+      "created_at": "2026-06-22T23:37:22+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis",
+        "osint",
+        "photogrammetry",
+        "satellite-tracking",
+        "spatial-intelligence",
+        "webgl",
+        "worldview"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1042,
+      "open_issues": 413
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 63995,
+      "forks": 7116,
+      "stars_24h": 1748,
+      "created_at": "2026-04-09T21:40:26+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 250,
+      "open_issues": 157
+    },
+    {
+      "name": "mksglu/context-mode",
+      "owner": "mksglu",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 28429,
+      "forks": 2003,
+      "stars_24h": 969,
+      "created_at": "2026-02-23T05:56:28+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "codex",
+        "codex-cli",
+        "context-mode",
+        "copilot",
+        "cursor-plugin",
+        "kiro",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "openclaw",
+        "opencode",
+        "pi-agent",
+        "skills",
+        "zed-extension"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 106,
+      "open_issues": 357
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "owner": "cathrynlavery",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 54514,
+      "forks": 3451,
+      "stars_24h": 1815,
+      "created_at": "2026-04-16T18:01:16+00:00",
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio",
+        "mermaid",
+        "svg"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 144,
+      "open_issues": 46
+    },
+    {
+      "name": "vercel-labs/skills",
+      "owner": "vercel-labs",
+      "description": "The open agent skills tool - npx skills",
+      "stars": 34676,
+      "forks": 2957,
+      "stars_24h": 190,
+      "created_at": "2026-01-14T21:31:18+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 116,
+      "open_issues": 1117
+    },
+    {
+      "name": "lyogavin/airllm",
+      "owner": "lyogavin",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "stars": 38452,
+      "forks": 3932,
+      "stars_24h": 1001,
+      "created_at": "2023-06-12T16:28:41+00:00",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "chinese-llm",
+        "chinese-nlp",
+        "finetune",
+        "generative-ai",
+        "instruct-gpt",
+        "instruction-set",
+        "llama",
+        "llm",
+        "lora",
+        "open-models",
+        "open-source",
+        "open-source-models",
+        "qlora"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 315,
+      "open_issues": 166
+    },
+    {
+      "name": "storytold/artcraft",
+      "owner": "storytold",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": 26265,
+      "forks": 4112,
+      "stars_24h": 4081,
+      "created_at": "2022-03-31T23:19:12+00:00",
+      "language": "Rust",
+      "topics": [
+        "3d-graphics",
+        "ai",
+        "aivideo",
+        "filmmaking",
+        "imagegeneration"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 146,
+      "open_issues": 329
+    },
+    {
+      "name": "xtool-org/xtool",
+      "owner": "xtool-org",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "stars": 9688,
+      "forks": 410,
+      "stars_24h": 1198,
+      "created_at": "2024-11-17T08:18:44+00:00",
+      "language": "Swift",
+      "topics": [
+        "ios",
+        "linux",
+        "swift",
+        "swift-package-manager",
+        "windows",
+        "xcode"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 40,
+      "open_issues": 96
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": 60301,
+      "forks": 9438,
+      "stars_24h": 1461,
+      "created_at": "2026-01-28T19:02:30+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 405,
+      "open_issues": 310
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 130586,
+      "forks": 20493,
+      "stars_24h": 341,
+      "created_at": "2024-03-11T02:57:34+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-video-generator",
+        "content-creation",
+        "ffmpeg",
+        "instagram-reels",
+        "llm",
+        "python",
+        "short-video",
+        "subtitles",
+        "text-to-speech",
+        "tiktok",
+        "video-automation",
+        "video-workflow",
+        "workflow-automation",
+        "youtube-shorts"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 801,
+      "open_issues": 69
+    },
+    {
+      "name": "open-webui/open-webui",
+      "owner": "open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 155600,
+      "forks": 22683,
+      "stars_24h": 919,
+      "created_at": "2023-10-06T22:08:27+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "RAG"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 677,
+      "open_issues": 206
+    },
+    {
+      "name": "baidu/Unlimited-OCR",
+      "owner": "baidu",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "stars": 27313,
+      "forks": 2870,
+      "stars_24h": 225,
+      "created_at": "2026-06-18T08:40:15+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 148,
+      "open_issues": 81
+    },
+    {
+      "name": "browser-use/video-use",
+      "owner": "browser-use",
+      "description": "Edit videos with coding agents",
+      "stars": 28892,
+      "forks": 3416,
+      "stars_24h": 95,
+      "created_at": "2026-04-12T01:34:42+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 156,
+      "open_issues": 149
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 64178,
+      "forks": 5603,
+      "stars_24h": 91,
+      "created_at": "2026-01-23T20:37:37+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-prompts",
+        "ai-skill",
+        "bluesky",
+        "claude",
+        "claude-code",
+        "clawhub",
+        "deep-research",
+        "hackernews",
+        "instagram",
+        "openclaw",
+        "polymarket",
+        "recency",
+        "reddit",
+        "research",
+        "social-media",
+        "tiktok",
+        "trends",
+        "twitter",
+        "web-search",
+        "youtube"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 219,
+      "open_issues": 28
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Join AVA Smart Program & Win 500 USDT 🔥",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793534400,
+      "url": "https://galxe.com/Travala",
+      "note": "来自 Travala.com 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "FCFS!!! $USDT Rewards for X Blue-Verified Accounts",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Will Manchester City FC win on 2026-10-14?",
+      "summary": "In the upcoming game, scheduled for October 14, 2026\nIf Manchester City FC wins, this market will resolve to \"Yes\".\nOthe",
+      "volume": "$608,679",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/ucl-mnc-psg-2026-10-14-mnc"
+    },
+    {
+      "title": "Seahawks vs. Broncos",
+      "summary": "In the upcoming NFL football game between Seahawks and Broncos, scheduled for October 15 at 8:15PM ET:\nThis market will ",
+      "volume": "$522,859",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/nfl-sea-den-2026-10-16"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "morluto/rea",
+        "stars": 215969,
+        "growth": 97239,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "rea",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "forks": 53281,
+        "stars_24h": 54679
+      },
+      {
+        "name": "storytold/artcraft",
+        "stars": 26265,
+        "growth": 7320,
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "forks": 4112,
+        "stars_24h": 4081
+      },
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 63995,
+        "growth": 4807,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 7116,
+        "stars_24h": 1748
+      },
+      {
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": 55740,
+        "growth": 3569,
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "forks": 10878,
+        "stars_24h": 1961
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 54514,
+        "growth": 3548,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 3451,
+        "stars_24h": 1815
+      },
+      {
+        "name": "Alishahryar1/free-claude-code",
+        "stars": 60301,
+        "growth": 2133,
+        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "topics": [],
+        "forks": 9438,
+        "stars_24h": 1461
+      },
+      {
+        "name": "mksglu/context-mode",
+        "stars": 28429,
+        "growth": 1985,
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "topics": [
+          "antigravity",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugins",
+          "claude-code-skill",
+          "codex",
+          "codex-cli",
+          "context-mode",
+          "copilot",
+          "cursor-plugin",
+          "kiro",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "openclaw",
+          "opencode",
+          "pi-agent",
+          "skills",
+          "zed-extension"
+        ],
+        "forks": 2003,
+        "stars_24h": 969
+      },
+      {
+        "name": "lyogavin/airllm",
+        "stars": 38452,
+        "growth": 1697,
+        "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "topics": [
+          "chinese-llm",
+          "chinese-nlp",
+          "finetune",
+          "generative-ai",
+          "instruct-gpt",
+          "instruction-set",
+          "llama",
+          "llm",
+          "lora",
+          "open-models",
+          "open-source",
+          "open-source-models",
+          "qlora"
+        ],
+        "forks": 3932,
+        "stars_24h": 1001
+      },
+      {
+        "name": "hugohe3/ppt-master",
+        "stars": 61340,
+        "growth": 747,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "MadsLorentzen/ai-job-search",
+        "stars": 46442,
+        "growth": 224,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      }
+    ],
+    "weekly": [
+      {
+        "name": "morluto/rea",
+        "stars": 215969,
+        "growth": 205424,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "rea",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "forks": 53281,
+        "stars_24h": 54679
+      },
+      {
+        "name": "storytold/artcraft",
+        "stars": 26265,
+        "growth": 17387,
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "forks": 4112,
+        "stars_24h": 4081
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 54514,
+        "growth": 10285,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 3451,
+        "stars_24h": 1815
+      },
+      {
+        "name": "mksglu/context-mode",
+        "stars": 28429,
+        "growth": 3132,
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "topics": [
+          "antigravity",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugins",
+          "claude-code-skill",
+          "codex",
+          "codex-cli",
+          "context-mode",
+          "copilot",
+          "cursor-plugin",
+          "kiro",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "openclaw",
+          "opencode",
+          "pi-agent",
+          "skills",
+          "zed-extension"
+        ],
+        "forks": 2003,
+        "stars_24h": 969
+      }
+    ],
+    "monthly": [
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 63995,
+        "growth": 36618,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 7116,
+        "stars_24h": 1748
+      },
+      {
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": 55740,
+        "growth": 23419,
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "forks": 10878,
+        "stars_24h": 1961
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 54514,
+        "growth": 16548,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 3451,
+        "stars_24h": 1815
+      },
+      {
+        "name": "multimodal-art-projection/YuE",
+        "stars": 11838,
+        "growth": 3947,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "vercel-labs/skills",
+        "stars": 34676,
+        "growth": 3423,
+        "description": "The open agent skills tool - npx skills",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 2957,
+        "stars_24h": 190
+      }
+    ],
+    "3month": [
+      {
+        "name": "lyogavin/airllm",
+        "stars": 38452,
+        "growth": 15075,
+        "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "topics": [
+          "chinese-llm",
+          "chinese-nlp",
+          "finetune",
+          "generative-ai",
+          "instruct-gpt",
+          "instruction-set",
+          "llama",
+          "llm",
+          "lora",
+          "open-models",
+          "open-source",
+          "open-source-models",
+          "qlora"
+        ],
+        "forks": 3932,
+        "stars_24h": 1001
+      }
+    ],
+    "6month": [
+      {
+        "name": "public-apis/public-apis",
+        "stars": 488116,
+        "growth": 63875,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "hugohe3/ppt-master",
+        "stars": 61340,
+        "growth": 56150,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
