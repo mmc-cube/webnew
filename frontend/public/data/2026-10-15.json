@@ -1,0 +1,858 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-15T05:22:45.957781",
+  "brief": [
+    {
+      "conclusion": "morluto/rea 24h +41034 stars — Reverse engineer anything with agents, from app behavior dow",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 248,957",
+      "evidence_urls": [
+        "https://github.com/morluto/rea"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "debpalash/VoiceStudio 24h +3538 stars — VoiceStudio is the open-source, fully-local ElevenLabs alter",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 66,980",
+      "evidence_urls": [
+        "https://github.com/debpalash/VoiceStudio"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "ifixai-ai/iFixAi 24h +2109 stars — Independent Auditing of AI Agents. Run by human or the agent",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 27,724",
+      "evidence_urls": [
+        "https://github.com/ifixai-ai/iFixAi"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰（0成本）",
+      "why_hot": "来自 Coincamps 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Coincamps"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Join AVA Smart Program & Win 500 USDT 🔥（0成本）",
+      "why_hot": "来自 Travala.com 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Travala"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "morluto/rea",
+      "owner": "morluto",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 248957,
+      "forks": 62493,
+      "stars_24h": 41034,
+      "created_at": "2026-04-14T00:51:32+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis",
+        "claude-code",
+        "cli",
+        "codex",
+        "cordis",
+        "decompiler",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "ghidra",
+        "hopper",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "rea",
+        "reverse-engineering",
+        "static-analysis",
+        "touhou"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 842,
+      "open_issues": 815
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 66980,
+      "forks": 7368,
+      "stars_24h": 3538,
+      "created_at": "2026-04-09T21:40:26+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 258,
+      "open_issues": 197
+    },
+    {
+      "name": "mksglu/context-mode",
+      "owner": "mksglu",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 29302,
+      "forks": 2055,
+      "stars_24h": 947,
+      "created_at": "2026-02-23T05:56:28+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "codex",
+        "codex-cli",
+        "context-mode",
+        "copilot",
+        "cursor-plugin",
+        "kiro",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "openclaw",
+        "opencode",
+        "pi-agent",
+        "skills",
+        "zed-extension"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 108,
+      "open_issues": 359
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "owner": "nvm-sh",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "stars": 95494,
+      "forks": 10522,
+      "stars_24h": 52,
+      "created_at": "2010-04-15T17:47:47+00:00",
+      "language": "Shell",
+      "topics": [
+        "bash",
+        "install",
+        "lts",
+        "node",
+        "node-js",
+        "nodejs",
+        "nvm",
+        "nvmrc",
+        "posix",
+        "posix-compliant",
+        "shell",
+        "version-manager",
+        "zsh"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1114,
+      "open_issues": 382
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 49585,
+      "forks": 4436,
+      "stars_24h": 163,
+      "created_at": "2025-10-19T20:54:15+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-scientist",
+        "bioinformatics",
+        "chemoinformatics",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "clinical-research",
+        "computational-biology",
+        "data-analysis",
+        "drug-discovery",
+        "genomics",
+        "materials-science",
+        "metabolomics",
+        "proteomics",
+        "scientific-computing",
+        "scientific-visualization"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 208,
+      "open_issues": 31
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 52678,
+      "forks": 4780,
+      "stars_24h": 103,
+      "created_at": "2026-03-08T13:52:57+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 210,
+      "open_issues": 169
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "owner": "ifixai-ai",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "stars": 27724,
+      "forks": 1515,
+      "stars_24h": 2109,
+      "created_at": "2026-04-27T13:02:34+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-evaluation",
+        "ai",
+        "ai-alignment",
+        "ai-evaluation",
+        "ai-governance",
+        "ai-safety",
+        "cli",
+        "diagnostic-tool",
+        "eu-ai-act",
+        "hallucination-detection",
+        "iso-42001",
+        "llm-evaluation",
+        "llm-security",
+        "nist-ai-rmf",
+        "owasp-llm",
+        "prompt-injection",
+        "python",
+        "responsible-ai",
+        "risk-assessment",
+        "risk-management"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "eval",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 410,
+      "open_issues": 8
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "owner": "vxcontrol",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 29822,
+      "forks": 4474,
+      "stars_24h": 1025,
+      "created_at": "2025-01-06T22:22:48+00:00",
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "ai-security-tool",
+        "anthropic",
+        "autonomous-agents",
+        "golang",
+        "gpt",
+        "graphql",
+        "multi-agent-system",
+        "offensive-security",
+        "open-source",
+        "openai",
+        "penetration-testing",
+        "penetration-testing-tools",
+        "react",
+        "security-automation",
+        "security-testing",
+        "security-tools",
+        "self-hosted"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 159,
+      "open_issues": 30
+    },
+    {
+      "name": "rust-lang/rust",
+      "owner": "rust-lang",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "stars": 120144,
+      "forks": 18707,
+      "stars_24h": 207,
+      "created_at": "2010-06-16T20:39:03+00:00",
+      "language": "Rust",
+      "topics": [
+        "compiler",
+        "language",
+        "rust"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1561,
+      "open_issues": 12558
+    },
+    {
+      "name": "xtool-org/xtool",
+      "owner": "xtool-org",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "stars": 11088,
+      "forks": 506,
+      "stars_24h": 1502,
+      "created_at": "2024-11-17T08:18:44+00:00",
+      "language": "Swift",
+      "topics": [
+        "ios",
+        "linux",
+        "swift",
+        "swift-package-manager",
+        "windows",
+        "xcode"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 45,
+      "open_issues": 105
+    },
+    {
+      "name": "ntdevlabs/tiny11builder",
+      "owner": "ntdevlabs",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "stars": 20337,
+      "forks": 1559,
+      "stars_24h": 139,
+      "created_at": "2023-02-24T23:42:36+00:00",
+      "language": "C#",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 176,
+      "open_issues": 37
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 87790,
+      "forks": 9794,
+      "stars_24h": 1008,
+      "created_at": "2019-03-01T03:27:48+00:00",
+      "language": "Java",
+      "topics": [
+        "disassembler",
+        "reverse-engineering",
+        "software-analysis"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1183,
+      "open_issues": 2113
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": 60597,
+      "forks": 9480,
+      "stars_24h": 540,
+      "created_at": "2026-01-28T19:02:30+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 411,
+      "open_issues": 309
+    },
+    {
+      "name": "home-assistant/core",
+      "owner": "home-assistant",
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "stars": 91507,
+      "forks": 38930,
+      "stars_24h": 145,
+      "created_at": "2013-09-17T07:29:48+00:00",
+      "language": "Python",
+      "topics": [
+        "asyncio",
+        "hacktoberfest",
+        "home-automation",
+        "internet-of-things",
+        "iot",
+        "mqtt",
+        "python",
+        "raspberry-pi"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1373,
+      "open_issues": 3358
+    },
+    {
+      "name": "python/cpython",
+      "owner": "python",
+      "description": "The Python programming language",
+      "stars": 77556,
+      "forks": 38374,
+      "stars_24h": 130,
+      "created_at": "2017-02-10T19:23:51+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1672,
+      "open_issues": 9753
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Join AVA Smart Program & Win 500 USDT 🔥",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793534400,
+      "url": "https://galxe.com/Travala",
+      "note": "来自 Travala.com 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "10,000 USDT | CoinW Alpha Trading Airdrop #8",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793462400,
+      "url": "https://galxe.com/GemW",
+      "note": "来自 GemW 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Will Indiana enact a data center moratorium by December 31, 2027?",
+      "summary": "This market will resolve to \"Yes\" if the State of Indiana enacts a law or constitutional provision that establishes a st",
+      "volume": "$2,132,919",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2027"
+    },
+    {
+      "title": "Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider",
+      "summary": "This market refers to the tennis match between Karolina Muchova and Diana Shnaider in the Wuhan Tennis Open, originally ",
+      "volume": "$845,560",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/wta-muchova-shnaide-2026-10-14"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "morluto/rea",
+        "stars": 248957,
+        "growth": 32988,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "decompiler",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "rea",
+          "reverse-engineering",
+          "static-analysis",
+          "touhou"
+        ],
+        "forks": 62493,
+        "stars_24h": 41034
+      },
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 66980,
+        "growth": 2985,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 7368,
+        "stars_24h": 3538
+      },
+      {
+        "name": "xtool-org/xtool",
+        "stars": 11088,
+        "growth": 1400,
+        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+        "language": "Swift",
+        "topics": [
+          "ios",
+          "linux",
+          "swift",
+          "swift-package-manager",
+          "windows",
+          "xcode"
+        ],
+        "forks": 506,
+        "stars_24h": 1502
+      },
+      {
+        "name": "mksglu/context-mode",
+        "stars": 29302,
+        "growth": 873,
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "topics": [
+          "antigravity",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugins",
+          "claude-code-skill",
+          "codex",
+          "codex-cli",
+          "context-mode",
+          "copilot",
+          "cursor-plugin",
+          "kiro",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "openclaw",
+          "opencode",
+          "pi-agent",
+          "skills",
+          "zed-extension"
+        ],
+        "forks": 2055,
+        "stars_24h": 947
+      },
+      {
+        "name": "Alishahryar1/free-claude-code",
+        "stars": 60597,
+        "growth": 296,
+        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "topics": [],
+        "forks": 9480,
+        "stars_24h": 540
+      }
+    ],
+    "weekly": [
+      {
+        "name": "morluto/rea",
+        "stars": 248957,
+        "growth": 238412,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "decompiler",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "rea",
+          "reverse-engineering",
+          "static-analysis",
+          "touhou"
+        ],
+        "forks": 62493,
+        "stars_24h": 41034
+      },
+      {
+        "name": "mksglu/context-mode",
+        "stars": 29302,
+        "growth": 4005,
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "topics": [
+          "antigravity",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugins",
+          "claude-code-skill",
+          "codex",
+          "codex-cli",
+          "context-mode",
+          "copilot",
+          "cursor-plugin",
+          "kiro",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "openclaw",
+          "opencode",
+          "pi-agent",
+          "skills",
+          "zed-extension"
+        ],
+        "forks": 2055,
+        "stars_24h": 947
+      }
+    ],
+    "monthly": [
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 66980,
+        "growth": 37309,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 7368,
+        "stars_24h": 3538
+      },
+      {
+        "name": "NationalSecurityAgency/ghidra",
+        "stars": 87790,
+        "growth": 10884,
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "topics": [
+          "disassembler",
+          "reverse-engineering",
+          "software-analysis"
+        ],
+        "forks": 9794,
+        "stars_24h": 1008
+      },
+      {
+        "name": "vxcontrol/pentagi",
+        "stars": 29822,
+        "growth": 5705,
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "topics": [
+          "ai-agents",
+          "ai-security-tool",
+          "anthropic",
+          "autonomous-agents",
+          "golang",
+          "gpt",
+          "graphql",
+          "multi-agent-system",
+          "offensive-security",
+          "open-source",
+          "openai",
+          "penetration-testing",
+          "penetration-testing-tools",
+          "react",
+          "security-automation",
+          "security-testing",
+          "security-tools",
+          "self-hosted"
+        ],
+        "forks": 4474,
+        "stars_24h": 1025
+      }
+    ],
+    "3month": [],
+    "6month": [
+      {
+        "name": "home-assistant/core",
+        "stars": 91507,
+        "growth": 5381,
+        "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+        "language": "Python",
+        "topics": [
+          "asyncio",
+          "hacktoberfest",
+          "home-automation",
+          "internet-of-things",
+          "iot",
+          "mqtt",
+          "python",
+          "raspberry-pi"
+        ],
+        "forks": 38930,
+        "stars_24h": 145
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
