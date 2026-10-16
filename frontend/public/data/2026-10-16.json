@@ -1,0 +1,908 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-16T05:14:36.466183",
+  "brief": [
+    {
+      "conclusion": "morluto/rea 24h +32314 stars — Reverse engineer anything with agents, from app behavior dow",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 275,609",
+      "evidence_urls": [
+        "https://github.com/morluto/rea"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "debpalash/VoiceStudio 24h +3024 stars — VoiceStudio is the open-source, fully-local ElevenLabs alter",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 69,480",
+      "evidence_urls": [
+        "https://github.com/debpalash/VoiceStudio"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "NationalSecurityAgency/ghidra 24h +1369 stars — Ghidra is a software reverse engineering (SRE) framework",
+      "why_hot": "新项目爆发，语言: Java，总 stars: 88,981",
+      "evidence_urls": [
+        "https://github.com/NationalSecurityAgency/ghidra"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰（0成本）",
+      "why_hot": "来自 Coincamps 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Coincamps"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Join AVA Smart Program & Win 500 USDT 🔥（0成本）",
+      "why_hot": "来自 Travala.com 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Travala"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "morluto/rea",
+      "owner": "morluto",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 275609,
+      "forks": 69420,
+      "stars_24h": 32314,
+      "created_at": "2026-04-14T00:51:32+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis",
+        "claude-code",
+        "cli",
+        "codex",
+        "cordis",
+        "decompiler",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "ghidra",
+        "hopper",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "rea",
+        "reverse-engineering",
+        "static-analysis",
+        "touhou"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 947,
+      "open_issues": 1019
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "owner": "anthropics",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 39349,
+      "forks": 4343,
+      "stars_24h": 307,
+      "created_at": "2025-11-20T18:36:20+00:00",
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "mcp",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 242,
+      "open_issues": 1131
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 50710,
+      "forks": 4504,
+      "stars_24h": 1091,
+      "created_at": "2025-10-19T20:54:15+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-scientist",
+        "bioinformatics",
+        "chemoinformatics",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "clinical-research",
+        "computational-biology",
+        "data-analysis",
+        "drug-discovery",
+        "genomics",
+        "materials-science",
+        "metabolomics",
+        "proteomics",
+        "scientific-computing",
+        "scientific-visualization"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 212,
+      "open_issues": 41
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "owner": "JuliusBrussee",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 112727,
+      "forks": 6529,
+      "stars_24h": 433,
+      "created_at": "2026-04-04T10:03:00+00:00",
+      "language": "Go",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code",
+        "llm",
+        "meme",
+        "prompt-engineering",
+        "skill",
+        "tokens"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 259,
+      "open_issues": 68
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 69480,
+      "forks": 7607,
+      "stars_24h": 3024,
+      "created_at": "2026-04-09T21:40:26+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 272,
+      "open_issues": 186
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 300082,
+      "forks": 26800,
+      "stars_24h": 582,
+      "created_at": "2025-10-09T19:45:18+00:00",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1107,
+      "open_issues": 365
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "owner": "ruvnet",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 75247,
+      "forks": 8942,
+      "stars_24h": 147,
+      "created_at": "2025-06-02T21:24:20+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "agents",
+        "ai-agents",
+        "ai-assistant",
+        "ai-skills",
+        "autonomous-agents",
+        "claude",
+        "codex",
+        "dsh-plugin",
+        "harness",
+        "mcp-server",
+        "multi-agent",
+        "multi-agent-systems",
+        "npm",
+        "skills",
+        "swarm",
+        "swarm-intelligence",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 463,
+      "open_issues": 1055
+    },
+    {
+      "name": "mksglu/context-mode",
+      "owner": "mksglu",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 29884,
+      "forks": 2087,
+      "stars_24h": 904,
+      "created_at": "2026-02-23T05:56:28+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "codex",
+        "codex-cli",
+        "context-mode",
+        "copilot",
+        "cursor-plugin",
+        "kiro",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "openclaw",
+        "opencode",
+        "pi-agent",
+        "skills",
+        "zed-extension"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 110,
+      "open_issues": 359
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 88981,
+      "forks": 9934,
+      "stars_24h": 1369,
+      "created_at": "2019-03-01T03:27:48+00:00",
+      "language": "Java",
+      "topics": [
+        "disassembler",
+        "reverse-engineering",
+        "software-analysis"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1185,
+      "open_issues": 2113
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 280575,
+      "forks": 41723,
+      "stars_24h": 1013,
+      "created_at": "2026-01-18T00:51:51+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1399,
+      "open_issues": 216
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "owner": "lightseekorg",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "stars": 2551,
+      "forks": 342,
+      "stars_24h": 30,
+      "created_at": "2026-05-06T13:13:21+00:00",
+      "language": "Python",
+      "topics": [
+        "b200",
+        "b300",
+        "blackwell",
+        "deepseek",
+        "gb200",
+        "gb300",
+        "glm",
+        "gpt-oss",
+        "inkling",
+        "kimi",
+        "lightseek",
+        "llm",
+        "mi355x",
+        "mi455x",
+        "minimax",
+        "qwen",
+        "rubin",
+        "speed-of-light",
+        "tokenspeed",
+        "vlm"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 16,
+      "open_issues": 108
+    },
+    {
+      "name": "xerj-org/xerj",
+      "owner": "xerj-org",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "stars": 5892,
+      "forks": 318,
+      "stars_24h": 715,
+      "created_at": "2026-06-30T04:32:45+00:00",
+      "language": "Rust",
+      "topics": [
+        "ai-search",
+        "ai-search-algorithms",
+        "ai-search-engine",
+        "ai-search-free",
+        "ai-search-module",
+        "ai-search-optimization",
+        "ai-searchengine",
+        "bm25-search",
+        "elastic-search",
+        "elasticsearch",
+        "elasticstack",
+        "graph-search",
+        "graph-semantic-search",
+        "hybrid-search",
+        "hybrid-semantic-search",
+        "search-api",
+        "search-engine",
+        "semantic-search",
+        "vector-database",
+        "vector-search"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "RAG"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 17,
+      "open_issues": 46
+    },
+    {
+      "name": "LibreSpark/LibreTV",
+      "owner": "LibreSpark",
+      "description": "一分钟搭建影视站，支持Docker等部署方式",
+      "stars": 18213,
+      "forks": 28785,
+      "stars_24h": 978,
+      "created_at": "2025-04-06T10:52:08+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "css",
+        "film",
+        "html",
+        "movie-web-app",
+        "movies-and-cinemas",
+        "nextjs",
+        "tv"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 11,
+      "open_issues": 5
+    },
+    {
+      "name": "Crosstalk-Solutions/unifi-toolkit",
+      "owner": "Crosstalk-Solutions",
+      "description": "A suite of tools for UniFi network management",
+      "stars": 668,
+      "forks": 68,
+      "stars_24h": 44,
+      "created_at": "2025-12-01T16:55:40+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 25,
+      "open_issues": 10
+    },
+    {
+      "name": "ahujasid/mcp-for-blender",
+      "owner": "ahujasid",
+      "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
+      "stars": 31002,
+      "forks": 2820,
+      "stars_24h": 126,
+      "created_at": "2025-03-07T09:58:58+00:00",
+      "language": "Python",
+      "topics": [
+        "3d-modeling",
+        "ai",
+        "blender",
+        "blender-addon",
+        "blender-mcp",
+        "claude",
+        "generative-ai",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "python"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 209,
+      "open_issues": 51
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Join AVA Smart Program & Win 500 USDT 🔥",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793534400,
+      "url": "https://galxe.com/Travala",
+      "note": "来自 Travala.com 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "10,000 USDT | CoinW Alpha Trading Airdrop #8",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793462400,
+      "url": "https://galxe.com/GemW",
+      "note": "来自 GemW 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko",
+      "summary": "This market refers to the tennis match between Diana Shnaider and Jelena Ostapenko in the Wuhan Tennis Open, originally ",
+      "volume": "$1,022,023",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/wta-shnaide-ostapen-2026-10-15"
+    },
+    {
+      "title": "2026 Balance of Power: Other",
+      "summary": "This market will resolve according to the party that wins control of the United States Senate and the party that wins co",
+      "volume": "$381,379",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/2026-balance-of-power-other-131"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "morluto/rea",
+        "stars": 275609,
+        "growth": 26652,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "decompiler",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "rea",
+          "reverse-engineering",
+          "static-analysis",
+          "touhou"
+        ],
+        "forks": 69420,
+        "stars_24h": 32314
+      },
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 69480,
+        "growth": 2500,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 7607,
+        "stars_24h": 3024
+      },
+      {
+        "name": "NationalSecurityAgency/ghidra",
+        "stars": 88981,
+        "growth": 1191,
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "topics": [
+          "disassembler",
+          "reverse-engineering",
+          "software-analysis"
+        ],
+        "forks": 9934,
+        "stars_24h": 1369
+      },
+      {
+        "name": "K-Dense-AI/scientific-agent-skills",
+        "stars": 50710,
+        "growth": 1125,
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-scientist",
+          "bioinformatics",
+          "chemoinformatics",
+          "claude",
+          "claude-skills",
+          "claudecode",
+          "clinical-research",
+          "computational-biology",
+          "data-analysis",
+          "drug-discovery",
+          "genomics",
+          "materials-science",
+          "metabolomics",
+          "proteomics",
+          "scientific-computing",
+          "scientific-visualization"
+        ],
+        "forks": 4504,
+        "stars_24h": 1091
+      },
+      {
+        "name": "mksglu/context-mode",
+        "stars": 29884,
+        "growth": 582,
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "topics": [
+          "antigravity",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugins",
+          "claude-code-skill",
+          "codex",
+          "codex-cli",
+          "context-mode",
+          "copilot",
+          "cursor-plugin",
+          "kiro",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "openclaw",
+          "opencode",
+          "pi-agent",
+          "skills",
+          "zed-extension"
+        ],
+        "forks": 2087,
+        "stars_24h": 904
+      }
+    ],
+    "weekly": [
+      {
+        "name": "morluto/rea",
+        "stars": 275609,
+        "growth": 258242,
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "decompiler",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "rea",
+          "reverse-engineering",
+          "static-analysis",
+          "touhou"
+        ],
+        "forks": 69420,
+        "stars_24h": 32314
+      },
+      {
+        "name": "mksglu/context-mode",
+        "stars": 29884,
+        "growth": 3440,
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "topics": [
+          "antigravity",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugins",
+          "claude-code-skill",
+          "codex",
+          "codex-cli",
+          "context-mode",
+          "copilot",
+          "cursor-plugin",
+          "kiro",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "openclaw",
+          "opencode",
+          "pi-agent",
+          "skills",
+          "zed-extension"
+        ],
+        "forks": 2087,
+        "stars_24h": 904
+      }
+    ],
+    "monthly": [
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 69480,
+        "growth": 38225,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 7607,
+        "stars_24h": 3024
+      },
+      {
+        "name": "affaan-m/ECC",
+        "stars": 280575,
+        "growth": 19261,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "forks": 41723,
+        "stars_24h": 1013
+      },
+      {
+        "name": "NationalSecurityAgency/ghidra",
+        "stars": 88981,
+        "growth": 12075,
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "topics": [
+          "disassembler",
+          "reverse-engineering",
+          "software-analysis"
+        ],
+        "forks": 9934,
+        "stars_24h": 1369
+      }
+    ],
+    "3month": [],
+    "6month": [
+      {
+        "name": "obra/superpowers",
+        "stars": 300082,
+        "growth": 142178,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 26800,
+        "stars_24h": 582
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
