@@ -1,0 +1,905 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-18T05:14:55.320341",
+  "brief": [
+    {
+      "conclusion": "debpalash/VoiceStudio 24h +2125 stars — VoiceStudio is the open-source, fully-local ElevenLabs alter",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 73,702",
+      "evidence_urls": [
+        "https://github.com/debpalash/VoiceStudio"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "anthropics/claude-plugins-official 24h +1397 stars — Official, Anthropic-managed directory of high quality Claude",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 41,953",
+      "evidence_urls": [
+        "https://github.com/anthropics/claude-plugins-official"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "MadsLorentzen/ai-job-search 24h +1365 stars — The job search that runs on your machine. AI job application",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 50,761",
+      "evidence_urls": [
+        "https://github.com/MadsLorentzen/ai-job-search"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] 10,000 USDT | CoinW Alpha Trading Airdrop #8（0成本）",
+      "why_hot": "来自 GemW 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/GemW"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Join AVA Smart Program & Win 500 USDT 🔥（0成本）",
+      "why_hot": "来自 Travala.com 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Travala"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "anthropics/claude-plugins-official",
+      "owner": "anthropics",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 41953,
+      "forks": 4474,
+      "stars_24h": 1397,
+      "created_at": "2025-11-20T18:36:20+00:00",
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "mcp",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 254,
+      "open_issues": 1167
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 50761,
+      "forks": 16968,
+      "stars_24h": 1365,
+      "created_at": "2026-03-18T14:33:04+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "career",
+        "claude-code",
+        "cover-letter",
+        "cv",
+        "interview-preparation",
+        "job-application",
+        "job-hunting",
+        "job-search",
+        "latex",
+        "resume"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "eval",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 187,
+      "open_issues": 30
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 282676,
+      "forks": 41999,
+      "stars_24h": 1145,
+      "created_at": "2026-01-18T00:51:51+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1408,
+      "open_issues": 239
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 54165,
+      "forks": 4909,
+      "stars_24h": 574,
+      "created_at": "2026-03-08T13:52:57+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 216,
+      "open_issues": 189
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 52372,
+      "forks": 4638,
+      "stars_24h": 878,
+      "created_at": "2025-10-19T20:54:15+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-scientist",
+        "bioinformatics",
+        "chemoinformatics",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "clinical-research",
+        "computational-biology",
+        "data-analysis",
+        "drug-discovery",
+        "genomics",
+        "materials-science",
+        "metabolomics",
+        "proteomics",
+        "scientific-computing",
+        "scientific-visualization"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 213,
+      "open_issues": 49
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "owner": "akitaonrails",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 10032,
+      "forks": 726,
+      "stars_24h": 178,
+      "created_at": "2026-05-21T23:23:51+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 54,
+      "open_issues": 26
+    },
+    {
+      "name": "android/skills",
+      "owner": "android",
+      "description": "",
+      "stars": 8491,
+      "forks": 557,
+      "stars_24h": 355,
+      "created_at": "2026-03-16T12:41:46+00:00",
+      "language": "Kotlin",
+      "topics": [
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 92,
+      "open_issues": 42
+    },
+    {
+      "name": "stablyai/orca",
+      "owner": "stablyai",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 95611,
+      "forks": 6121,
+      "stars_24h": 830,
+      "created_at": "2026-03-17T03:28:57+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ade",
+        "agent-ide",
+        "ai-agents",
+        "automation",
+        "bot",
+        "claude-code",
+        "codex",
+        "ghostty",
+        "grok-bot",
+        "hermes-agent",
+        "mobile-app",
+        "muse",
+        "openclaw",
+        "opencode",
+        "orchestration",
+        "pi",
+        "runtime",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 149,
+      "open_issues": 8562
+    },
+    {
+      "name": "anthropics/claude-code",
+      "owner": "anthropics",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 151907,
+      "forks": 26896,
+      "stars_24h": 179,
+      "created_at": "2025-02-22T17:41:21+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 925,
+      "open_issues": 15192
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 73702,
+      "forks": 8065,
+      "stars_24h": 2125,
+      "created_at": "2026-04-09T21:40:26+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 280,
+      "open_issues": 218
+    },
+    {
+      "name": "anomalyco/opencode",
+      "owner": "anomalyco",
+      "description": "The open source coding agent.",
+      "stars": 215585,
+      "forks": 28891,
+      "stars_24h": 438,
+      "created_at": "2025-04-30T20:08:00+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 829,
+      "open_issues": 4614
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "owner": "ruvnet",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 76158,
+      "forks": 9007,
+      "stars_24h": 420,
+      "created_at": "2025-06-02T21:24:20+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "agents",
+        "ai-agents",
+        "ai-assistant",
+        "ai-skills",
+        "autonomous-agents",
+        "claude",
+        "codex",
+        "dsh-plugin",
+        "harness",
+        "mcp-server",
+        "multi-agent",
+        "multi-agent-systems",
+        "npm",
+        "skills",
+        "swarm",
+        "swarm-intelligence",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 467,
+      "open_issues": 1044
+    },
+    {
+      "name": "xerj-org/xerj",
+      "owner": "xerj-org",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "stars": 7950,
+      "forks": 424,
+      "stars_24h": 1160,
+      "created_at": "2026-06-30T04:32:45+00:00",
+      "language": "Rust",
+      "topics": [
+        "ai-search",
+        "ai-search-algorithms",
+        "ai-search-engine",
+        "ai-search-free",
+        "ai-search-module",
+        "ai-search-optimization",
+        "ai-searchengine",
+        "bm25-search",
+        "elastic-search",
+        "elasticsearch",
+        "elasticstack",
+        "graph-search",
+        "graph-semantic-search",
+        "hybrid-search",
+        "hybrid-semantic-search",
+        "search-api",
+        "search-engine",
+        "semantic-search",
+        "vector-database",
+        "vector-search"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 22,
+      "open_issues": 104
+    },
+    {
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "owner": "The-Swarm-Corporation",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "stars": 6357,
+      "forks": 918,
+      "stars_24h": 32,
+      "created_at": "2024-12-10T20:34:46+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "blackrock",
+        "finance",
+        "goldmansachs",
+        "hedgefund",
+        "jpmorgan",
+        "ml",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading",
+        "trading"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 51,
+      "open_issues": 22
+    },
+    {
+      "name": "bmad-code-org/BMAD-METHOD",
+      "owner": "bmad-code-org",
+      "description": "Breakthrough Method for Agile Ai Driven Development",
+      "stars": 54268,
+      "forks": 6098,
+      "stars_24h": 39,
+      "created_at": "2025-04-13T14:54:25+00:00",
+      "language": "Python",
+      "topics": [
+        "agile",
+        "ai",
+        "context-engineering",
+        "sdlc",
+        "spec-driven-development"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 421,
+      "open_issues": 60
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "10,000 USDT | CoinW Alpha Trading Airdrop #8",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793462400,
+      "url": "https://galxe.com/GemW",
+      "note": "来自 GemW 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Join AVA Smart Program & Win 500 USDT 🔥",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793534400,
+      "url": "https://galxe.com/Travala",
+      "note": "来自 Travala.com 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Tampa Bay Rays vs. Cleveland Guardians",
+      "summary": "This event refers to Game 4 of the ALCS originally scheduled for 6:00 PM ET on October 16, 2026. This game has been resc",
+      "volume": "$1,043,700",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/mlb-tb-cle-2026-10-16"
+    },
+    {
+      "title": "Nebraska vs. Oregon",
+      "summary": "In the upcoming college football game between Nebraska and Oregon, scheduled for October 17 at 1:00PM ET:\nThis market wi",
+      "volume": "$937,726",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/cfb-nebr-ore-2026-10-17"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 73702,
+        "growth": 2130,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 8065,
+        "stars_24h": 2125
+      },
+      {
+        "name": "MadsLorentzen/ai-job-search",
+        "stars": 50761,
+        "growth": 2005,
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "career",
+          "claude-code",
+          "cover-letter",
+          "cv",
+          "interview-preparation",
+          "job-application",
+          "job-hunting",
+          "job-search",
+          "latex",
+          "resume"
+        ],
+        "forks": 16968,
+        "stars_24h": 1365
+      },
+      {
+        "name": "anthropics/claude-plugins-official",
+        "stars": 41953,
+        "growth": 1160,
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "topics": [
+          "claude-code",
+          "mcp",
+          "skills"
+        ],
+        "forks": 4474,
+        "stars_24h": 1397
+      },
+      {
+        "name": "affaan-m/ECC",
+        "stars": 282676,
+        "growth": 1024,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "forks": 41999,
+        "stars_24h": 1145
+      },
+      {
+        "name": "xerj-org/xerj",
+        "stars": 7950,
+        "growth": 865,
+        "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+        "language": "Rust",
+        "topics": [
+          "ai-search",
+          "ai-search-algorithms",
+          "ai-search-engine",
+          "ai-search-free",
+          "ai-search-module",
+          "ai-search-optimization",
+          "ai-searchengine",
+          "bm25-search",
+          "elastic-search",
+          "elasticsearch",
+          "elasticstack",
+          "graph-search",
+          "graph-semantic-search",
+          "hybrid-search",
+          "hybrid-semantic-search",
+          "search-api",
+          "search-engine",
+          "semantic-search",
+          "vector-database",
+          "vector-search"
+        ],
+        "forks": 424,
+        "stars_24h": 1160
+      },
+      {
+        "name": "K-Dense-AI/scientific-agent-skills",
+        "stars": 52372,
+        "growth": 714,
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-scientist",
+          "bioinformatics",
+          "chemoinformatics",
+          "claude",
+          "claude-skills",
+          "claudecode",
+          "clinical-research",
+          "computational-biology",
+          "data-analysis",
+          "drug-discovery",
+          "genomics",
+          "materials-science",
+          "metabolomics",
+          "proteomics",
+          "scientific-computing",
+          "scientific-visualization"
+        ],
+        "forks": 4638,
+        "stars_24h": 878
+      },
+      {
+        "name": "HKUDS/CLI-Anything",
+        "stars": 54165,
+        "growth": 564,
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "language": "Python",
+        "topics": [],
+        "forks": 4909,
+        "stars_24h": 574
+      },
+      {
+        "name": "ruvnet/ruflo",
+        "stars": 76158,
+        "growth": 448,
+        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "language": "TypeScript",
+        "topics": [
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "agents",
+          "ai-agents",
+          "ai-assistant",
+          "ai-skills",
+          "autonomous-agents",
+          "claude",
+          "codex",
+          "dsh-plugin",
+          "harness",
+          "mcp-server",
+          "multi-agent",
+          "multi-agent-systems",
+          "npm",
+          "skills",
+          "swarm",
+          "swarm-intelligence",
+          "typescript"
+        ],
+        "forks": 9007,
+        "stars_24h": 420
+      },
+      {
+        "name": "android/skills",
+        "stars": 8491,
+        "growth": 350,
+        "description": "",
+        "language": "Kotlin",
+        "topics": [
+          "skills"
+        ],
+        "forks": 557,
+        "stars_24h": 355
+      }
+    ],
+    "weekly": [
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 73702,
+        "growth": 14514,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 8065,
+        "stars_24h": 2125
+      },
+      {
+        "name": "MadsLorentzen/ai-job-search",
+        "stars": 50761,
+        "growth": 4543,
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "career",
+          "claude-code",
+          "cover-letter",
+          "cv",
+          "interview-preparation",
+          "job-application",
+          "job-hunting",
+          "job-search",
+          "latex",
+          "resume"
+        ],
+        "forks": 16968,
+        "stars_24h": 1365
+      },
+      {
+        "name": "bmad-code-org/BMAD-METHOD",
+        "stars": 54268,
+        "growth": 301,
+        "description": "Breakthrough Method for Agile Ai Driven Development",
+        "language": "Python",
+        "topics": [
+          "agile",
+          "ai",
+          "context-engineering",
+          "sdlc",
+          "spec-driven-development"
+        ],
+        "forks": 6098,
+        "stars_24h": 39
+      }
+    ],
+    "monthly": [
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 73702,
+        "growth": 42447,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 8065,
+        "stars_24h": 2125
+      },
+      {
+        "name": "affaan-m/ECC",
+        "stars": 282676,
+        "growth": 21362,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "forks": 41999,
+        "stars_24h": 1145
+      },
+      {
+        "name": "anthropics/claude-code",
+        "stars": 151907,
+        "growth": 5965,
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 26896,
+        "stars_24h": 179
+      }
+    ],
+    "3month": [],
+    "6month": [],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
