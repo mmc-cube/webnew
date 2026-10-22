@@ -1,0 +1,895 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-22T05:33:35.177691",
+  "brief": [
+    {
+      "conclusion": "DietrichGebert/ponytail 24h +2079 stars — Makes your AI agent think like the laziest senior dev in the",
+      "why_hot": "新项目爆发，语言: JavaScript，总 stars: 172,023",
+      "evidence_urls": [
+        "https://github.com/DietrichGebert/ponytail"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "cloudflare/security-audit-skill 24h +2012 stars — A coding-agent skill for multi-phase security audits with in",
+      "why_hot": "新项目爆发，语言: JavaScript，总 stars: 37,149",
+      "evidence_urls": [
+        "https://github.com/cloudflare/security-audit-skill"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "stablyai/orca 24h +1541 stars — Orca is the place for working with a fleet of agents (e.g. G",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 101,650",
+      "evidence_urls": [
+        "https://github.com/stablyai/orca"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] Join AVA Smart Program & Win 500 USDT 🔥（0成本）",
+      "why_hot": "来自 Travala.com 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Travala"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰（0成本）",
+      "why_hot": "来自 Coincamps 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Coincamps"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "owner": "cloudflare",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 37149,
+      "forks": 2312,
+      "stars_24h": 2012,
+      "created_at": "2026-06-18T14:08:44+00:00",
+      "language": "JavaScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 138,
+      "open_issues": 78
+    },
+    {
+      "name": "vllm-project/vllm",
+      "owner": "vllm-project",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 94977,
+      "forks": 23766,
+      "stars_24h": 441,
+      "created_at": "2023-02-09T11:23:20+00:00",
+      "language": "Python",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 608,
+      "open_issues": 9244
+    },
+    {
+      "name": "stablyai/orca",
+      "owner": "stablyai",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 101650,
+      "forks": 6428,
+      "stars_24h": 1541,
+      "created_at": "2026-03-17T03:28:57+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ade",
+        "agent-ide",
+        "ai-agents",
+        "automation",
+        "bot",
+        "claude-code",
+        "codex",
+        "ghostty",
+        "grok-bot",
+        "hermes-agent",
+        "mobile-app",
+        "muse",
+        "openclaw",
+        "opencode",
+        "orchestration",
+        "pi",
+        "runtime",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 142,
+      "open_issues": 8618
+    },
+    {
+      "name": "headroomlabs-ai/headroom",
+      "owner": "headroomlabs-ai",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 77363,
+      "forks": 6008,
+      "stars_24h": 474,
+      "created_at": "2026-01-07T19:58:51+00:00",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression",
+        "context-engineering",
+        "context-window",
+        "cursor",
+        "fastapi",
+        "langchain",
+        "llm",
+        "mcp",
+        "openai",
+        "prompt-engineering",
+        "proxy",
+        "python",
+        "rag",
+        "token-optimization",
+        "tokens",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 226,
+      "open_issues": 550
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "owner": "DietrichGebert",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 172023,
+      "forks": 9362,
+      "stars_24h": 2079,
+      "created_at": "2026-06-12T00:52:37+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 406,
+      "open_issues": 74
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "owner": "Comfy-Org",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 141675,
+      "forks": 16741,
+      "stars_24h": 939,
+      "created_at": "2023-01-17T03:15:56+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 840,
+      "open_issues": 5313
+    },
+    {
+      "name": "supabase/supabase",
+      "owner": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": 113135,
+      "forks": 16971,
+      "stars_24h": 504,
+      "created_at": "2019-10-12T05:56:49+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "alternative",
+        "auth",
+        "database",
+        "deno",
+        "embeddings",
+        "example",
+        "firebase",
+        "nextjs",
+        "oauth2",
+        "pgvector",
+        "postgis",
+        "postgres",
+        "postgresql",
+        "postgrest",
+        "realtime",
+        "supabase",
+        "vectors",
+        "websockets"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "RAG"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 755,
+      "open_issues": 1182
+    },
+    {
+      "name": "twentyhq/twenty",
+      "owner": "twentyhq",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "stars": 59330,
+      "forks": 9671,
+      "stars_24h": 112,
+      "created_at": "2022-12-01T13:04:40+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "crm",
+        "crm-system",
+        "customer",
+        "good-first-issue",
+        "graphql",
+        "hacktoberfest",
+        "javascript",
+        "marketing",
+        "monorepo",
+        "nestjs",
+        "open-source",
+        "postgresql",
+        "react",
+        "reactjs",
+        "sales",
+        "typescript",
+        "web"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 232,
+      "open_issues": 132
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "owner": "shiyu-coder",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 42939,
+      "forks": 7079,
+      "stars_24h": 575,
+      "created_at": "2025-07-01T02:54:32+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 380,
+      "open_issues": 285
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "owner": "akitaonrails",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 12480,
+      "forks": 879,
+      "stars_24h": 286,
+      "created_at": "2026-05-21T23:23:51+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 61,
+      "open_issues": 61
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "owner": "Graphify-Labs",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 131906,
+      "forks": 12658,
+      "stars_24h": 1433,
+      "created_at": "2026-04-03T15:49:07+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "antigravity",
+        "ast",
+        "claude-code",
+        "code-analysis",
+        "code-search",
+        "codex",
+        "cursor",
+        "developer-tools",
+        "gemini",
+        "graphify",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "llm",
+        "mcp",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 409,
+      "open_issues": 1613
+    },
+    {
+      "name": "k2-fsa/OmniVoice",
+      "owner": "k2-fsa",
+      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "stars": 15472,
+      "forks": 2271,
+      "stars_24h": 157,
+      "created_at": "2026-03-31T12:00:45+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 76,
+      "open_issues": 71
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "owner": "luongnv89",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 42514,
+      "forks": 5339,
+      "stars_24h": 428,
+      "created_at": "2025-11-07T22:59:34+00:00",
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "guide",
+        "tutorial"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 204,
+      "open_issues": 34
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "owner": "anthropics",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 31218,
+      "forks": 3500,
+      "stars_24h": 389,
+      "created_at": "2026-01-23T20:11:54+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 196,
+      "open_issues": 128
+    },
+    {
+      "name": "Emily2040/seedance-2.0",
+      "owner": "Emily2040",
+      "description": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0",
+      "stars": 7885,
+      "forks": 1154,
+      "stars_24h": 29,
+      "created_at": "2026-02-25T01:28:49+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 38,
+      "open_issues": 12
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "Join AVA Smart Program & Win 500 USDT 🔥",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793534400,
+      "url": "https://galxe.com/Travala",
+      "note": "来自 Travala.com 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "dkarbon: 17 Goals, One Deadline",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1792875600,
+      "url": "https://galxe.com/Dkarbon",
+      "note": "来自 dkarbon 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "2026 Balance of Power: R Senate, R House",
+      "summary": "This market will resolve according to the party that wins control of the United States Senate and the party that wins co",
+      "volume": "$1,397,530",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537"
+    },
+    {
+      "title": "US x Iran ceasefire continues through October 22?",
+      "summary": "This market will resolve to “No” if the United States takes a qualifying military action against Iran by the specified d",
+      "volume": "$903,998",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-22"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "cloudflare/security-audit-skill",
+        "stars": 37149,
+        "growth": 2553,
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "topics": [],
+        "forks": 2312,
+        "stars_24h": 2012
+      },
+      {
+        "name": "DietrichGebert/ponytail",
+        "stars": 172023,
+        "growth": 1905,
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "cursor-rules",
+          "developer-tools",
+          "llm",
+          "prompt-engineering",
+          "yagni"
+        ],
+        "forks": 9362,
+        "stars_24h": 2079
+      },
+      {
+        "name": "stablyai/orca",
+        "stars": 101650,
+        "growth": 1598,
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "topics": [
+          "ade",
+          "agent-ide",
+          "ai-agents",
+          "automation",
+          "bot",
+          "claude-code",
+          "codex",
+          "ghostty",
+          "grok-bot",
+          "hermes-agent",
+          "mobile-app",
+          "muse",
+          "openclaw",
+          "opencode",
+          "orchestration",
+          "pi",
+          "runtime",
+          "terminal",
+          "worktrees",
+          "yc-backed"
+        ],
+        "forks": 6428,
+        "stars_24h": 1541
+      },
+      {
+        "name": "Graphify-Labs/graphify",
+        "stars": 131906,
+        "growth": 1376,
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "antigravity",
+          "ast",
+          "claude-code",
+          "code-analysis",
+          "code-search",
+          "codex",
+          "cursor",
+          "developer-tools",
+          "gemini",
+          "graphify",
+          "graphrag",
+          "knowledge-graph",
+          "leiden",
+          "llm",
+          "mcp",
+          "openclaw",
+          "rag",
+          "skills",
+          "tree-sitter"
+        ],
+        "forks": 12658,
+        "stars_24h": 1433
+      },
+      {
+        "name": "akitaonrails/ai-memory",
+        "stars": 12480,
+        "growth": 963,
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "topics": [],
+        "forks": 879,
+        "stars_24h": 286
+      },
+      {
+        "name": "Comfy-Org/ComfyUI",
+        "stars": 141675,
+        "growth": 715,
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "comfy",
+          "comfyui",
+          "python",
+          "pytorch",
+          "stable-diffusion"
+        ],
+        "forks": 16741,
+        "stars_24h": 939
+      },
+      {
+        "name": "headroomlabs-ai/headroom",
+        "stars": 77363,
+        "growth": 506,
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "ai",
+          "anthropic",
+          "claude-code",
+          "compression",
+          "context-engineering",
+          "context-window",
+          "cursor",
+          "fastapi",
+          "langchain",
+          "llm",
+          "mcp",
+          "openai",
+          "prompt-engineering",
+          "proxy",
+          "python",
+          "rag",
+          "token-optimization",
+          "tokens",
+          "typescript"
+        ],
+        "forks": 6008,
+        "stars_24h": 474
+      },
+      {
+        "name": "shiyu-coder/Kronos",
+        "stars": 42939,
+        "growth": 494,
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "topics": [],
+        "forks": 7079,
+        "stars_24h": 575
+      },
+      {
+        "name": "vllm-project/vllm",
+        "stars": 94977,
+        "growth": 451,
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "language": "Python",
+        "topics": [
+          "amd",
+          "blackwell",
+          "cuda",
+          "deepseek",
+          "deepseek-v3",
+          "gpt",
+          "gpt-oss",
+          "inference",
+          "kimi",
+          "llama",
+          "llm",
+          "llm-serving",
+          "model-serving",
+          "moe",
+          "openai",
+          "pytorch",
+          "qwen",
+          "qwen3",
+          "tpu",
+          "transformer"
+        ],
+        "forks": 23766,
+        "stars_24h": 441
+      },
+      {
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": 31218,
+        "growth": 334,
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "topics": [],
+        "forks": 3500,
+        "stars_24h": 389
+      }
+    ],
+    "weekly": [
+      {
+        "name": "stablyai/orca",
+        "stars": 101650,
+        "growth": 6039,
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "topics": [
+          "ade",
+          "agent-ide",
+          "ai-agents",
+          "automation",
+          "bot",
+          "claude-code",
+          "codex",
+          "ghostty",
+          "grok-bot",
+          "hermes-agent",
+          "mobile-app",
+          "muse",
+          "openclaw",
+          "opencode",
+          "orchestration",
+          "pi",
+          "runtime",
+          "terminal",
+          "worktrees",
+          "yc-backed"
+        ],
+        "forks": 6428,
+        "stars_24h": 1541
+      },
+      {
+        "name": "akitaonrails/ai-memory",
+        "stars": 12480,
+        "growth": 2448,
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "topics": [],
+        "forks": 879,
+        "stars_24h": 286
+      },
+      {
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": 31218,
+        "growth": 2294,
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "topics": [],
+        "forks": 3500,
+        "stars_24h": 389
+      }
+    ],
+    "monthly": [
+      {
+        "name": "cloudflare/security-audit-skill",
+        "stars": 37149,
+        "growth": 18892,
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "topics": [],
+        "forks": 2312,
+        "stars_24h": 2012
+      },
+      {
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": 31218,
+        "growth": 6037,
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "topics": [],
+        "forks": 3500,
+        "stars_24h": 389
+      },
+      {
+        "name": "akitaonrails/ai-memory",
+        "stars": 12480,
+        "growth": 4665,
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "topics": [],
+        "forks": 879,
+        "stars_24h": 286
+      },
+      {
+        "name": "supabase/supabase",
+        "stars": 113135,
+        "growth": 2937,
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "alternative",
+          "auth",
+          "database",
+          "deno",
+          "embeddings",
+          "example",
+          "firebase",
+          "nextjs",
+          "oauth2",
+          "pgvector",
+          "postgis",
+          "postgres",
+          "postgresql",
+          "postgrest",
+          "realtime",
+          "supabase",
+          "vectors",
+          "websockets"
+        ],
+        "forks": 16971,
+        "stars_24h": 504
+      }
+    ],
+    "3month": [
+      {
+        "name": "shiyu-coder/Kronos",
+        "stars": 42939,
+        "growth": 9784,
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "topics": [],
+        "forks": 7079,
+        "stars_24h": 575
+      }
+    ],
+    "6month": [],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
