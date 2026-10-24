@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-23T05:31:50.434770",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-24T05:10:55.749935",
   "brief": [
     {
-      "conclusion": "cloudflare/security-audit-skill 24h +2979 stars — A coding-agent skill for multi-phase security audits with in",
-      "why_hot": "新项目爆发，语言: JavaScript，总 stars: 39,984",
+      "conclusion": "cloudflare/security-audit-skill 24h +2716 stars — A coding-agent skill for multi-phase security audits with in",
+      "why_hot": "新项目爆发，语言: JavaScript，总 stars: 42,473",
       "evidence_urls": [
         "https://github.com/cloudflare/security-audit-skill"
       ],
       "category": "github"
     },
     {
-      "conclusion": "DietrichGebert/ponytail 24h +1948 stars — Makes your AI agent think like the laziest senior dev in the",
-      "why_hot": "新项目爆发，语言: JavaScript，总 stars: 173,819",
+      "conclusion": "Graphify-Labs/graphify 24h +1173 stars — Turn any codebase, with its docs, SQL schemas, configs, and ",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 133,982",
       "evidence_urls": [
-        "https://github.com/DietrichGebert/ponytail"
+        "https://github.com/Graphify-Labs/graphify"
       ],
       "category": "github"
     },
     {
-      "conclusion": "Graphify-Labs/graphify 24h +1408 stars — Turn any codebase, with its docs, SQL schemas, configs, and ",
-      "why_hot": "新项目爆发，语言: Python，总 stars: 133,206",
+      "conclusion": "NVIDIA/OpenShell 24h +1119 stars — OpenShell is the safe, private runtime for autonomous AI age",
+      "why_hot": "新项目爆发，语言: Rust，总 stars: 18,916",
       "evidence_urls": [
-        "https://github.com/Graphify-Labs/graphify"
+        "https://github.com/NVIDIA/OpenShell"
       ],
       "category": "github"
     },
@@ -46,85 +46,12 @@
   "top_tweets": [],
   "github_trending": [
     {
-      "name": "php/php-src",
-      "owner": "php",
-      "description": "The PHP Interpreter",
-      "stars": 41279,
-      "forks": 8324,
-      "stars_24h": 287,
-      "created_at": "2011-06-16T01:52:25+00:00",
-      "language": "C",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 1359,
-      "open_issues": 2230
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "owner": "anthropics",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 31736,
-      "forks": 3542,
-      "stars_24h": 303,
-      "created_at": "2026-01-23T20:11:54+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 200,
-      "open_issues": 133
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "owner": "DietrichGebert",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 173819,
-      "forks": 9466,
-      "stars_24h": 1948,
-      "created_at": "2026-06-12T00:52:37+00:00",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 411,
-      "open_issues": 94
-    },
-    {
       "name": "cloudflare/security-audit-skill",
       "owner": "cloudflare",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 39984,
-      "forks": 2497,
-      "stars_24h": 2979,
+      "stars": 42473,
+      "forks": 2655,
+      "stars_24h": 2716,
       "created_at": "2026-06-18T14:08:44+00:00",
       "language": "JavaScript",
       "topics": [],
@@ -135,16 +62,246 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 158,
-      "open_issues": 79
+      "watchers": 162,
+      "open_issues": 83
+    },
+    {
+      "name": "php/php-src",
+      "owner": "php",
+      "description": "The PHP Interpreter",
+      "stars": 41597,
+      "forks": 8362,
+      "stars_24h": 716,
+      "created_at": "2011-06-16T01:52:25+00:00",
+      "language": "C",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1360,
+      "open_issues": 2234
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "owner": "anthropics",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 32328,
+      "forks": 3576,
+      "stars_24h": 635,
+      "created_at": "2026-01-23T20:11:54+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 202,
+      "open_issues": 137
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "owner": "NVIDIA",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 18916,
+      "forks": 1889,
+      "stars_24h": 1119,
+      "created_at": "2026-02-24T22:52:22+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 72,
+      "open_issues": 576
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "owner": "Renhuai123",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": 6999,
+      "forks": 1428,
+      "stars_24h": 546,
+      "created_at": "2026-05-01T05:09:59+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "bazi",
+        "chinese-astrology",
+        "divination",
+        "fortune-telling",
+        "nextjs",
+        "open-source",
+        "purple-star-astrology",
+        "typescript",
+        "zi-wei-dou-shu",
+        "ziwei-doushu"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 29,
+      "open_issues": 7
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "owner": "SnailSploit",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": 8608,
+      "forks": 1108,
+      "stars_24h": 226,
+      "created_at": "2026-03-04T05:52:35+00:00",
+      "language": "Python",
+      "topics": [
+        "claude-ai",
+        "claude-pt",
+        "claude-skills",
+        "redteam",
+        "redteam-tools",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 58,
+      "open_issues": 32
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 40348,
+      "forks": 4584,
+      "stars_24h": 150,
+      "created_at": "2025-09-16T03:41:49+00:00",
+      "language": "Python",
+      "topics": [
+        "audio",
+        "deeplearning",
+        "minicpm",
+        "multilingual",
+        "python",
+        "pytorch",
+        "speech",
+        "speech-synthesis",
+        "text-to-speech",
+        "tts",
+        "tts-model",
+        "voice-cloning",
+        "voice-design",
+        "voxcpm"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 170,
+      "open_issues": 154
+    },
+    {
+      "name": "nodejs/node",
+      "owner": "nodejs",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "stars": 122939,
+      "forks": 39839,
+      "stars_24h": 66,
+      "created_at": "2014-11-26T19:57:11+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "javascript",
+        "js",
+        "linux",
+        "macos",
+        "mit",
+        "node",
+        "nodejs",
+        "runtime",
+        "windows"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 3018,
+      "open_issues": 1262
+    },
+    {
+      "name": "baidu/Unlimited-OCR",
+      "owner": "baidu",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "stars": 28296,
+      "forks": 3003,
+      "stars_24h": 75,
+      "created_at": "2026-06-18T08:40:15+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 160,
+      "open_issues": 91
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 113447,
+      "forks": 21960,
+      "stars_24h": 485,
+      "created_at": "2024-12-28T03:31:08+00:00",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 856,
+      "open_issues": 118
     },
     {
       "name": "Graphify-Labs/graphify",
       "owner": "Graphify-Labs",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "stars": 133206,
-      "forks": 12735,
-      "stars_24h": 1408,
+      "stars": 133982,
+      "forks": 12795,
+      "stars_24h": 1173,
       "created_at": "2026-04-03T15:49:07+00:00",
       "language": "Python",
       "topics": [
@@ -180,145 +337,121 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 410,
-      "open_issues": 1607
+      "open_issues": 1602
     },
     {
-      "name": "supabase/supabase",
-      "owner": "supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "stars": 113575,
-      "forks": 17013,
-      "stars_24h": 693,
-      "created_at": "2019-10-12T05:56:49+00:00",
-      "language": "TypeScript",
+      "name": "Mailu/Mailu",
+      "owner": "Mailu",
+      "description": "Insular email distribution - mail server as Docker images",
+      "stars": 7586,
+      "forks": 1023,
+      "stars_24h": 4,
+      "created_at": "2016-01-10T21:35:55+00:00",
+      "language": "Python",
       "topics": [
-        "ai",
-        "alternative",
-        "auth",
-        "database",
-        "deno",
-        "embeddings",
-        "example",
-        "firebase",
-        "nextjs",
-        "oauth2",
-        "pgvector",
-        "postgis",
-        "postgres",
-        "postgresql",
-        "postgrest",
-        "realtime",
-        "supabase",
-        "vectors",
-        "websockets"
+        "dkim",
+        "dmarc",
+        "docker",
+        "docker-compose",
+        "email",
+        "fetchmail",
+        "imap",
+        "letsencrypt",
+        "mail",
+        "mailserver",
+        "pop3",
+        "smtp",
+        "webmail"
       ],
       "readme_summary": "",
       "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 95,
+      "open_issues": 93
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "owner": "virgiliojr94",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": 35901,
+      "forks": 3799,
+      "stars_24h": 143,
+      "created_at": "2026-05-01T02:09:39+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "book-to-skill",
+        "context-engineering",
+        "document-processing",
+        "edtech",
+        "knowledge-base",
+        "knowledge-management",
+        "llm",
+        "pdf-to-markdown",
+        "rag",
+        "self-study",
+        "study-tools"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 152,
+      "open_issues": 25
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "owner": "onyx-dot-app",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "stars": 32934,
+      "forks": 4626,
+      "stars_24h": 86,
+      "created_at": "2023-04-27T06:04:01+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-chat",
+        "chatgpt",
+        "chatui",
+        "enterprise-search",
+        "gen-ai",
+        "information-retrieval",
+        "llm",
+        "llm-ui",
+        "nextjs",
+        "python",
+        "rag",
+        "self-hosted",
+        "vector-search"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "eval",
         "RAG"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 758,
-      "open_issues": 1199
-    },
-    {
-      "name": "fastapi/fastapi",
-      "owner": "fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "stars": 103892,
-      "forks": 10096,
-      "stars_24h": 101,
-      "created_at": "2018-12-08T08:21:47+00:00",
-      "language": "Python",
-      "topics": [
-        "api",
-        "async",
-        "asyncio",
-        "fastapi",
-        "framework",
-        "json",
-        "json-schema",
-        "openapi",
-        "openapi3",
-        "pydantic",
-        "python",
-        "python-types",
-        "python3",
-        "redoc",
-        "rest",
-        "starlette",
-        "swagger",
-        "swagger-ui",
-        "uvicorn",
-        "web"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 777,
-      "open_issues": 56
-    },
-    {
-      "name": "luongnv89/claude-howto",
-      "owner": "luongnv89",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 43447,
-      "forks": 5409,
-      "stars_24h": 177,
-      "created_at": "2025-11-07T22:59:34+00:00",
-      "language": "Python",
-      "topics": [
-        "claude-code",
-        "guide",
-        "tutorial"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 209,
-      "open_issues": 36
-    },
-    {
-      "name": "Meloong-Git/PCL",
-      "owner": "Meloong-Git",
-      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "stars": 8768,
-      "forks": 1220,
-      "stars_24h": 119,
-      "created_at": "2022-07-26T15:43:26+00:00",
-      "language": "Visual Basic .NET",
-      "topics": [
-        "launcher",
-        "minecraft",
-        "minecraft-launcher"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 34,
-      "open_issues": 282
+      "watchers": 157,
+      "open_issues": 574
     },
     {
       "name": "vllm-project/vllm",
       "owner": "vllm-project",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "stars": 95174,
-      "forks": 23818,
-      "stars_24h": 440,
+      "stars": 95263,
+      "forks": 23866,
+      "stars_24h": 108,
       "created_at": "2023-02-09T11:23:20+00:00",
       "language": "Python",
       "topics": [
@@ -351,162 +484,7 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 612,
-      "open_issues": 9319
-    },
-    {
-      "name": "headroomlabs-ai/headroom",
-      "owner": "headroomlabs-ai",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "stars": 77584,
-      "forks": 6020,
-      "stars_24h": 517,
-      "created_at": "2026-01-07T19:58:51+00:00",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "ai",
-        "anthropic",
-        "claude-code",
-        "compression",
-        "context-engineering",
-        "context-window",
-        "cursor",
-        "fastapi",
-        "langchain",
-        "llm",
-        "mcp",
-        "openai",
-        "prompt-engineering",
-        "proxy",
-        "python",
-        "rag",
-        "token-optimization",
-        "tokens",
-        "typescript"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE",
-        "RAG",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 225,
-      "open_issues": 594
-    },
-    {
-      "name": "Z4nzu/hackingtool",
-      "owner": "Z4nzu",
-      "description": "ALL IN ONE Hacking Tool For Hackers",
-      "stars": 81307,
-      "forks": 9164,
-      "stars_24h": 50,
-      "created_at": "2020-04-11T09:21:31+00:00",
-      "language": "Python",
-      "topics": [
-        "allinonehackingtool",
-        "besthackingtool",
-        "ctf-tools",
-        "ddos-attack-tool",
-        "hacker",
-        "hacking",
-        "linux",
-        "password-attack",
-        "steganography",
-        "web-attack",
-        "wireless-attack",
-        "xss-attacks",
-        "xss-detection"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 1490,
-      "open_issues": 126
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "owner": "shiyu-coder",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 43247,
-      "forks": 7121,
-      "stars_24h": 500,
-      "created_at": "2025-07-01T02:54:32+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 382,
-      "open_issues": 285
-    },
-    {
-      "name": "NanmiCoder/MediaCrawler",
-      "owner": "NanmiCoder",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
-      "stars": 67739,
-      "forks": 12917,
-      "stars_24h": 102,
-      "created_at": "2023-06-09T12:14:34+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 264,
-      "open_issues": 217
-    },
-    {
-      "name": "BerriAI/litellm",
-      "owner": "BerriAI",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "stars": 61862,
-      "forks": 12589,
-      "stars_24h": 107,
-      "created_at": "2023-07-27T00:09:52+00:00",
-      "language": "Python",
-      "topics": [
-        "ai-gateway",
-        "anthropic",
-        "azure-openai",
-        "bedrock",
-        "gateway",
-        "langchain",
-        "litellm",
-        "llm",
-        "llm-gateway",
-        "llmops",
-        "mcp-gateway",
-        "openai",
-        "openai-proxy",
-        "rust",
-        "rust-ai",
-        "vertex-ai"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 238,
-      "open_issues": 5630
+      "open_issues": 9378
     }
   ],
   "github_new": [],
@@ -545,57 +523,36 @@
   ],
   "markets": [
     {
-      "title": "US x Iran ceasefire continues through October 22?",
-      "summary": "This market will resolve to “No” if the United States takes a qualifying military action against Iran by the specified d",
-      "volume": "$712,862",
+      "title": "2026 Balance of Power: D Senate, R House",
+      "summary": "This market will resolve according to the party that wins control of the United States Senate and the party that wins co",
+      "volume": "$2,916,602",
       "odds_change": null,
-      "url": "https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-22"
+      "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-r-house-692"
     },
     {
-      "title": "Will the price of Ethereum be above $2,400 on October 22?",
-      "summary": "This market will resolve to \"Yes\" if the Binance 1 minute candle for ETH/USDT closing at 12:00 in the ET timezone (noon)",
-      "volume": "$670,854",
+      "title": "NATO x Russia military clash by October 31, 2026?",
+      "summary": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of a NATO country and Rus",
+      "volume": "$1,352,237",
       "odds_change": null,
-      "url": "https://polymarket.com/event/ethereum-above-2400-on-october-22-2026"
+      "url": "https://polymarket.com/event/nato-x-russia-military-clash-by-october-31-2026"
     }
   ],
   "leaderboards": {
     "daily": [
       {
         "name": "cloudflare/security-audit-skill",
-        "stars": 39984,
-        "growth": 2835,
+        "stars": 42473,
+        "growth": 2489,
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "language": "JavaScript",
         "topics": [],
-        "forks": 2497,
-        "stars_24h": 2979
-      },
-      {
-        "name": "DietrichGebert/ponytail",
-        "stars": 173819,
-        "growth": 1796,
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "language": "JavaScript",
-        "topics": [
-          "agent-skills",
-          "ai-agents",
-          "claude",
-          "claude-code",
-          "claude-code-plugin",
-          "cursor-rules",
-          "developer-tools",
-          "llm",
-          "prompt-engineering",
-          "yagni"
-        ],
-        "forks": 9466,
-        "stars_24h": 1948
+        "forks": 2655,
+        "stars_24h": 2716
       },
       {
         "name": "Graphify-Labs/graphify",
-        "stars": 133206,
-        "growth": 1300,
+        "stars": 133982,
+        "growth": 776,
         "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
         "language": "Python",
         "topics": [
@@ -620,108 +577,33 @@
           "skills",
           "tree-sitter"
         ],
-        "forks": 12735,
-        "stars_24h": 1408
-      },
-      {
-        "name": "luongnv89/claude-howto",
-        "stars": 43447,
-        "growth": 933,
-        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-        "language": "Python",
-        "topics": [
-          "claude-code",
-          "guide",
-          "tutorial"
-        ],
-        "forks": 5409,
-        "stars_24h": 177
+        "forks": 12795,
+        "stars_24h": 1173
       },
       {
         "name": "anthropics/knowledge-work-plugins",
-        "stars": 31736,
-        "growth": 518,
+        "stars": 32328,
+        "growth": 592,
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "language": "Python",
         "topics": [],
-        "forks": 3542,
-        "stars_24h": 303
+        "forks": 3576,
+        "stars_24h": 635
       },
       {
-        "name": "supabase/supabase",
-        "stars": 113575,
-        "growth": 440,
-        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "language": "TypeScript",
-        "topics": [
-          "ai",
-          "alternative",
-          "auth",
-          "database",
-          "deno",
-          "embeddings",
-          "example",
-          "firebase",
-          "nextjs",
-          "oauth2",
-          "pgvector",
-          "postgis",
-          "postgres",
-          "postgresql",
-          "postgrest",
-          "realtime",
-          "supabase",
-          "vectors",
-          "websockets"
-        ],
-        "forks": 17013,
-        "stars_24h": 693
-      },
-      {
-        "name": "shiyu-coder/Kronos",
-        "stars": 43247,
-        "growth": 308,
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
+        "name": "php/php-src",
+        "stars": 41597,
+        "growth": 318,
+        "description": "The PHP Interpreter",
+        "language": "C",
         "topics": [],
-        "forks": 7121,
-        "stars_24h": 500
-      },
-      {
-        "name": "headroomlabs-ai/headroom",
-        "stars": 77584,
-        "growth": 221,
-        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "language": "Python",
-        "topics": [
-          "agent",
-          "ai",
-          "anthropic",
-          "claude-code",
-          "compression",
-          "context-engineering",
-          "context-window",
-          "cursor",
-          "fastapi",
-          "langchain",
-          "llm",
-          "mcp",
-          "openai",
-          "prompt-engineering",
-          "proxy",
-          "python",
-          "rag",
-          "token-optimization",
-          "tokens",
-          "typescript"
-        ],
-        "forks": 6020,
-        "stars_24h": 517
+        "forks": 8362,
+        "stars_24h": 716
       },
       {
         "name": "vllm-project/vllm",
-        "stars": 95174,
-        "growth": 197,
+        "stars": 95263,
+        "growth": 89,
         "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "language": "Python",
         "topics": [
@@ -746,79 +628,143 @@
           "tpu",
           "transformer"
         ],
-        "forks": 23818,
-        "stars_24h": 440
+        "forks": 23866,
+        "stars_24h": 108
       }
     ],
-    "weekly": [],
+    "weekly": [
+      {
+        "name": "Graphify-Labs/graphify",
+        "stars": 133982,
+        "growth": 4682,
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "antigravity",
+          "ast",
+          "claude-code",
+          "code-analysis",
+          "code-search",
+          "codex",
+          "cursor",
+          "developer-tools",
+          "gemini",
+          "graphify",
+          "graphrag",
+          "knowledge-graph",
+          "leiden",
+          "llm",
+          "mcp",
+          "openclaw",
+          "rag",
+          "skills",
+          "tree-sitter"
+        ],
+        "forks": 12795,
+        "stars_24h": 1173
+      },
+      {
+        "name": "TauricResearch/TradingAgents",
+        "stars": 113447,
+        "growth": 1488,
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "forks": 21960,
+        "stars_24h": 485
+      },
+      {
+        "name": "baidu/Unlimited-OCR",
+        "stars": 28296,
+        "growth": 983,
+        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+        "language": "Python",
+        "topics": [],
+        "forks": 3003,
+        "stars_24h": 75
+      }
+    ],
     "monthly": [
       {
         "name": "cloudflare/security-audit-skill",
-        "stars": 39984,
-        "growth": 21727,
+        "stars": 42473,
+        "growth": 24216,
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "language": "JavaScript",
         "topics": [],
-        "forks": 2497,
-        "stars_24h": 2979
-      },
-      {
-        "name": "anthropics/knowledge-work-plugins",
-        "stars": 31736,
-        "growth": 6555,
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "language": "Python",
-        "topics": [],
-        "forks": 3542,
-        "stars_24h": 303
+        "forks": 2655,
+        "stars_24h": 2716
       }
     ],
     "3month": [
       {
-        "name": "shiyu-coder/Kronos",
-        "stars": 43247,
-        "growth": 9714,
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "name": "virgiliojr94/book-to-skill",
+        "stars": 35901,
+        "growth": 24274,
+        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "language": "Python",
-        "topics": [],
-        "forks": 7121,
-        "stars_24h": 500
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "book-to-skill",
+          "context-engineering",
+          "document-processing",
+          "edtech",
+          "knowledge-base",
+          "knowledge-management",
+          "llm",
+          "pdf-to-markdown",
+          "rag",
+          "self-study",
+          "study-tools"
+        ],
+        "forks": 3799,
+        "stars_24h": 143
       },
       {
-        "name": "NanmiCoder/MediaCrawler",
-        "stars": 67739,
-        "growth": 9321,
-        "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
-        "language": "Python",
-        "topics": [],
-        "forks": 12917,
-        "stars_24h": 102
+        "name": "nodejs/node",
+        "stars": 122939,
+        "growth": 4433,
+        "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "language": "JavaScript",
+        "topics": [
+          "javascript",
+          "js",
+          "linux",
+          "macos",
+          "mit",
+          "node",
+          "nodejs",
+          "runtime",
+          "windows"
+        ],
+        "forks": 39839,
+        "stars_24h": 66
       }
     ],
     "6month": [
       {
-        "name": "Z4nzu/hackingtool",
-        "stars": 81307,
-        "growth": 17214,
-        "description": "ALL IN ONE Hacking Tool For Hackers",
+        "name": "TauricResearch/TradingAgents",
+        "stars": 113447,
+        "growth": 59482,
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "language": "Python",
         "topics": [
-          "allinonehackingtool",
-          "besthackingtool",
-          "ctf-tools",
-          "ddos-attack-tool",
-          "hacker",
-          "hacking",
-          "linux",
-          "password-attack",
-          "steganography",
-          "web-attack",
-          "wireless-attack",
-          "xss-attacks",
-          "xss-detection"
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
         ],
-        "forks": 9164,
-        "stars_24h": 50
+        "forks": 21960,
+        "stars_24h": 485
       }
     ],
     "9month": [],
