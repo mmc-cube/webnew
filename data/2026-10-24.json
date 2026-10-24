@@ -1,0 +1,778 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-24T05:10:55.749935",
+  "brief": [
+    {
+      "conclusion": "cloudflare/security-audit-skill 24h +2716 stars — A coding-agent skill for multi-phase security audits with in",
+      "why_hot": "新项目爆发，语言: JavaScript，总 stars: 42,473",
+      "evidence_urls": [
+        "https://github.com/cloudflare/security-audit-skill"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "Graphify-Labs/graphify 24h +1173 stars — Turn any codebase, with its docs, SQL schemas, configs, and ",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 133,982",
+      "evidence_urls": [
+        "https://github.com/Graphify-Labs/graphify"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "NVIDIA/OpenShell 24h +1119 stars — OpenShell is the safe, private runtime for autonomous AI age",
+      "why_hot": "新项目爆发，语言: Rust，总 stars: 18,916",
+      "evidence_urls": [
+        "https://github.com/NVIDIA/OpenShell"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] Join AVA Smart Program & Win 500 USDT 🔥（0成本）",
+      "why_hot": "来自 Travala.com 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Travala"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰（0成本）",
+      "why_hot": "来自 Coincamps 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Coincamps"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "owner": "cloudflare",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 42473,
+      "forks": 2655,
+      "stars_24h": 2716,
+      "created_at": "2026-06-18T14:08:44+00:00",
+      "language": "JavaScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 162,
+      "open_issues": 83
+    },
+    {
+      "name": "php/php-src",
+      "owner": "php",
+      "description": "The PHP Interpreter",
+      "stars": 41597,
+      "forks": 8362,
+      "stars_24h": 716,
+      "created_at": "2011-06-16T01:52:25+00:00",
+      "language": "C",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1360,
+      "open_issues": 2234
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "owner": "anthropics",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 32328,
+      "forks": 3576,
+      "stars_24h": 635,
+      "created_at": "2026-01-23T20:11:54+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 202,
+      "open_issues": 137
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "owner": "NVIDIA",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 18916,
+      "forks": 1889,
+      "stars_24h": 1119,
+      "created_at": "2026-02-24T22:52:22+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 72,
+      "open_issues": 576
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "owner": "Renhuai123",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": 6999,
+      "forks": 1428,
+      "stars_24h": 546,
+      "created_at": "2026-05-01T05:09:59+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "bazi",
+        "chinese-astrology",
+        "divination",
+        "fortune-telling",
+        "nextjs",
+        "open-source",
+        "purple-star-astrology",
+        "typescript",
+        "zi-wei-dou-shu",
+        "ziwei-doushu"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 29,
+      "open_issues": 7
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "owner": "SnailSploit",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": 8608,
+      "forks": 1108,
+      "stars_24h": 226,
+      "created_at": "2026-03-04T05:52:35+00:00",
+      "language": "Python",
+      "topics": [
+        "claude-ai",
+        "claude-pt",
+        "claude-skills",
+        "redteam",
+        "redteam-tools",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 58,
+      "open_issues": 32
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 40348,
+      "forks": 4584,
+      "stars_24h": 150,
+      "created_at": "2025-09-16T03:41:49+00:00",
+      "language": "Python",
+      "topics": [
+        "audio",
+        "deeplearning",
+        "minicpm",
+        "multilingual",
+        "python",
+        "pytorch",
+        "speech",
+        "speech-synthesis",
+        "text-to-speech",
+        "tts",
+        "tts-model",
+        "voice-cloning",
+        "voice-design",
+        "voxcpm"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 170,
+      "open_issues": 154
+    },
+    {
+      "name": "nodejs/node",
+      "owner": "nodejs",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "stars": 122939,
+      "forks": 39839,
+      "stars_24h": 66,
+      "created_at": "2014-11-26T19:57:11+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "javascript",
+        "js",
+        "linux",
+        "macos",
+        "mit",
+        "node",
+        "nodejs",
+        "runtime",
+        "windows"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 3018,
+      "open_issues": 1262
+    },
+    {
+      "name": "baidu/Unlimited-OCR",
+      "owner": "baidu",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "stars": 28296,
+      "forks": 3003,
+      "stars_24h": 75,
+      "created_at": "2026-06-18T08:40:15+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 160,
+      "open_issues": 91
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 113447,
+      "forks": 21960,
+      "stars_24h": 485,
+      "created_at": "2024-12-28T03:31:08+00:00",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 856,
+      "open_issues": 118
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "owner": "Graphify-Labs",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 133982,
+      "forks": 12795,
+      "stars_24h": 1173,
+      "created_at": "2026-04-03T15:49:07+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "antigravity",
+        "ast",
+        "claude-code",
+        "code-analysis",
+        "code-search",
+        "codex",
+        "cursor",
+        "developer-tools",
+        "gemini",
+        "graphify",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "llm",
+        "mcp",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 410,
+      "open_issues": 1602
+    },
+    {
+      "name": "Mailu/Mailu",
+      "owner": "Mailu",
+      "description": "Insular email distribution - mail server as Docker images",
+      "stars": 7586,
+      "forks": 1023,
+      "stars_24h": 4,
+      "created_at": "2016-01-10T21:35:55+00:00",
+      "language": "Python",
+      "topics": [
+        "dkim",
+        "dmarc",
+        "docker",
+        "docker-compose",
+        "email",
+        "fetchmail",
+        "imap",
+        "letsencrypt",
+        "mail",
+        "mailserver",
+        "pop3",
+        "smtp",
+        "webmail"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 95,
+      "open_issues": 93
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "owner": "virgiliojr94",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": 35901,
+      "forks": 3799,
+      "stars_24h": 143,
+      "created_at": "2026-05-01T02:09:39+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "book-to-skill",
+        "context-engineering",
+        "document-processing",
+        "edtech",
+        "knowledge-base",
+        "knowledge-management",
+        "llm",
+        "pdf-to-markdown",
+        "rag",
+        "self-study",
+        "study-tools"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 152,
+      "open_issues": 25
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "owner": "onyx-dot-app",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "stars": 32934,
+      "forks": 4626,
+      "stars_24h": 86,
+      "created_at": "2023-04-27T06:04:01+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-chat",
+        "chatgpt",
+        "chatui",
+        "enterprise-search",
+        "gen-ai",
+        "information-retrieval",
+        "llm",
+        "llm-ui",
+        "nextjs",
+        "python",
+        "rag",
+        "self-hosted",
+        "vector-search"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "eval",
+        "RAG"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 157,
+      "open_issues": 574
+    },
+    {
+      "name": "vllm-project/vllm",
+      "owner": "vllm-project",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 95263,
+      "forks": 23866,
+      "stars_24h": 108,
+      "created_at": "2023-02-09T11:23:20+00:00",
+      "language": "Python",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 612,
+      "open_issues": 9378
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "Join AVA Smart Program & Win 500 USDT 🔥",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793534400,
+      "url": "https://galxe.com/Travala",
+      "note": "来自 Travala.com 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "dkarbon: 17 Goals, One Deadline",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1792875600,
+      "url": "https://galxe.com/Dkarbon",
+      "note": "来自 dkarbon 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "2026 Balance of Power: D Senate, R House",
+      "summary": "This market will resolve according to the party that wins control of the United States Senate and the party that wins co",
+      "volume": "$2,916,602",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-r-house-692"
+    },
+    {
+      "title": "NATO x Russia military clash by October 31, 2026?",
+      "summary": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of a NATO country and Rus",
+      "volume": "$1,352,237",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/nato-x-russia-military-clash-by-october-31-2026"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "cloudflare/security-audit-skill",
+        "stars": 42473,
+        "growth": 2489,
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "topics": [],
+        "forks": 2655,
+        "stars_24h": 2716
+      },
+      {
+        "name": "Graphify-Labs/graphify",
+        "stars": 133982,
+        "growth": 776,
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "antigravity",
+          "ast",
+          "claude-code",
+          "code-analysis",
+          "code-search",
+          "codex",
+          "cursor",
+          "developer-tools",
+          "gemini",
+          "graphify",
+          "graphrag",
+          "knowledge-graph",
+          "leiden",
+          "llm",
+          "mcp",
+          "openclaw",
+          "rag",
+          "skills",
+          "tree-sitter"
+        ],
+        "forks": 12795,
+        "stars_24h": 1173
+      },
+      {
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": 32328,
+        "growth": 592,
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "topics": [],
+        "forks": 3576,
+        "stars_24h": 635
+      },
+      {
+        "name": "php/php-src",
+        "stars": 41597,
+        "growth": 318,
+        "description": "The PHP Interpreter",
+        "language": "C",
+        "topics": [],
+        "forks": 8362,
+        "stars_24h": 716
+      },
+      {
+        "name": "vllm-project/vllm",
+        "stars": 95263,
+        "growth": 89,
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "language": "Python",
+        "topics": [
+          "amd",
+          "blackwell",
+          "cuda",
+          "deepseek",
+          "deepseek-v3",
+          "gpt",
+          "gpt-oss",
+          "inference",
+          "kimi",
+          "llama",
+          "llm",
+          "llm-serving",
+          "model-serving",
+          "moe",
+          "openai",
+          "pytorch",
+          "qwen",
+          "qwen3",
+          "tpu",
+          "transformer"
+        ],
+        "forks": 23866,
+        "stars_24h": 108
+      }
+    ],
+    "weekly": [
+      {
+        "name": "Graphify-Labs/graphify",
+        "stars": 133982,
+        "growth": 4682,
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "antigravity",
+          "ast",
+          "claude-code",
+          "code-analysis",
+          "code-search",
+          "codex",
+          "cursor",
+          "developer-tools",
+          "gemini",
+          "graphify",
+          "graphrag",
+          "knowledge-graph",
+          "leiden",
+          "llm",
+          "mcp",
+          "openclaw",
+          "rag",
+          "skills",
+          "tree-sitter"
+        ],
+        "forks": 12795,
+        "stars_24h": 1173
+      },
+      {
+        "name": "TauricResearch/TradingAgents",
+        "stars": 113447,
+        "growth": 1488,
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "forks": 21960,
+        "stars_24h": 485
+      },
+      {
+        "name": "baidu/Unlimited-OCR",
+        "stars": 28296,
+        "growth": 983,
+        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+        "language": "Python",
+        "topics": [],
+        "forks": 3003,
+        "stars_24h": 75
+      }
+    ],
+    "monthly": [
+      {
+        "name": "cloudflare/security-audit-skill",
+        "stars": 42473,
+        "growth": 24216,
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "topics": [],
+        "forks": 2655,
+        "stars_24h": 2716
+      }
+    ],
+    "3month": [
+      {
+        "name": "virgiliojr94/book-to-skill",
+        "stars": 35901,
+        "growth": 24274,
+        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "book-to-skill",
+          "context-engineering",
+          "document-processing",
+          "edtech",
+          "knowledge-base",
+          "knowledge-management",
+          "llm",
+          "pdf-to-markdown",
+          "rag",
+          "self-study",
+          "study-tools"
+        ],
+        "forks": 3799,
+        "stars_24h": 143
+      },
+      {
+        "name": "nodejs/node",
+        "stars": 122939,
+        "growth": 4433,
+        "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "language": "JavaScript",
+        "topics": [
+          "javascript",
+          "js",
+          "linux",
+          "macos",
+          "mit",
+          "node",
+          "nodejs",
+          "runtime",
+          "windows"
+        ],
+        "forks": 39839,
+        "stars_24h": 66
+      }
+    ],
+    "6month": [
+      {
+        "name": "TauricResearch/TradingAgents",
+        "stars": 113447,
+        "growth": 59482,
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "forks": 21960,
+        "stars_24h": 485
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
