@@ -1,0 +1,611 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-25T05:27:25.414066",
+  "brief": [
+    {
+      "conclusion": "cloudflare/security-audit-skill 24h +2264 stars — A coding-agent skill for multi-phase security audits with in",
+      "why_hot": "新项目爆发，语言: JavaScript，总 stars: 45,041",
+      "evidence_urls": [
+        "https://github.com/cloudflare/security-audit-skill"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "NVIDIA/OpenShell 24h +896 stars — OpenShell is the safe, private runtime for autonomous AI age",
+      "why_hot": "新项目爆发，语言: Rust，总 stars: 19,589",
+      "evidence_urls": [
+        "https://github.com/NVIDIA/OpenShell"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "SnailSploit/Claude-Red 24h +630 stars — claude-red is a curated library of offensive security skills",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 8,869",
+      "evidence_urls": [
+        "https://github.com/SnailSploit/Claude-Red"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] Join AVA Smart Program & Win 500 USDT 🔥（0成本）",
+      "why_hot": "来自 Travala.com 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Travala"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰（0成本）",
+      "why_hot": "来自 Coincamps 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Coincamps"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "owner": "cloudflare",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 45041,
+      "forks": 2795,
+      "stars_24h": 2264,
+      "created_at": "2026-06-18T14:08:44+00:00",
+      "language": "JavaScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 172,
+      "open_issues": 90
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "owner": "NVIDIA",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 19589,
+      "forks": 1939,
+      "stars_24h": 896,
+      "created_at": "2026-02-24T22:52:22+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 71,
+      "open_issues": 579
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "owner": "aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "stars": 3190,
+      "forks": 403,
+      "stars_24h": 13,
+      "created_at": "2026-04-23T12:44:08+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 25,
+      "open_issues": 63
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 32391,
+      "forks": 1663,
+      "stars_24h": 455,
+      "created_at": "2026-04-27T20:47:10+00:00",
+      "language": "CSS",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 64,
+      "open_issues": 49
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "owner": "luongnv89",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 44689,
+      "forks": 5499,
+      "stars_24h": 392,
+      "created_at": "2025-11-07T22:59:34+00:00",
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "guide",
+        "tutorial"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 205,
+      "open_issues": 40
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "owner": "pbakaus",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 86593,
+      "forks": 5169,
+      "stars_24h": 619,
+      "created_at": "2025-11-16T01:52:04+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 198,
+      "open_issues": 39
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "owner": "pollen-robotics",
+      "description": "A Tiny biped duck robot 🦆",
+      "stars": 11108,
+      "forks": 1419,
+      "stars_24h": 319,
+      "created_at": "2026-07-29T07:52:16+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 72,
+      "open_issues": 62
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "owner": "google-gemini",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 108192,
+      "forks": 14819,
+      "stars_24h": 44,
+      "created_at": "2025-04-17T17:04:31+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 587,
+      "open_issues": 763
+    },
+    {
+      "name": "jbiaojerry/ebook-treasure-chest",
+      "owner": "jbiaojerry",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "stars": 22798,
+      "forks": 3198,
+      "stars_24h": 227,
+      "created_at": "2023-09-13T12:22:09+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 161,
+      "open_issues": 6
+    },
+    {
+      "name": "makecindy/cindy",
+      "owner": "makecindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 4218,
+      "forks": 605,
+      "stars_24h": 477,
+      "created_at": "2026-07-22T17:49:34+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-assistant",
+        "android",
+        "claude-code",
+        "codex",
+        "electron",
+        "ios",
+        "llm",
+        "macos",
+        "react-native",
+        "typescript",
+        "windows"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 17,
+      "open_issues": 1896
+    },
+    {
+      "name": "pollen-robotics/microduck_rl",
+      "owner": "pollen-robotics",
+      "description": "RL training environments for Microduck (mjlab)",
+      "stars": 2620,
+      "forks": 609,
+      "stars_24h": 34,
+      "created_at": "2025-12-06T13:00:59+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 17,
+      "open_issues": 52
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "owner": "SnailSploit",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": 8869,
+      "forks": 1147,
+      "stars_24h": 630,
+      "created_at": "2026-03-04T05:52:35+00:00",
+      "language": "Python",
+      "topics": [
+        "claude-ai",
+        "claude-pt",
+        "claude-skills",
+        "redteam",
+        "redteam-tools",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 59,
+      "open_issues": 34
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "owner": "anthropics",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 32700,
+      "forks": 3612,
+      "stars_24h": 524,
+      "created_at": "2026-01-23T20:11:54+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 203,
+      "open_issues": 141
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 113756,
+      "forks": 22037,
+      "stars_24h": 309,
+      "created_at": "2024-12-28T03:31:08+00:00",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 855,
+      "open_issues": 123
+    },
+    {
+      "name": "agentskills/agentskills",
+      "owner": "agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "stars": 26582,
+      "forks": 1957,
+      "stars_24h": 53,
+      "created_at": "2025-12-16T15:47:19+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 240,
+      "open_issues": 104
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "Join AVA Smart Program & Win 500 USDT 🔥",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793534400,
+      "url": "https://galxe.com/Travala",
+      "note": "来自 Travala.com 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "No Gimmicks!!! 📖 Read to Earn💰 Chat to Earn 💰",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1798732740,
+      "url": "https://galxe.com/Coincamps",
+      "note": "来自 Coincamps 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Join Lebrel AI and BRVX: Win $200 USDT",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793014200,
+      "url": "https://galxe.com/indigg",
+      "note": "来自 IndiGG 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Houston vs. Utah",
+      "summary": "In the upcoming college football game between Houston and Utah, scheduled for October 24 at 1:00PM ET:\nThis market will ",
+      "volume": "$844,007",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/cfb-hou-utah-2026-10-24"
+    },
+    {
+      "title": "2026 Balance of Power: R Senate, R House",
+      "summary": "This market will resolve according to the party that wins control of the United States Senate and the party that wins co",
+      "volume": "$831,042",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "cloudflare/security-audit-skill",
+        "stars": 45041,
+        "growth": 2568,
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "topics": [],
+        "forks": 2795,
+        "stars_24h": 2264
+      },
+      {
+        "name": "luongnv89/claude-howto",
+        "stars": 44689,
+        "growth": 1242,
+        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "language": "Python",
+        "topics": [
+          "claude-code",
+          "guide",
+          "tutorial"
+        ],
+        "forks": 5499,
+        "stars_24h": 392
+      },
+      {
+        "name": "NVIDIA/OpenShell",
+        "stars": 19589,
+        "growth": 673,
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "topics": [],
+        "forks": 1939,
+        "stars_24h": 896
+      },
+      {
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": 32700,
+        "growth": 372,
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "topics": [],
+        "forks": 3612,
+        "stars_24h": 524
+      },
+      {
+        "name": "TauricResearch/TradingAgents",
+        "stars": 113756,
+        "growth": 309,
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "forks": 22037,
+        "stars_24h": 309
+      },
+      {
+        "name": "SnailSploit/Claude-Red",
+        "stars": 8869,
+        "growth": 261,
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+        "language": "Python",
+        "topics": [
+          "claude-ai",
+          "claude-pt",
+          "claude-skills",
+          "redteam",
+          "redteam-tools",
+          "skills"
+        ],
+        "forks": 1147,
+        "stars_24h": 630
+      }
+    ],
+    "weekly": [
+      {
+        "name": "cloudflare/security-audit-skill",
+        "stars": 45041,
+        "growth": 10445,
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "topics": [],
+        "forks": 2795,
+        "stars_24h": 2264
+      },
+      {
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": 32700,
+        "growth": 1816,
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "topics": [],
+        "forks": 3612,
+        "stars_24h": 524
+      },
+      {
+        "name": "TauricResearch/TradingAgents",
+        "stars": 113756,
+        "growth": 1797,
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "forks": 22037,
+        "stars_24h": 309
+      }
+    ],
+    "monthly": [
+      {
+        "name": "pbakaus/impeccable",
+        "stars": 86593,
+        "growth": 16131,
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "Rust",
+        "topics": [],
+        "forks": 5169,
+        "stars_24h": 619
+      }
+    ],
+    "3month": [
+      {
+        "name": "pbakaus/impeccable",
+        "stars": 86593,
+        "growth": 35773,
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "Rust",
+        "topics": [],
+        "forks": 5169,
+        "stars_24h": 619
+      }
+    ],
+    "6month": [
+      {
+        "name": "TauricResearch/TradingAgents",
+        "stars": 113756,
+        "growth": 59791,
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "forks": 22037,
+        "stars_24h": 309
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
