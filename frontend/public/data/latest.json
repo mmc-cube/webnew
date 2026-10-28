@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-27T05:46:58.349143",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-28T06:25:04.191752",
   "brief": [
     {
-      "conclusion": "debpalash/VoiceStudio 24h +2297 stars — VoiceStudio is the open-source, fully-local ElevenLabs alter",
-      "why_hot": "新项目爆发，语言: Python，总 stars: 89,744",
-      "evidence_urls": [
-        "https://github.com/debpalash/VoiceStudio"
-      ],
-      "category": "github"
-    },
-    {
-      "conclusion": "Nutlope/hallmark 24h +2244 stars — Anti-AI-slop design skill for Claude Code, Cursor, and Codex",
-      "why_hot": "新项目爆发，语言: CSS，总 stars: 36,974",
+      "conclusion": "Nutlope/hallmark 24h +2830 stars — Anti-AI-slop design skill for Claude Code, Cursor, and Codex",
+      "why_hot": "新项目爆发，语言: CSS，总 stars: 39,427",
       "evidence_urls": [
         "https://github.com/Nutlope/hallmark"
       ],
       "category": "github"
     },
     {
-      "conclusion": "pbakaus/impeccable 24h +1506 stars — The design language that makes your AI harness better at des",
-      "why_hot": "新项目爆发，语言: Rust，总 stars: 89,468",
+      "conclusion": "TauricResearch/TradingAgents 24h +1735 stars — TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 117,486",
       "evidence_urls": [
-        "https://github.com/pbakaus/impeccable"
+        "https://github.com/TauricResearch/TradingAgents"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "Panniantong/Agent-Reach 24h +1632 stars — Give your AI agent eyes to see the entire internet. Read & s",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 105,108",
+      "evidence_urls": [
+        "https://github.com/Panniantong/Agent-Reach"
       ],
       "category": "github"
     },
@@ -46,12 +46,32 @@
   "top_tweets": [],
   "github_trending": [
     {
+      "name": "elayadesign/ai-design-skills",
+      "owner": "elayadesign",
+      "description": "",
+      "stars": 9936,
+      "forks": 697,
+      "stars_24h": 1395,
+      "created_at": "2026-07-29T06:43:16+00:00",
+      "language": "",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 33,
+      "open_issues": 6
+    },
+    {
       "name": "Nutlope/hallmark",
       "owner": "Nutlope",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 36974,
-      "forks": 1927,
-      "stars_24h": 2244,
+      "stars": 39427,
+      "forks": 2056,
+      "stars_24h": 2830,
       "created_at": "2026-04-27T20:47:10+00:00",
       "language": "CSS",
       "topics": [],
@@ -62,24 +82,56 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 73,
-      "open_issues": 63
+      "watchers": 75,
+      "open_issues": 64
     },
     {
-      "name": "TauricResearch/TradingAgents",
-      "owner": "TauricResearch",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 116465,
-      "forks": 22326,
-      "stars_24h": 1395,
-      "created_at": "2024-12-28T03:31:08+00:00",
-      "language": "Python",
+      "name": "nightly-labs/openbot",
+      "owner": "nightly-labs",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "stars": 2667,
+      "forks": 273,
+      "stars_24h": 777,
+      "created_at": "2026-08-12T21:32:03+00:00",
+      "language": "TypeScript",
       "topics": [
-        "agent",
-        "finance",
-        "llm",
-        "multiagent",
-        "trading"
+        "ai-agents",
+        "bun",
+        "codex",
+        "electron",
+        "local-first",
+        "macos",
+        "solidjs",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 10,
+      "open_issues": 240
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 306678,
+      "forks": 27298,
+      "stars_24h": 617,
+      "created_at": "2025-10-09T19:45:18+00:00",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
       ],
       "readme_summary": "",
       "relevance_tags": [
@@ -89,16 +141,172 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 868,
-      "open_issues": 155
+      "watchers": 1106,
+      "open_issues": 364
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "owner": "pbakaus",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "stars": 90953,
+      "forks": 5391,
+      "stars_24h": 1449,
+      "created_at": "2025-11-16T01:52:04+00:00",
+      "language": "Rust",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "anti-slop",
+        "design",
+        "slop"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 200,
+      "open_issues": 46
+    },
+    {
+      "name": "makecindy/cindy",
+      "owner": "makecindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 7677,
+      "forks": 910,
+      "stars_24h": 1465,
+      "created_at": "2026-07-22T17:49:34+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-assistant",
+        "android",
+        "claude-code",
+        "codex",
+        "electron",
+        "ios",
+        "llm",
+        "macos",
+        "react-native",
+        "typescript",
+        "windows"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 27,
+      "open_issues": 2103
+    },
+    {
+      "name": "gitroomhq/postiz-app",
+      "owner": "gitroomhq",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "stars": 39616,
+      "forks": 7534,
+      "stars_24h": 951,
+      "created_at": "2023-07-08T17:24:22+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "nextjs",
+        "open-source",
+        "open-source-social-media-scheduling-tool",
+        "oss",
+        "postiz-cloud",
+        "postiz-hosted",
+        "redis",
+        "scheduling-tool",
+        "social-media-scheduling-tool",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 139,
+      "open_issues": 219
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 291097,
+      "forks": 43094,
+      "stars_24h": 1165,
+      "created_at": "2026-01-18T00:51:51+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1420,
+      "open_issues": 270
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars": 46523,
+      "forks": 5817,
+      "stars_24h": 1598,
+      "created_at": "2025-12-28T15:35:54+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tutor",
+        "clawbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "learning",
+        "multi-agent-systems",
+        "rag"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 206,
+      "open_issues": 218
     },
     {
       "name": "JetBrains/thinkrail",
       "owner": "JetBrains",
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "stars": 3173,
-      "forks": 175,
-      "stars_24h": 1173,
+      "stars": 4316,
+      "forks": 230,
+      "stars_24h": 1204,
       "created_at": "2026-07-08T07:40:43+00:00",
       "language": "TypeScript",
       "topics": [
@@ -126,84 +334,18 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 10,
-      "open_issues": 224
+      "watchers": 12,
+      "open_issues": 229
     },
     {
-      "name": "makecindy/cindy",
-      "owner": "makecindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 6781,
-      "forks": 817,
-      "stars_24h": 1296,
-      "created_at": "2026-07-22T17:49:34+00:00",
-      "language": "TypeScript",
-      "topics": [
-        "agent",
-        "ai-agent",
-        "ai-assistant",
-        "android",
-        "claude-code",
-        "codex",
-        "electron",
-        "ios",
-        "llm",
-        "macos",
-        "react-native",
-        "typescript",
-        "windows"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 27,
-      "open_issues": 2047
-    },
-    {
-      "name": "affaan-m/ECC",
-      "owner": "affaan-m",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 290038,
-      "forks": 42985,
-      "stars_24h": 896,
-      "created_at": "2026-01-18T00:51:51+00:00",
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 1419,
-      "open_issues": 248
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "owner": "pbakaus",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 89468,
-      "forks": 5325,
-      "stars_24h": 1506,
-      "created_at": "2025-11-16T01:52:04+00:00",
-      "language": "Rust",
+      "name": "togg53192-cmd/jailbreaks",
+      "owner": "togg53192-cmd",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "stars": 5944,
+      "forks": 872,
+      "stars_24h": 902,
+      "created_at": "2026-06-18T18:21:25+00:00",
+      "language": "",
       "topics": [],
       "readme_summary": "",
       "relevance_tags": [
@@ -212,99 +354,78 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 199,
-      "open_issues": 46
+      "watchers": 72,
+      "open_issues": 14
     },
     {
-      "name": "NVIDIA/SkillSpector",
-      "owner": "NVIDIA",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "stars": 22404,
-      "forks": 1952,
-      "stars_24h": 214,
-      "created_at": "2026-03-21T00:28:43+00:00",
+      "name": "superdesigndev/treg",
+      "owner": "superdesigndev",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "stars": 6414,
+      "forks": 547,
+      "stars_24h": 212,
+      "created_at": "2026-07-15T13:38:07+00:00",
       "language": "Python",
       "topics": [
-        "agent-security",
-        "agent-skills",
-        "agentic-ai",
-        "ai-security",
-        "claude-code",
+        "agents",
+        "api-keys",
+        "cli",
+        "credentials",
+        "developer-tools",
+        "dsh-plugin",
         "mcp",
-        "prompt-injection",
-        "security-scanner",
-        "security-tools",
-        "security-workflow",
-        "supply-chain-security"
+        "proxy",
+        "python",
+        "registry",
+        "secrets"
       ],
       "readme_summary": "",
       "relevance_tags": [
         "coding agent",
-        "workflow",
         "tooling"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 79,
-      "open_issues": 177
+      "watchers": 17,
+      "open_issues": 197
     },
     {
-      "name": "pollen-robotics/microduck",
-      "owner": "pollen-robotics",
-      "description": "A Tiny biped duck robot 🦆",
-      "stars": 12526,
-      "forks": 1557,
-      "stars_24h": 843,
-      "created_at": "2026-07-29T07:52:16+00:00",
-      "language": "Rust",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 79,
-      "open_issues": 81
-    },
-    {
-      "name": "nightly-labs/openbot",
-      "owner": "nightly-labs",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "stars": 1649,
-      "forks": 201,
-      "stars_24h": 176,
-      "created_at": "2026-08-12T21:32:03+00:00",
-      "language": "TypeScript",
+      "name": "AgriciDaniel/claude-seo",
+      "owner": "AgriciDaniel",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "stars": 22872,
+      "forks": 3106,
+      "stars_24h": 711,
+      "created_at": "2026-02-07T08:17:38+00:00",
+      "language": "Python",
       "topics": [
-        "ai-agents",
-        "bun",
-        "codex",
-        "electron",
-        "local-first",
-        "macos",
-        "solidjs",
-        "typescript"
+        "ai",
+        "ai-seo",
+        "claude-code",
+        "claude-code-skill",
+        "marketing-automation",
+        "open-source",
+        "seo"
       ],
       "readme_summary": "",
       "relevance_tags": [
-        "coding agent"
+        "coding agent",
+        "workflow"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 8,
-      "open_issues": 209
+      "watchers": 165,
+      "open_issues": 68
     },
     {
       "name": "Panniantong/Agent-Reach",
       "owner": "Panniantong",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 104006,
-      "forks": 9224,
-      "stars_24h": 746,
+      "stars": 105108,
+      "forks": 9319,
+      "stars_24h": 1632,
       "created_at": "2026-02-24T02:10:24+00:00",
       "language": "Python",
       "topics": [
@@ -336,161 +457,24 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 343,
-      "open_issues": 255
+      "watchers": 345,
+      "open_issues": 257
     },
     {
-      "name": "debpalash/VoiceStudio",
-      "owner": "debpalash",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 89744,
-      "forks": 9889,
-      "stars_24h": 2297,
-      "created_at": "2026-04-09T21:40:26+00:00",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "IDE",
-        "workflow"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 314,
-      "open_issues": 65
-    },
-    {
-      "name": "gitroomhq/postiz-app",
-      "owner": "gitroomhq",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "stars": 38633,
-      "forks": 7464,
-      "stars_24h": 188,
-      "created_at": "2023-07-08T17:24:22+00:00",
-      "language": "TypeScript",
-      "topics": [
-        "nextjs",
-        "open-source",
-        "open-source-social-media-scheduling-tool",
-        "oss",
-        "postiz-cloud",
-        "postiz-hosted",
-        "redis",
-        "scheduling-tool",
-        "social-media-scheduling-tool",
-        "typescript"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 139,
-      "open_issues": 222
-    },
-    {
-      "name": "alchaincyf/huashu-design",
-      "owner": "alchaincyf",
-      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-      "stars": 27186,
-      "forks": 2984,
-      "stars_24h": 251,
-      "created_at": "2026-04-19T14:42:06+00:00",
-      "language": "HTML",
-      "topics": [
-        "agent-skills",
-        "ai-design",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "design",
-        "html",
-        "pptx",
-        "prototype"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 101,
-      "open_issues": 6
-    },
-    {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "owner": "multica-ai",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 224864,
-      "forks": 22490,
-      "stars_24h": 638,
-      "created_at": "2026-01-27T03:53:13+00:00",
-      "language": "",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 1291,
-      "open_issues": 138
-    },
-    {
-      "name": "AstrBotDevs/AstrBot",
-      "owner": "AstrBotDevs",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 43932,
-      "forks": 3223,
-      "stars_24h": 376,
-      "created_at": "2022-12-08T13:27:46+00:00",
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 117486,
+      "forks": 22489,
+      "stars_24h": 1735,
+      "created_at": "2024-12-28T03:31:08+00:00",
       "language": "Python",
       "topics": [
         "agent",
-        "ai",
-        "astrbot",
-        "chatbot",
-        "chatgpt",
-        "discord",
-        "docker",
-        "gemini",
-        "gpt",
-        "llama",
+        "finance",
         "llm",
-        "mcp",
-        "openai",
-        "python",
-        "qq",
-        "qqbot",
-        "telegram"
+        "multiagent",
+        "trading"
       ],
       "readme_summary": "",
       "relevance_tags": [
@@ -500,8 +484,8 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 93,
-      "open_issues": 1043
+      "watchers": 870,
+      "open_issues": 87
     }
   ],
   "github_new": [],
@@ -529,127 +513,48 @@
     },
     {
       "platform": "Galxe",
-      "title": "Join AVA Smart Program & Win 500 USDT 🔥",
+      "title": "Claim Your \"ALPHA\" Role",
       "task_type": "测试网",
       "cost_tag": "0成本",
       "risk_tag": "较低",
-      "deadline": 1793534400,
-      "url": "https://galxe.com/Travala",
-      "note": "来自 Travala.com 的热门活动"
+      "deadline": null,
+      "url": "https://galxe.com/4Dlabs",
+      "note": "来自 4Dlabs 的热门活动"
     }
   ],
-  "markets": [
-    {
-      "title": "France declares state of emergency by December 31, 2026?",
-      "summary": "This market will resolve to \"Yes\" if a legally binding decree declaring a state of emergency (état d'urgence) in France ",
-      "volume": "$934,798",
-      "odds_change": null,
-      "url": "https://polymarket.com/event/france-declares-state-of-emergency-by-december-31-2026"
-    },
-    {
-      "title": "2026 Balance of Power: Other",
-      "summary": "This market will resolve according to the party that wins control of the United States Senate and the party that wins co",
-      "volume": "$871,280",
-      "odds_change": null,
-      "url": "https://polymarket.com/event/2026-balance-of-power-other-131"
-    }
-  ],
+  "markets": [],
   "leaderboards": {
     "daily": [
       {
         "name": "Nutlope/hallmark",
-        "stars": 36974,
-        "growth": 2659,
+        "stars": 39427,
+        "growth": 2453,
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "language": "CSS",
         "topics": [],
-        "forks": 1927,
-        "stars_24h": 2244
-      },
-      {
-        "name": "debpalash/VoiceStudio",
-        "stars": 89744,
-        "growth": 2491,
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "topics": [
-          "ai",
-          "audiobook",
-          "cuda",
-          "dubbing",
-          "elevenlabs-alternative",
-          "huggingface",
-          "local-first",
-          "mlx",
-          "omnivoice-studio",
-          "speech-to-text",
-          "text-to-speech",
-          "transcription",
-          "translate",
-          "tts",
-          "voice-ai",
-          "voice-cloning",
-          "voice-generation",
-          "voicestudio",
-          "workflow"
-        ],
-        "forks": 9889,
-        "stars_24h": 2297
-      },
-      {
-        "name": "TauricResearch/TradingAgents",
-        "stars": 116465,
-        "growth": 1594,
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "language": "Python",
-        "topics": [
-          "agent",
-          "finance",
-          "llm",
-          "multiagent",
-          "trading"
-        ],
-        "forks": 22326,
-        "stars_24h": 1395
-      },
-      {
-        "name": "makecindy/cindy",
-        "stars": 6781,
-        "growth": 1583,
-        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "language": "TypeScript",
-        "topics": [
-          "agent",
-          "ai-agent",
-          "ai-assistant",
-          "android",
-          "claude-code",
-          "codex",
-          "electron",
-          "ios",
-          "llm",
-          "macos",
-          "react-native",
-          "typescript",
-          "windows"
-        ],
-        "forks": 817,
-        "stars_24h": 1296
+        "forks": 2056,
+        "stars_24h": 2830
       },
       {
         "name": "pbakaus/impeccable",
-        "stars": 89468,
-        "growth": 1478,
-        "description": "The design language that makes your AI harness better at design.",
+        "stars": 90953,
+        "growth": 1485,
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "language": "Rust",
-        "topics": [],
-        "forks": 5325,
-        "stars_24h": 1506
+        "topics": [
+          "agent-skills",
+          "ai",
+          "anti-slop",
+          "design",
+          "slop"
+        ],
+        "forks": 5391,
+        "stars_24h": 1449
       },
       {
         "name": "JetBrains/thinkrail",
-        "stars": 3173,
-        "growth": 1161,
+        "stars": 4316,
+        "growth": 1143,
         "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
         "language": "TypeScript",
         "topics": [
@@ -667,55 +572,41 @@
           "vibe-coding",
           "vibecoding"
         ],
-        "forks": 175,
-        "stars_24h": 1173
+        "forks": 230,
+        "stars_24h": 1204
       },
       {
-        "name": "pollen-robotics/microduck",
-        "stars": 12526,
-        "growth": 673,
-        "description": "A Tiny biped duck robot 🦆",
-        "language": "Rust",
-        "topics": [],
-        "forks": 1557,
-        "stars_24h": 843
-      }
-    ],
-    "weekly": [
-      {
-        "name": "debpalash/VoiceStudio",
-        "stars": 89744,
-        "growth": 13802,
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "name": "Panniantong/Agent-Reach",
+        "stars": 105108,
+        "growth": 1102,
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "language": "Python",
         "topics": [
-          "ai",
-          "audiobook",
-          "cuda",
-          "dubbing",
-          "elevenlabs-alternative",
-          "huggingface",
-          "local-first",
-          "mlx",
-          "omnivoice-studio",
-          "speech-to-text",
-          "text-to-speech",
-          "transcription",
-          "translate",
-          "tts",
-          "voice-ai",
-          "voice-cloning",
-          "voice-generation",
-          "voicestudio",
-          "workflow"
+          "agent-infrastructure",
+          "ai-agent",
+          "ai-search",
+          "automation",
+          "bilibili",
+          "claude-code",
+          "cli",
+          "cursor",
+          "free-api",
+          "llm-tools",
+          "mcp",
+          "python",
+          "reddit-scraper",
+          "twitter-scraper",
+          "web-scraper",
+          "xiaohongshu",
+          "youtube-transcript"
         ],
-        "forks": 9889,
-        "stars_24h": 2297
+        "forks": 9319,
+        "stars_24h": 1632
       },
       {
         "name": "affaan-m/ECC",
-        "stars": 290038,
-        "growth": 7362,
+        "stars": 291097,
+        "growth": 1059,
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
         "topics": [
@@ -728,13 +619,13 @@
           "mcp",
           "productivity"
         ],
-        "forks": 42985,
-        "stars_24h": 896
+        "forks": 43094,
+        "stars_24h": 1165
       },
       {
         "name": "TauricResearch/TradingAgents",
-        "stars": 116465,
-        "growth": 4506,
+        "stars": 117486,
+        "growth": 1021,
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "language": "Python",
         "topics": [
@@ -744,57 +635,184 @@
           "multiagent",
           "trading"
         ],
-        "forks": 22326,
-        "stars_24h": 1395
+        "forks": 22489,
+        "stars_24h": 1735
+      },
+      {
+        "name": "nightly-labs/openbot",
+        "stars": 2667,
+        "growth": 1018,
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "bun",
+          "codex",
+          "electron",
+          "local-first",
+          "macos",
+          "solidjs",
+          "typescript"
+        ],
+        "forks": 273,
+        "stars_24h": 777
+      },
+      {
+        "name": "gitroomhq/postiz-app",
+        "stars": 39616,
+        "growth": 983,
+        "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+        "language": "TypeScript",
+        "topics": [
+          "nextjs",
+          "open-source",
+          "open-source-social-media-scheduling-tool",
+          "oss",
+          "postiz-cloud",
+          "postiz-hosted",
+          "redis",
+          "scheduling-tool",
+          "social-media-scheduling-tool",
+          "typescript"
+        ],
+        "forks": 7534,
+        "stars_24h": 951
+      },
+      {
+        "name": "makecindy/cindy",
+        "stars": 7677,
+        "growth": 896,
+        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "android",
+          "claude-code",
+          "codex",
+          "electron",
+          "ios",
+          "llm",
+          "macos",
+          "react-native",
+          "typescript",
+          "windows"
+        ],
+        "forks": 910,
+        "stars_24h": 1465
+      }
+    ],
+    "weekly": [
+      {
+        "name": "Nutlope/hallmark",
+        "stars": 39427,
+        "growth": 7036,
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "topics": [],
+        "forks": 2056,
+        "stars_24h": 2830
+      },
+      {
+        "name": "pbakaus/impeccable",
+        "stars": 90953,
+        "growth": 4360,
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "topics": [
+          "agent-skills",
+          "ai",
+          "anti-slop",
+          "design",
+          "slop"
+        ],
+        "forks": 5391,
+        "stars_24h": 1449
+      },
+      {
+        "name": "TauricResearch/TradingAgents",
+        "stars": 117486,
+        "growth": 4039,
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "forks": 22489,
+        "stars_24h": 1735
+      },
+      {
+        "name": "makecindy/cindy",
+        "stars": 7677,
+        "growth": 3459,
+        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "android",
+          "claude-code",
+          "codex",
+          "electron",
+          "ios",
+          "llm",
+          "macos",
+          "react-native",
+          "typescript",
+          "windows"
+        ],
+        "forks": 910,
+        "stars_24h": 1465
       }
     ],
     "monthly": [
       {
-        "name": "debpalash/VoiceStudio",
-        "stars": 89744,
-        "growth": 48961,
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
+        "name": "pbakaus/impeccable",
+        "stars": 90953,
+        "growth": 19674,
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
         "topics": [
+          "agent-skills",
           "ai",
-          "audiobook",
-          "cuda",
-          "dubbing",
-          "elevenlabs-alternative",
-          "huggingface",
-          "local-first",
-          "mlx",
-          "omnivoice-studio",
-          "speech-to-text",
-          "text-to-speech",
-          "transcription",
-          "translate",
-          "tts",
-          "voice-ai",
-          "voice-cloning",
-          "voice-generation",
-          "voicestudio",
-          "workflow"
+          "anti-slop",
+          "design",
+          "slop"
         ],
-        "forks": 9889,
-        "stars_24h": 2297
+        "forks": 5391,
+        "stars_24h": 1449
       },
       {
-        "name": "pbakaus/impeccable",
-        "stars": 89468,
-        "growth": 18189,
-        "description": "The design language that makes your AI harness better at design.",
-        "language": "Rust",
-        "topics": [],
-        "forks": 5325,
-        "stars_24h": 1506
+        "name": "obra/superpowers",
+        "stars": 306678,
+        "growth": 14953,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 27298,
+        "stars_24h": 617
       }
     ],
     "3month": [
       {
         "name": "affaan-m/ECC",
-        "stars": 290038,
-        "growth": 55087,
+        "stars": 291097,
+        "growth": 54789,
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
         "topics": [
@@ -807,25 +825,97 @@
           "mcp",
           "productivity"
         ],
-        "forks": 42985,
-        "stars_24h": 896
+        "forks": 43094,
+        "stars_24h": 1165
+      },
+      {
+        "name": "obra/superpowers",
+        "stars": 306678,
+        "growth": 43284,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 27298,
+        "stars_24h": 617
+      },
+      {
+        "name": "Panniantong/Agent-Reach",
+        "stars": 105108,
+        "growth": 40189,
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "topics": [
+          "agent-infrastructure",
+          "ai-agent",
+          "ai-search",
+          "automation",
+          "bilibili",
+          "claude-code",
+          "cli",
+          "cursor",
+          "free-api",
+          "llm-tools",
+          "mcp",
+          "python",
+          "reddit-scraper",
+          "twitter-scraper",
+          "web-scraper",
+          "xiaohongshu",
+          "youtube-transcript"
+        ],
+        "forks": 9319,
+        "stars_24h": 1632
       },
       {
         "name": "pbakaus/impeccable",
-        "stars": 89468,
-        "growth": 37780,
-        "description": "The design language that makes your AI harness better at design.",
+        "stars": 90953,
+        "growth": 39265,
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "language": "Rust",
-        "topics": [],
-        "forks": 5325,
-        "stars_24h": 1506
+        "topics": [
+          "agent-skills",
+          "ai",
+          "anti-slop",
+          "design",
+          "slop"
+        ],
+        "forks": 5391,
+        "stars_24h": 1449
       }
     ],
     "6month": [
       {
+        "name": "obra/superpowers",
+        "stars": 306678,
+        "growth": 130914,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 27298,
+        "stars_24h": 617
+      },
+      {
         "name": "TauricResearch/TradingAgents",
-        "stars": 116465,
-        "growth": 61984,
+        "stars": 117486,
+        "growth": 57368,
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "language": "Python",
         "topics": [
@@ -835,8 +925,8 @@
           "multiagent",
           "trading"
         ],
-        "forks": 22326,
-        "stars_24h": 1395
+        "forks": 22489,
+        "stars_24h": 1735
       }
     ],
     "9month": [],
