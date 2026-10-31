@@ -1,0 +1,925 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-31T06:25:16.763933",
+  "brief": [
+    {
+      "conclusion": "pbakaus/impeccable 24h +2300 stars — The design vocabulary for your coding agent. Steer with poli",
+      "why_hot": "新项目爆发，语言: Rust，总 stars: 97,352",
+      "evidence_urls": [
+        "https://github.com/pbakaus/impeccable"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "HKUDS/DeepTutor 24h +2282 stars — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 51,984",
+      "evidence_urls": [
+        "https://github.com/HKUDS/DeepTutor"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "togg53192-cmd/jailbreaks 24h +2055 stars — LIST OF ALL MY JAILBREAKS",
+      "why_hot": "新项目爆发，语言: ，总 stars: 11,497",
+      "evidence_urls": [
+        "https://github.com/togg53192-cmd/jailbreaks"
+      ],
+      "category": "github"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "thedotmack/claude-mem",
+      "owner": "thedotmack",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": 106642,
+      "forks": 9384,
+      "stars_24h": 1140,
+      "created_at": "2025-08-31T20:50:03+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "anthropic",
+        "artificial-intelligence",
+        "chromadb",
+        "claude",
+        "claude-agent-sdk",
+        "claude-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "embeddings",
+        "long-term-memory",
+        "mem0",
+        "memory-engine",
+        "openmemory",
+        "rag",
+        "sqlite",
+        "supermemory"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 327,
+      "open_issues": 141
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "owner": "milind-soni",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 8922,
+      "forks": 1227,
+      "stars_24h": 895,
+      "created_at": "2026-08-11T18:58:55+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "grok-bot",
+        "grok-bot-alternative",
+        "self-hosted",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 26,
+      "open_issues": 617
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "owner": "pbakaus",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "stars": 97352,
+      "forks": 5735,
+      "stars_24h": 2300,
+      "created_at": "2025-11-16T01:52:04+00:00",
+      "language": "Rust",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "anti-slop",
+        "design",
+        "slop"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 213,
+      "open_issues": 66
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "owner": "CopilotKit",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars": 8915,
+      "forks": 1118,
+      "stars_24h": 706,
+      "created_at": "2026-08-17T00:44:59+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit",
+        "generative-ui",
+        "mcp"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 33,
+      "open_issues": 78
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "owner": "Renhuai123",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": 11531,
+      "forks": 2279,
+      "stars_24h": 1126,
+      "created_at": "2026-05-01T05:09:59+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "bazi",
+        "chinese-astrology",
+        "divination",
+        "fortune-telling",
+        "nextjs",
+        "open-source",
+        "purple-star-astrology",
+        "typescript",
+        "zi-wei-dou-shu",
+        "ziwei-doushu"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 45,
+      "open_issues": 15
+    },
+    {
+      "name": "expo/skills",
+      "owner": "expo",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "stars": 3930,
+      "forks": 248,
+      "stars_24h": 38,
+      "created_at": "2025-11-30T03:57:18+00:00",
+      "language": "Shell",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 23,
+      "open_issues": 103
+    },
+    {
+      "name": "macro-inc/macro",
+      "owner": "macro-inc",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": 5936,
+      "forks": 543,
+      "stars_24h": 57,
+      "created_at": "2025-11-08T15:18:27+00:00",
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "all-in-one",
+        "crm",
+        "crm-system",
+        "email",
+        "linear",
+        "mcp",
+        "messaging",
+        "notes",
+        "notion",
+        "office",
+        "rust",
+        "slack",
+        "slack-alternative",
+        "startup",
+        "startup-tools",
+        "typescript",
+        "workspace"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 37,
+      "open_issues": 288
+    },
+    {
+      "name": "mattpocock/skills",
+      "owner": "mattpocock",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 307655,
+      "forks": 25894,
+      "stars_24h": 876,
+      "created_at": "2026-02-03T11:15:53+00:00",
+      "language": "Shell",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1597,
+      "open_issues": 194
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "owner": "pingdotgg",
+      "description": "",
+      "stars": 33030,
+      "forks": 8677,
+      "stars_24h": 930,
+      "created_at": "2026-02-08T23:46:22+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 88,
+      "open_issues": 3918
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars": 51984,
+      "forks": 6370,
+      "stars_24h": 2282,
+      "created_at": "2025-12-28T15:35:54+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tutor",
+        "clawbot",
+        "cli-tool",
+        "deepresearch",
+        "interactive-learning",
+        "learning",
+        "multi-agent-systems",
+        "rag"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 224,
+      "open_issues": 301
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "description": "Public repository for Agent Skills",
+      "stars": 185500,
+      "forks": 21907,
+      "stars_24h": 295,
+      "created_at": "2025-09-22T15:53:31+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1130,
+      "open_issues": 1450
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "owner": "JetBrains",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": 6669,
+      "forks": 360,
+      "stars_24h": 722,
+      "created_at": "2026-07-08T07:40:43+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "agentic-ai",
+        "agentic-workflow",
+        "ai-coding",
+        "ai-tools",
+        "pi-agent",
+        "pi-agent-extension",
+        "spec-driven",
+        "spec-driven-coding",
+        "spec-driven-development",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 18,
+      "open_issues": 306
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "owner": "togg53192-cmd",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "stars": 11497,
+      "forks": 1685,
+      "stars_24h": 2055,
+      "created_at": "2026-06-18T18:21:25+00:00",
+      "language": "",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 100,
+      "open_issues": 23
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 309563,
+      "forks": 27546,
+      "stars_24h": 1259,
+      "created_at": "2025-10-09T19:45:18+00:00",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1121,
+      "open_issues": 375
+    },
+    {
+      "name": "lightpanda-io/browser",
+      "owner": "lightpanda-io",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 38606,
+      "forks": 1877,
+      "stars_24h": 626,
+      "created_at": "2023-02-07T15:19:34+00:00",
+      "language": "Zig",
+      "topics": [
+        "browser",
+        "browser-automation",
+        "cdp",
+        "headless",
+        "lightpanda",
+        "playwright",
+        "puppeteer",
+        "zig"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 99,
+      "open_issues": 101
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [],
+  "markets": [
+    {
+      "title": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "summary": "This market will resolve according to the party that wins control of the United States House of Representatives in the 2",
+      "volume": "$1,399,455",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/will-the-republican-party-control-the-house-after-the-2026-midterm-elections"
+    },
+    {
+      "title": "2026 Balance of Power: D Senate, D House",
+      "summary": "This market will resolve according to the party that wins control of the United States Senate and the party that wins co",
+      "volume": "$1,167,066",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "togg53192-cmd/jailbreaks",
+        "stars": 11497,
+        "growth": 1969,
+        "description": "LIST OF ALL MY JAILBREAKS",
+        "language": "",
+        "topics": [],
+        "forks": 1685,
+        "stars_24h": 2055
+      },
+      {
+        "name": "thedotmack/claude-mem",
+        "stars": 106642,
+        "growth": 1591,
+        "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-memory",
+          "anthropic",
+          "artificial-intelligence",
+          "chromadb",
+          "claude",
+          "claude-agent-sdk",
+          "claude-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "embeddings",
+          "long-term-memory",
+          "mem0",
+          "memory-engine",
+          "openmemory",
+          "rag",
+          "sqlite",
+          "supermemory"
+        ],
+        "forks": 9384,
+        "stars_24h": 1140
+      },
+      {
+        "name": "pbakaus/impeccable",
+        "stars": 97352,
+        "growth": 1484,
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "topics": [
+          "agent-skills",
+          "ai",
+          "anti-slop",
+          "design",
+          "slop"
+        ],
+        "forks": 5735,
+        "stars_24h": 2300
+      },
+      {
+        "name": "HKUDS/DeepTutor",
+        "stars": 51984,
+        "growth": 1258,
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "ai-tutor",
+          "clawbot",
+          "cli-tool",
+          "deepresearch",
+          "interactive-learning",
+          "learning",
+          "multi-agent-systems",
+          "rag"
+        ],
+        "forks": 6370,
+        "stars_24h": 2282
+      },
+      {
+        "name": "milind-soni/OpenMausBot",
+        "stars": 8922,
+        "growth": 1240,
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "computer-use",
+          "docker",
+          "electron",
+          "expo",
+          "grok",
+          "grok-bot",
+          "grok-bot-alternative",
+          "self-hosted",
+          "typescript"
+        ],
+        "forks": 1227,
+        "stars_24h": 895
+      },
+      {
+        "name": "obra/superpowers",
+        "stars": 309563,
+        "growth": 734,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 27546,
+        "stars_24h": 1259
+      },
+      {
+        "name": "CopilotKit/OpenBot",
+        "stars": 8915,
+        "growth": 601,
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "language": "TypeScript",
+        "topics": [
+          "ag-ui",
+          "agent-governance",
+          "ai-agents",
+          "browser-automation",
+          "copilotkit",
+          "generative-ui",
+          "mcp"
+        ],
+        "forks": 1118,
+        "stars_24h": 706
+      },
+      {
+        "name": "JetBrains/thinkrail",
+        "stars": 6669,
+        "growth": 487,
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "agentic-ai",
+          "agentic-workflow",
+          "ai-coding",
+          "ai-tools",
+          "pi-agent",
+          "pi-agent-extension",
+          "spec-driven",
+          "spec-driven-coding",
+          "spec-driven-development",
+          "vibe-coding",
+          "vibecoding"
+        ],
+        "forks": 360,
+        "stars_24h": 722
+      },
+      {
+        "name": "macro-inc/macro",
+        "stars": 5936,
+        "growth": 389,
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "language": "Rust",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "all-in-one",
+          "crm",
+          "crm-system",
+          "email",
+          "linear",
+          "mcp",
+          "messaging",
+          "notes",
+          "notion",
+          "office",
+          "rust",
+          "slack",
+          "slack-alternative",
+          "startup",
+          "startup-tools",
+          "typescript",
+          "workspace"
+        ],
+        "forks": 543,
+        "stars_24h": 57
+      },
+      {
+        "name": "expo/skills",
+        "stars": 3930,
+        "growth": 256,
+        "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+        "language": "Shell",
+        "topics": [],
+        "forks": 248,
+        "stars_24h": 38
+      }
+    ],
+    "weekly": [
+      {
+        "name": "pbakaus/impeccable",
+        "stars": 97352,
+        "growth": 10759,
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "topics": [
+          "agent-skills",
+          "ai",
+          "anti-slop",
+          "design",
+          "slop"
+        ],
+        "forks": 5735,
+        "stars_24h": 2300
+      },
+      {
+        "name": "HKUDS/DeepTutor",
+        "stars": 51984,
+        "growth": 9152,
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "ai-tutor",
+          "clawbot",
+          "cli-tool",
+          "deepresearch",
+          "interactive-learning",
+          "learning",
+          "multi-agent-systems",
+          "rag"
+        ],
+        "forks": 6370,
+        "stars_24h": 2282
+      },
+      {
+        "name": "JetBrains/thinkrail",
+        "stars": 6669,
+        "growth": 4657,
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "agentic-ai",
+          "agentic-workflow",
+          "ai-coding",
+          "ai-tools",
+          "pi-agent",
+          "pi-agent-extension",
+          "spec-driven",
+          "spec-driven-coding",
+          "spec-driven-development",
+          "vibe-coding",
+          "vibecoding"
+        ],
+        "forks": 360,
+        "stars_24h": 722
+      },
+      {
+        "name": "Renhuai123/ziwei-doushu",
+        "stars": 11531,
+        "growth": 4532,
+        "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "language": "TypeScript",
+        "topics": [
+          "bazi",
+          "chinese-astrology",
+          "divination",
+          "fortune-telling",
+          "nextjs",
+          "open-source",
+          "purple-star-astrology",
+          "typescript",
+          "zi-wei-dou-shu",
+          "ziwei-doushu"
+        ],
+        "forks": 2279,
+        "stars_24h": 1126
+      }
+    ],
+    "monthly": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 307655,
+        "growth": 34458,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 25894,
+        "stars_24h": 876
+      },
+      {
+        "name": "pbakaus/impeccable",
+        "stars": 97352,
+        "growth": 22890,
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "topics": [
+          "agent-skills",
+          "ai",
+          "anti-slop",
+          "design",
+          "slop"
+        ],
+        "forks": 5735,
+        "stars_24h": 2300
+      },
+      {
+        "name": "obra/superpowers",
+        "stars": 309563,
+        "growth": 15016,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 27546,
+        "stars_24h": 1259
+      },
+      {
+        "name": "thedotmack/claude-mem",
+        "stars": 106642,
+        "growth": 10936,
+        "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-memory",
+          "anthropic",
+          "artificial-intelligence",
+          "chromadb",
+          "claude",
+          "claude-agent-sdk",
+          "claude-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "embeddings",
+          "long-term-memory",
+          "mem0",
+          "memory-engine",
+          "openmemory",
+          "rag",
+          "sqlite",
+          "supermemory"
+        ],
+        "forks": 9384,
+        "stars_24h": 1140
+      },
+      {
+        "name": "pingdotgg/t3code",
+        "stars": 33030,
+        "growth": 8231,
+        "description": "",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 8677,
+        "stars_24h": 930
+      }
+    ],
+    "3month": [
+      {
+        "name": "obra/superpowers",
+        "stars": 309563,
+        "growth": 42951,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 27546,
+        "stars_24h": 1259
+      }
+    ],
+    "6month": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 307655,
+        "growth": 254744,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 25894,
+        "stars_24h": 876
+      },
+      {
+        "name": "obra/superpowers",
+        "stars": 309563,
+        "growth": 133799,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 27546,
+        "stars_24h": 1259
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
