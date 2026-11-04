@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-03T07:20:52.813605",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-04T07:03:24.393650",
   "brief": [
     {
-      "conclusion": "pingdotgg/t3code 24h +3229 stars — ",
-      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 42,576",
-      "evidence_urls": [
-        "https://github.com/pingdotgg/t3code"
-      ],
-      "category": "github"
-    },
-    {
-      "conclusion": "vercel-labs/agent-desktop 24h +2275 stars — Computer use CLI for AI agents",
-      "why_hot": "新项目爆发，语言: Rust，总 stars: 10,860",
+      "conclusion": "vercel-labs/agent-desktop 24h +3791 stars — Computer use CLI for AI agents",
+      "why_hot": "新项目爆发，语言: Rust，总 stars: 13,424",
       "evidence_urls": [
         "https://github.com/vercel-labs/agent-desktop"
       ],
       "category": "github"
     },
     {
-      "conclusion": "thedotmack/claude-mem 24h +1803 stars — Persistent Context Across Sessions for Every Agent –  Captur",
-      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 111,074",
+      "conclusion": "D4Vinci/Scrapling 24h +1658 stars — 🕷️ The BEST Web Scraping framework that handles everything f",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 95,321",
       "evidence_urls": [
-        "https://github.com/thedotmack/claude-mem"
+        "https://github.com/D4Vinci/Scrapling"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "Donchitos/Claude-Code-Game-Studios 24h +1182 stars — Turn Claude Code into a full game dev studio — 49 AI agents,",
+      "why_hot": "新项目爆发，语言: Shell，总 stars: 34,918",
+      "evidence_urls": [
+        "https://github.com/Donchitos/Claude-Code-Game-Studios"
       ],
       "category": "github"
     }
@@ -30,46 +30,12 @@
   "top_tweets": [],
   "github_trending": [
     {
-      "name": "vercel-labs/agent-desktop",
-      "owner": "vercel-labs",
-      "description": "Computer use CLI for AI agents",
-      "stars": 10860,
-      "forks": 726,
-      "stars_24h": 2275,
-      "created_at": "2026-02-19T18:00:49+00:00",
-      "language": "Rust",
-      "topics": [
-        "accessibility",
-        "accessibility-api",
-        "ai-agents",
-        "automation",
-        "cli",
-        "computer-use",
-        "computer-use-agent",
-        "computer-use-agents",
-        "desktop-automation",
-        "macos",
-        "mcp",
-        "rust"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "workflow"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 21,
-      "open_issues": 127
-    },
-    {
       "name": "thedotmack/claude-mem",
       "owner": "thedotmack",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "stars": 111074,
-      "forks": 9680,
-      "stars_24h": 1803,
+      "stars": 112205,
+      "forks": 9759,
+      "stars_24h": 1139,
       "created_at": "2025-08-31T20:50:03+00:00",
       "language": "TypeScript",
       "topics": [
@@ -104,16 +70,262 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 348,
-      "open_issues": 133
+      "watchers": 356,
+      "open_issues": 123
+    },
+    {
+      "name": "vercel-labs/agent-desktop",
+      "owner": "vercel-labs",
+      "description": "Computer use CLI for AI agents",
+      "stars": 13424,
+      "forks": 924,
+      "stars_24h": 3791,
+      "created_at": "2026-02-19T18:00:49+00:00",
+      "language": "Rust",
+      "topics": [
+        "accessibility",
+        "accessibility-api",
+        "ai-agents",
+        "automation",
+        "cli",
+        "computer-use",
+        "computer-use-agent",
+        "computer-use-agents",
+        "desktop-automation",
+        "macos",
+        "mcp",
+        "rust"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 30,
+      "open_issues": 149
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "owner": "max-sixty",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars": 10658,
+      "forks": 388,
+      "stars_24h": 438,
+      "created_at": "2025-10-17T22:13:14+00:00",
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "git",
+        "worktrees"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 23,
+      "open_issues": 70
+    },
+    {
+      "name": "JustVugg/colibri",
+      "owner": "JustVugg",
+      "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "stars": 47413,
+      "forks": 5476,
+      "stars_24h": 802,
+      "created_at": "2026-07-01T12:27:49+00:00",
+      "language": "C",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 382,
+      "open_issues": 168
+    },
+    {
+      "name": "mattpocock/skills",
+      "owner": "mattpocock",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 311800,
+      "forks": 26201,
+      "stars_24h": 1164,
+      "created_at": "2026-02-03T11:15:53+00:00",
+      "language": "Shell",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1606,
+      "open_issues": 209
+    },
+    {
+      "name": "p-e-w/heretic",
+      "owner": "p-e-w",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "stars": 39006,
+      "forks": 4401,
+      "stars_24h": 701,
+      "created_at": "2025-09-21T05:46:16+00:00",
+      "language": "Python",
+      "topics": [
+        "abliteration",
+        "anti-censorship",
+        "anticensorship",
+        "censorship",
+        "censorship-resistance",
+        "llm",
+        "transformer"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 200,
+      "open_issues": 64
+    },
+    {
+      "name": "spotify/portal-ai-plugins",
+      "owner": "spotify",
+      "description": "",
+      "stars": 3099,
+      "forks": 240,
+      "stars_24h": 91,
+      "created_at": "2026-07-23T21:17:21+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 19,
+      "open_issues": 13
+    },
+    {
+      "name": "floci-io/floci",
+      "owner": "floci-io",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "stars": 29056,
+      "forks": 3230,
+      "stars_24h": 482,
+      "created_at": "2026-02-18T02:28:29+00:00",
+      "language": "Java",
+      "topics": [
+        "aws",
+        "aws-emulation",
+        "devops",
+        "docker",
+        "ec2",
+        "ecs",
+        "localstack",
+        "s3",
+        "sqs",
+        "testcontainers"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 88,
+      "open_issues": 174
+    },
+    {
+      "name": "Usagi-org/ai-goofish-monitor",
+      "owner": "Usagi-org",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "stars": 16798,
+      "forks": 2878,
+      "stars_24h": 228,
+      "created_at": "2025-07-16T08:13:41+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-assistant",
+        "ai-tools",
+        "automation",
+        "gemini",
+        "goofish",
+        "open-source",
+        "openai",
+        "playwright",
+        "tool",
+        "xian-yu",
+        "xianyu",
+        "xianyu-bot"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 57,
+      "open_issues": 44
+    },
+    {
+      "name": "anomalyco/hex",
+      "owner": "anomalyco",
+      "description": "Local voice dictation for mac, windows and linux",
+      "stars": 4761,
+      "forks": 267,
+      "stars_24h": 410,
+      "created_at": "2026-07-17T23:48:56+00:00",
+      "language": "Rust",
+      "topics": [
+        "dictation",
+        "linux",
+        "local-first",
+        "macos",
+        "rust",
+        "speech-recognition",
+        "speech-to-text",
+        "voice-control"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 8,
+      "open_issues": 124
     },
     {
       "name": "D4Vinci/Scrapling",
       "owner": "D4Vinci",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "stars": 93393,
-      "forks": 9820,
-      "stars_24h": 706,
+      "stars": 95321,
+      "forks": 9995,
+      "stars_24h": 1658,
       "created_at": "2024-10-13T20:29:53+00:00",
       "language": "Python",
       "topics": [
@@ -146,24 +358,19 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 328,
-      "open_issues": 11
+      "watchers": 335,
+      "open_issues": 10
     },
     {
-      "name": "hyprwm/Hyprland",
-      "owner": "hyprwm",
-      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "stars": 40089,
-      "forks": 2159,
-      "stars_24h": 509,
-      "created_at": "2022-03-16T19:49:13+00:00",
-      "language": "C++",
-      "topics": [
-        "compositor",
-        "cpp26",
-        "wayland",
-        "wayland-compositor"
-      ],
+      "name": "shiyu-coder/Kronos",
+      "owner": "shiyu-coder",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 46626,
+      "forks": 7675,
+      "stars_24h": 503,
+      "created_at": "2025-07-01T02:54:32+00:00",
+      "language": "Python",
+      "topics": [],
       "readme_summary": "",
       "relevance_tags": [
         "tooling"
@@ -171,16 +378,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 145,
-      "open_issues": 192
+      "watchers": 407,
+      "open_issues": 295
     },
     {
       "name": "Donchitos/Claude-Code-Game-Studios",
       "owner": "Donchitos",
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "stars": 33908,
-      "forks": 4544,
-      "stars_24h": 1379,
+      "stars": 34918,
+      "forks": 4622,
+      "stars_24h": 1182,
       "created_at": "2026-02-12T05:21:38+00:00",
       "language": "Shell",
       "topics": [
@@ -205,229 +412,59 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 228,
-      "open_issues": 92
+      "watchers": 236,
+      "open_issues": 93
     },
     {
-      "name": "FlashML-org/FreeToken",
-      "owner": "FlashML-org",
-      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-      "stars": 16289,
-      "forks": 1600,
-      "stars_24h": 653,
-      "created_at": "2026-07-20T20:44:11+00:00",
+      "name": "calesthio/OpenMontage",
+      "owner": "calesthio",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": 76109,
+      "forks": 10087,
+      "stars_24h": 814,
+      "created_at": "2026-03-29T15:23:22+00:00",
       "language": "Python",
       "topics": [
-        "deepseek-v4",
-        "edge",
-        "glm",
-        "inference",
-        "minimax",
-        "moe",
-        "qwen",
-        "transformer"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 100,
-      "open_issues": 469
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "owner": "pingdotgg",
-      "description": "",
-      "stars": 42576,
-      "forks": 9137,
-      "stars_24h": 3229,
-      "created_at": "2026-02-08T23:46:22+00:00",
-      "language": "TypeScript",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 99,
-      "open_issues": 4466
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "owner": "shiyu-coder",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 46126,
-      "forks": 7601,
-      "stars_24h": 857,
-      "created_at": "2025-07-01T02:54:32+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 401,
-      "open_issues": 295
-    },
-    {
-      "name": "kornia/kornia",
-      "owner": "kornia",
-      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "stars": 12233,
-      "forks": 1502,
-      "stars_24h": 412,
-      "created_at": "2018-08-22T10:31:37+00:00",
-      "language": "Python",
-      "topics": [
-        "artificial-intelligence",
-        "computer-vision",
-        "deep-learning",
-        "hacktoberfest",
-        "image-processing",
-        "machine-learning",
-        "neural-network",
-        "python",
-        "pytorch",
-        "robotics",
-        "spatial-ai"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 123,
-      "open_issues": 147
-    },
-    {
-      "name": "JustVugg/colibri",
-      "owner": "JustVugg",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "stars": 46775,
-      "forks": 5400,
-      "stars_24h": 675,
-      "created_at": "2026-07-01T12:27:49+00:00",
-      "language": "C",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 377,
-      "open_issues": 155
-    },
-    {
-      "name": "mattpocock/skills",
-      "owner": "mattpocock",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 310547,
-      "forks": 26123,
-      "stars_24h": 858,
-      "created_at": "2026-02-03T11:15:53+00:00",
-      "language": "Shell",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 1598,
-      "open_issues": 204
-    },
-    {
-      "name": "max-sixty/worktrunk",
-      "owner": "max-sixty",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "stars": 10160,
-      "forks": 367,
-      "stars_24h": 77,
-      "created_at": "2025-10-17T22:13:14+00:00",
-      "language": "Rust",
-      "topics": [
-        "agents",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "git",
-        "worktrees"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "workflow",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 21,
-      "open_issues": 67
-    },
-    {
-      "name": "paperclipai/paperclip",
-      "owner": "paperclipai",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 110584,
-      "forks": 18300,
-      "stars_24h": 412,
-      "created_at": "2026-03-02T15:01:51+00:00",
-      "language": "TypeScript",
-      "topics": [
-        "acpx",
-        "agent-orchestration",
-        "agent-skills",
+        "agent",
         "agentic-ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-governance",
-        "ai-tools",
-        "autonomous-agents",
+        "ai",
         "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hermes",
-        "llm",
-        "mcp",
-        "multi-agent",
-        "openclaw",
-        "project-management",
-        "workflow-automation"
+        "copilot",
+        "cursor",
+        "elevenlabs",
+        "ffmpeg",
+        "flux",
+        "image-generation",
+        "open-source",
+        "openai",
+        "python",
+        "remotion",
+        "stable-diffusion",
+        "text-to-speech",
+        "text-to-video",
+        "video-generation",
+        "video-production"
       ],
       "readme_summary": "",
       "relevance_tags": [
         "coding agent",
+        "IDE",
         "workflow",
         "tooling"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 485,
-      "open_issues": 6634
+      "watchers": 386,
+      "open_issues": 438
     },
     {
       "name": "karpathy/nanochat",
       "owner": "karpathy",
       "description": "The best ChatGPT that $100 can buy.",
-      "stars": 60050,
-      "forks": 8423,
-      "stars_24h": 321,
+      "stars": 60218,
+      "forks": 8437,
+      "stars_24h": 479,
       "created_at": "2025-10-13T13:46:35+00:00",
       "language": "Python",
       "topics": [],
@@ -438,36 +475,8 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 378,
-      "open_issues": 139
-    },
-    {
-      "name": "p-e-w/heretic",
-      "owner": "p-e-w",
-      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-      "stars": 38288,
-      "forks": 4336,
-      "stars_24h": 420,
-      "created_at": "2025-09-21T05:46:16+00:00",
-      "language": "Python",
-      "topics": [
-        "abliteration",
-        "anti-censorship",
-        "anticensorship",
-        "censorship",
-        "censorship-resistance",
-        "llm",
-        "transformer"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 200,
-      "open_issues": 62
+      "watchers": 380,
+      "open_issues": 140
     }
   ],
   "github_new": [],
@@ -475,301 +484,49 @@
   "quests": [],
   "markets": [
     {
-      "title": "2026 Balance of Power: R Senate, R House",
-      "summary": "This market will resolve according to the party that wins control of the United States Senate and the party that wins co",
-      "volume": "$5,231,591",
-      "odds_change": null,
-      "url": "https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537"
-    },
-    {
       "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
       "summary": "This market will resolve according to the party that wins control of the United States House of Representatives in the 2",
-      "volume": "$3,932,674",
+      "volume": "$11,939,243",
       "odds_change": null,
       "url": "https://polymarket.com/event/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections"
+    },
+    {
+      "title": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "summary": "This market will resolve according to the party that wins control of the United States House of Representatives in the 2",
+      "volume": "$8,034,976",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/will-the-republican-party-control-the-house-after-the-2026-midterm-elections"
     }
   ],
   "leaderboards": {
     "daily": [
       {
-        "name": "pingdotgg/t3code",
-        "stars": 42576,
-        "growth": 3798,
-        "description": "",
-        "language": "TypeScript",
-        "topics": [],
-        "forks": 9137,
-        "stars_24h": 3229
-      },
-      {
-        "name": "mattpocock/skills",
-        "stars": 310547,
-        "growth": 1905,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "topics": [],
-        "forks": 26123,
-        "stars_24h": 858
-      },
-      {
-        "name": "thedotmack/claude-mem",
-        "stars": 111074,
-        "growth": 1277,
-        "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "language": "TypeScript",
+        "name": "vercel-labs/agent-desktop",
+        "stars": 13424,
+        "growth": 2564,
+        "description": "Computer use CLI for AI agents",
+        "language": "Rust",
         "topics": [
-          "ai",
+          "accessibility",
+          "accessibility-api",
           "ai-agents",
-          "ai-memory",
-          "anthropic",
-          "artificial-intelligence",
-          "chromadb",
-          "claude",
-          "claude-agent-sdk",
-          "claude-agents",
-          "claude-code",
-          "claude-code-plugin",
-          "claude-skills",
-          "embeddings",
-          "long-term-memory",
-          "mem0",
-          "memory-engine",
-          "openmemory",
-          "rag",
-          "sqlite",
-          "supermemory"
+          "automation",
+          "cli",
+          "computer-use",
+          "computer-use-agent",
+          "computer-use-agents",
+          "desktop-automation",
+          "macos",
+          "mcp",
+          "rust"
         ],
-        "forks": 9680,
-        "stars_24h": 1803
+        "forks": 924,
+        "stars_24h": 3791
       },
-      {
-        "name": "Donchitos/Claude-Code-Game-Studios",
-        "stars": 33908,
-        "growth": 1233,
-        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "language": "Shell",
-        "topics": [
-          "ai-agents",
-          "ai-assisted-development",
-          "anthropic",
-          "claude",
-          "claude-code",
-          "game-design",
-          "game-development",
-          "gamedev",
-          "godot",
-          "indie-game-dev",
-          "unity",
-          "unreal-engine"
-        ],
-        "forks": 4544,
-        "stars_24h": 1379
-      },
-      {
-        "name": "shiyu-coder/Kronos",
-        "stars": 46126,
-        "growth": 532,
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "topics": [],
-        "forks": 7601,
-        "stars_24h": 857
-      },
-      {
-        "name": "kornia/kornia",
-        "stars": 12233,
-        "growth": 326,
-        "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-        "language": "Python",
-        "topics": [
-          "artificial-intelligence",
-          "computer-vision",
-          "deep-learning",
-          "hacktoberfest",
-          "image-processing",
-          "machine-learning",
-          "neural-network",
-          "python",
-          "pytorch",
-          "robotics",
-          "spatial-ai"
-        ],
-        "forks": 1502,
-        "stars_24h": 412
-      }
-    ],
-    "weekly": [
-      {
-        "name": "thedotmack/claude-mem",
-        "stars": 111074,
-        "growth": 6023,
-        "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "language": "TypeScript",
-        "topics": [
-          "ai",
-          "ai-agents",
-          "ai-memory",
-          "anthropic",
-          "artificial-intelligence",
-          "chromadb",
-          "claude",
-          "claude-agent-sdk",
-          "claude-agents",
-          "claude-code",
-          "claude-code-plugin",
-          "claude-skills",
-          "embeddings",
-          "long-term-memory",
-          "mem0",
-          "memory-engine",
-          "openmemory",
-          "rag",
-          "sqlite",
-          "supermemory"
-        ],
-        "forks": 9680,
-        "stars_24h": 1803
-      },
-      {
-        "name": "Donchitos/Claude-Code-Game-Studios",
-        "stars": 33908,
-        "growth": 4335,
-        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "language": "Shell",
-        "topics": [
-          "ai-agents",
-          "ai-assisted-development",
-          "anthropic",
-          "claude",
-          "claude-code",
-          "game-design",
-          "game-development",
-          "gamedev",
-          "godot",
-          "indie-game-dev",
-          "unity",
-          "unreal-engine"
-        ],
-        "forks": 4544,
-        "stars_24h": 1379
-      },
-      {
-        "name": "p-e-w/heretic",
-        "stars": 38288,
-        "growth": 1150,
-        "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-        "language": "Python",
-        "topics": [
-          "abliteration",
-          "anti-censorship",
-          "anticensorship",
-          "censorship",
-          "censorship-resistance",
-          "llm",
-          "transformer"
-        ],
-        "forks": 4336,
-        "stars_24h": 420
-      }
-    ],
-    "monthly": [
-      {
-        "name": "mattpocock/skills",
-        "stars": 310547,
-        "growth": 35050,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "topics": [],
-        "forks": 26123,
-        "stars_24h": 858
-      },
-      {
-        "name": "pingdotgg/t3code",
-        "stars": 42576,
-        "growth": 17777,
-        "description": "",
-        "language": "TypeScript",
-        "topics": [],
-        "forks": 9137,
-        "stars_24h": 3229
-      },
-      {
-        "name": "thedotmack/claude-mem",
-        "stars": 111074,
-        "growth": 15368,
-        "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "language": "TypeScript",
-        "topics": [
-          "ai",
-          "ai-agents",
-          "ai-memory",
-          "anthropic",
-          "artificial-intelligence",
-          "chromadb",
-          "claude",
-          "claude-agent-sdk",
-          "claude-agents",
-          "claude-code",
-          "claude-code-plugin",
-          "claude-skills",
-          "embeddings",
-          "long-term-memory",
-          "mem0",
-          "memory-engine",
-          "openmemory",
-          "rag",
-          "sqlite",
-          "supermemory"
-        ],
-        "forks": 9680,
-        "stars_24h": 1803
-      },
-      {
-        "name": "p-e-w/heretic",
-        "stars": 38288,
-        "growth": 4540,
-        "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-        "language": "Python",
-        "topics": [
-          "abliteration",
-          "anti-censorship",
-          "anticensorship",
-          "censorship",
-          "censorship-resistance",
-          "llm",
-          "transformer"
-        ],
-        "forks": 4336,
-        "stars_24h": 420
-      }
-    ],
-    "3month": [
-      {
-        "name": "mattpocock/skills",
-        "stars": 310547,
-        "growth": 103202,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "topics": [],
-        "forks": 26123,
-        "stars_24h": 858
-      },
-      {
-        "name": "shiyu-coder/Kronos",
-        "stars": 46126,
-        "growth": 10266,
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "topics": [],
-        "forks": 7601,
-        "stars_24h": 857
-      }
-    ],
-    "6month": [
       {
         "name": "D4Vinci/Scrapling",
-        "stars": 93393,
-        "growth": 46904,
+        "stars": 95321,
+        "growth": 1928,
         "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
         "language": "Python",
         "topics": [
@@ -794,18 +551,377 @@
           "webscraping",
           "xpath"
         ],
-        "forks": 9820,
-        "stars_24h": 706
+        "forks": 9995,
+        "stars_24h": 1658
+      },
+      {
+        "name": "mattpocock/skills",
+        "stars": 311800,
+        "growth": 1253,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 26201,
+        "stars_24h": 1164
+      },
+      {
+        "name": "thedotmack/claude-mem",
+        "stars": 112205,
+        "growth": 1131,
+        "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-memory",
+          "anthropic",
+          "artificial-intelligence",
+          "chromadb",
+          "claude",
+          "claude-agent-sdk",
+          "claude-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "embeddings",
+          "long-term-memory",
+          "mem0",
+          "memory-engine",
+          "openmemory",
+          "rag",
+          "sqlite",
+          "supermemory"
+        ],
+        "forks": 9759,
+        "stars_24h": 1139
+      },
+      {
+        "name": "Donchitos/Claude-Code-Game-Studios",
+        "stars": 34918,
+        "growth": 1010,
+        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "language": "Shell",
+        "topics": [
+          "ai-agents",
+          "ai-assisted-development",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "game-design",
+          "game-development",
+          "gamedev",
+          "godot",
+          "indie-game-dev",
+          "unity",
+          "unreal-engine"
+        ],
+        "forks": 4622,
+        "stars_24h": 1182
+      },
+      {
+        "name": "p-e-w/heretic",
+        "stars": 39006,
+        "growth": 718,
+        "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+        "language": "Python",
+        "topics": [
+          "abliteration",
+          "anti-censorship",
+          "anticensorship",
+          "censorship",
+          "censorship-resistance",
+          "llm",
+          "transformer"
+        ],
+        "forks": 4401,
+        "stars_24h": 701
+      },
+      {
+        "name": "JustVugg/colibri",
+        "stars": 47413,
+        "growth": 638,
+        "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+        "language": "C",
+        "topics": [],
+        "forks": 5476,
+        "stars_24h": 802
       },
       {
         "name": "shiyu-coder/Kronos",
-        "stars": 46126,
-        "growth": 22878,
+        "stars": 46626,
+        "growth": 500,
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "language": "Python",
         "topics": [],
-        "forks": 7601,
-        "stars_24h": 857
+        "forks": 7675,
+        "stars_24h": 503
+      },
+      {
+        "name": "max-sixty/worktrunk",
+        "stars": 10658,
+        "growth": 498,
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "language": "Rust",
+        "topics": [
+          "agents",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "git",
+          "worktrees"
+        ],
+        "forks": 388,
+        "stars_24h": 438
+      },
+      {
+        "name": "karpathy/nanochat",
+        "stars": 60218,
+        "growth": 168,
+        "description": "The best ChatGPT that $100 can buy.",
+        "language": "Python",
+        "topics": [],
+        "forks": 8437,
+        "stars_24h": 479
+      }
+    ],
+    "weekly": [
+      {
+        "name": "thedotmack/claude-mem",
+        "stars": 112205,
+        "growth": 7154,
+        "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-memory",
+          "anthropic",
+          "artificial-intelligence",
+          "chromadb",
+          "claude",
+          "claude-agent-sdk",
+          "claude-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "embeddings",
+          "long-term-memory",
+          "mem0",
+          "memory-engine",
+          "openmemory",
+          "rag",
+          "sqlite",
+          "supermemory"
+        ],
+        "forks": 9759,
+        "stars_24h": 1139
+      },
+      {
+        "name": "Donchitos/Claude-Code-Game-Studios",
+        "stars": 34918,
+        "growth": 5345,
+        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "language": "Shell",
+        "topics": [
+          "ai-agents",
+          "ai-assisted-development",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "game-design",
+          "game-development",
+          "gamedev",
+          "godot",
+          "indie-game-dev",
+          "unity",
+          "unreal-engine"
+        ],
+        "forks": 4622,
+        "stars_24h": 1182
+      },
+      {
+        "name": "mattpocock/skills",
+        "stars": 311800,
+        "growth": 4145,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 26201,
+        "stars_24h": 1164
+      },
+      {
+        "name": "p-e-w/heretic",
+        "stars": 39006,
+        "growth": 1868,
+        "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+        "language": "Python",
+        "topics": [
+          "abliteration",
+          "anti-censorship",
+          "anticensorship",
+          "censorship",
+          "censorship-resistance",
+          "llm",
+          "transformer"
+        ],
+        "forks": 4401,
+        "stars_24h": 701
+      }
+    ],
+    "monthly": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 311800,
+        "growth": 36303,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 26201,
+        "stars_24h": 1164
+      },
+      {
+        "name": "thedotmack/claude-mem",
+        "stars": 112205,
+        "growth": 15950,
+        "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-memory",
+          "anthropic",
+          "artificial-intelligence",
+          "chromadb",
+          "claude",
+          "claude-agent-sdk",
+          "claude-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "embeddings",
+          "long-term-memory",
+          "mem0",
+          "memory-engine",
+          "openmemory",
+          "rag",
+          "sqlite",
+          "supermemory"
+        ],
+        "forks": 9759,
+        "stars_24h": 1139
+      },
+      {
+        "name": "calesthio/OpenMontage",
+        "stars": 76109,
+        "growth": 12736,
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "claude",
+          "copilot",
+          "cursor",
+          "elevenlabs",
+          "ffmpeg",
+          "flux",
+          "image-generation",
+          "open-source",
+          "openai",
+          "python",
+          "remotion",
+          "stable-diffusion",
+          "text-to-speech",
+          "text-to-video",
+          "video-generation",
+          "video-production"
+        ],
+        "forks": 10087,
+        "stars_24h": 814
+      },
+      {
+        "name": "p-e-w/heretic",
+        "stars": 39006,
+        "growth": 5258,
+        "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+        "language": "Python",
+        "topics": [
+          "abliteration",
+          "anti-censorship",
+          "anticensorship",
+          "censorship",
+          "censorship-resistance",
+          "llm",
+          "transformer"
+        ],
+        "forks": 4401,
+        "stars_24h": 701
+      }
+    ],
+    "3month": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 311800,
+        "growth": 104455,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 26201,
+        "stars_24h": 1164
+      },
+      {
+        "name": "shiyu-coder/Kronos",
+        "stars": 46626,
+        "growth": 10766,
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "topics": [],
+        "forks": 7675,
+        "stars_24h": 503
+      }
+    ],
+    "6month": [
+      {
+        "name": "D4Vinci/Scrapling",
+        "stars": 95321,
+        "growth": 48832,
+        "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "ai-scraping",
+          "automation",
+          "crawler",
+          "crawling",
+          "crawling-python",
+          "data",
+          "data-extraction",
+          "mcp",
+          "mcp-server",
+          "playwright",
+          "python",
+          "scraping",
+          "selectors",
+          "stealth",
+          "web-scraper",
+          "web-scraping",
+          "web-scraping-python",
+          "webscraping",
+          "xpath"
+        ],
+        "forks": 9995,
+        "stars_24h": 1658
+      },
+      {
+        "name": "shiyu-coder/Kronos",
+        "stars": 46626,
+        "growth": 23378,
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "topics": [],
+        "forks": 7675,
+        "stars_24h": 503
       }
     ],
     "9month": [],
