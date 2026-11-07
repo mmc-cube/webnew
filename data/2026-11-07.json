@@ -1,0 +1,669 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-07T06:41:34.690256",
+  "brief": [
+    {
+      "conclusion": "NVIDIA/auto-ontology 24h +2015 stars — Auto Ontology is a Python framework for building semantic, g",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 9,331",
+      "evidence_urls": [
+        "https://github.com/NVIDIA/auto-ontology"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "google/skills 24h +534 stars — Agent Skills for Google products and technologies",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 22,952",
+      "evidence_urls": [
+        "https://github.com/google/skills"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "lz4/lz4 24h +315 stars — Extremely Fast Compression algorithm",
+      "why_hot": "新项目爆发，语言: C，总 stars: 12,648",
+      "evidence_urls": [
+        "https://github.com/lz4/lz4"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] like,c omment and  RT（0成本）",
+      "why_hot": "来自 Endorphina 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Endorphina"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Hop in the DeLorean. Win $50 USDT with Asterium（0成本）",
+      "why_hot": "来自 Asterium 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Asterium"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "zed-industries/zed",
+      "owner": "zed-industries",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "stars": 93831,
+      "forks": 11512,
+      "stars_24h": 306,
+      "created_at": "2021-02-20T03:01:06+00:00",
+      "language": "Rust",
+      "topics": [
+        "gpui",
+        "rust-lang",
+        "text-editor",
+        "zed"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 333,
+      "open_issues": 3036
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "owner": "NVIDIA",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "stars": 9331,
+      "forks": 739,
+      "stars_24h": 2015,
+      "created_at": "2026-04-27T21:45:56+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "eval",
+        "RAG",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 47,
+      "open_issues": 63
+    },
+    {
+      "name": "rails/rails",
+      "owner": "rails",
+      "description": "Ruby on Rails",
+      "stars": 59058,
+      "forks": 23833,
+      "stars_24h": 142,
+      "created_at": "2008-04-11T02:19:47+00:00",
+      "language": "Ruby",
+      "topics": [
+        "activejob",
+        "activerecord",
+        "framework",
+        "html",
+        "mvc",
+        "rails",
+        "ruby"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 2354,
+      "open_issues": 1762
+    },
+    {
+      "name": "mpv-player/mpv",
+      "owner": "mpv-player",
+      "description": "🎥 Command line media player",
+      "stars": 37934,
+      "forks": 3635,
+      "stars_24h": 37,
+      "created_at": "2012-10-13T08:08:44+00:00",
+      "language": "C",
+      "topics": [
+        "audio",
+        "c",
+        "ffmpeg",
+        "mplayer",
+        "mpv",
+        "multimedia",
+        "video"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 498,
+      "open_issues": 1161
+    },
+    {
+      "name": "rust-lang/rust",
+      "owner": "rust-lang",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "stars": 121520,
+      "forks": 17369,
+      "stars_24h": 192,
+      "created_at": "2010-06-16T20:39:03+00:00",
+      "language": "Rust",
+      "topics": [
+        "compiler",
+        "language",
+        "rust"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1573,
+      "open_issues": 12593
+    },
+    {
+      "name": "react/react",
+      "owner": "react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 252307,
+      "forks": 51830,
+      "stars_24h": 248,
+      "created_at": "2013-05-24T16:15:54+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "declarative",
+        "frontend",
+        "javascript",
+        "library",
+        "react",
+        "ui"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 6620,
+      "open_issues": 1513
+    },
+    {
+      "name": "angular/angular",
+      "owner": "angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "stars": 101422,
+      "forks": 28914,
+      "stars_24h": 135,
+      "created_at": "2014-09-18T16:12:01+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "angular",
+        "javascript",
+        "pwa",
+        "typescript",
+        "web",
+        "web-framework",
+        "web-performance"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 2992,
+      "open_issues": 1034
+    },
+    {
+      "name": "symfony/symfony",
+      "owner": "symfony",
+      "description": "The Symfony PHP framework",
+      "stars": 31478,
+      "forks": 9950,
+      "stars_24h": 128,
+      "created_at": "2010-01-04T14:21:21+00:00",
+      "language": "PHP",
+      "topics": [
+        "bundle",
+        "framework",
+        "hacktoberfest",
+        "php",
+        "php-framework",
+        "symfony",
+        "symfony-bundle"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1053,
+      "open_issues": 268
+    },
+    {
+      "name": "prometheus/prometheus",
+      "owner": "prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "stars": 67241,
+      "forks": 10991,
+      "stars_24h": 148,
+      "created_at": "2012-11-24T11:14:12+00:00",
+      "language": "Go",
+      "topics": [
+        "alerting",
+        "graphing",
+        "hacktoberfest",
+        "metrics",
+        "monitoring",
+        "prometheus",
+        "time-series"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1158,
+      "open_issues": 1081
+    },
+    {
+      "name": "google/skills",
+      "owner": "google",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 22952,
+      "forks": 1929,
+      "stars_24h": 534,
+      "created_at": "2026-03-31T19:02:20+00:00",
+      "language": "Python",
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 141,
+      "open_issues": 26
+    },
+    {
+      "name": "microsoft/vscode",
+      "owner": "microsoft",
+      "description": "Visual Studio Code",
+      "stars": 195080,
+      "forks": 44433,
+      "stars_24h": 301,
+      "created_at": "2015-09-03T20:23:38+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "editor",
+        "electron",
+        "microsoft",
+        "typescript",
+        "visual-studio-code"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 3569,
+      "open_issues": 21854
+    },
+    {
+      "name": "lz4/lz4",
+      "owner": "lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "stars": 12648,
+      "forks": 1644,
+      "stars_24h": 315,
+      "created_at": "2014-03-25T15:52:21+00:00",
+      "language": "C",
+      "topics": [
+        "c",
+        "compression",
+        "lz4"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 229,
+      "open_issues": 6
+    },
+    {
+      "name": "nushell/nushell",
+      "owner": "nushell",
+      "description": "A new type of shell",
+      "stars": 41022,
+      "forks": 2344,
+      "stars_24h": 131,
+      "created_at": "2019-05-10T16:59:42+00:00",
+      "language": "Rust",
+      "topics": [
+        "nushell",
+        "rust",
+        "shell"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 227,
+      "open_issues": 1457
+    },
+    {
+      "name": "etcd-io/etcd",
+      "owner": "etcd-io",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "stars": 52643,
+      "forks": 10590,
+      "stars_24h": 128,
+      "created_at": "2013-07-06T21:57:21+00:00",
+      "language": "Go",
+      "topics": [
+        "cncf",
+        "consensus",
+        "database",
+        "distributed-database",
+        "distributed-systems",
+        "etcd",
+        "go",
+        "key-value",
+        "kubernetes",
+        "raft"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1281,
+      "open_issues": 425
+    },
+    {
+      "name": "openssl/openssl",
+      "owner": "openssl",
+      "description": "General purpose TLS and crypto library",
+      "stars": 31333,
+      "forks": 11583,
+      "stars_24h": 26,
+      "created_at": "2013-01-15T22:34:48+00:00",
+      "language": "C",
+      "topics": [
+        "cryptography",
+        "decryption",
+        "encryption",
+        "openssl",
+        "ssl",
+        "tls"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1015,
+      "open_issues": 1644
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "like,c omment and  RT",
+      "task_type": "积分任务",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1794006000,
+      "url": "https://galxe.com/Endorphina",
+      "note": "来自 Endorphina 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Hop in the DeLorean. Win $50 USDT with Asterium",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793473200,
+      "url": "https://galxe.com/Asterium",
+      "note": "来自 Asterium 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Open M.EDGE TestFlight",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": null,
+      "url": "https://galxe.com/M.EDGE",
+      "note": "来自 M.EDGE 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "TCU vs. Arizona",
+      "summary": "In the upcoming college football game between TCU and Arizona, scheduled for November 6 at 10:15PM ET:\nThis market will ",
+      "volume": "$802,530",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/cfb-tcu-arz-2026-11-06"
+    },
+    {
+      "title": "Israel x Iran ceasefire continues through November 7?",
+      "summary": "This market will resolve to \"Yes\" if a state of ceasefire remains in effect between Israel and Iran through the listed d",
+      "volume": "$618,810",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-7"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "NVIDIA/auto-ontology",
+        "stars": 9331,
+        "growth": 3506,
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "language": "Python",
+        "topics": [],
+        "forks": 739,
+        "stars_24h": 2015
+      },
+      {
+        "name": "mattpocock/skills",
+        "stars": 315765,
+        "growth": 2002,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "vercel-labs/agent-desktop",
+        "stars": 17362,
+        "growth": 1590,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "D4Vinci/Scrapling",
+        "stars": 98357,
+        "growth": 1349,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "Usagi-org/ai-goofish-monitor",
+        "stars": 17951,
+        "growth": 1153,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "floci-io/floci",
+        "stars": 30620,
+        "growth": 782,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "garrytan/gstack",
+        "stars": 140167,
+        "growth": 653,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+        "stars": 7479,
+        "growth": 644,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "max-sixty/worktrunk",
+        "stars": 11656,
+        "growth": 451,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      }
+    ],
+    "weekly": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 315765,
+        "growth": 8110,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      }
+    ],
+    "monthly": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 315765,
+        "growth": 37318,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "garrytan/gstack",
+        "stars": 140167,
+        "growth": 4941,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      }
+    ],
+    "3month": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 315765,
+        "growth": 105644,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      },
+      {
+        "name": "google/skills",
+        "stars": 22952,
+        "growth": 6171,
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "topics": [
+          "google",
+          "googlecloud",
+          "skills"
+        ],
+        "forks": 1929,
+        "stars_24h": 534
+      }
+    ],
+    "6month": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 315765,
+        "growth": 239105,
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}

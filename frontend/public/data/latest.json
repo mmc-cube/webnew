@@ -1,28 +1,28 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-06T07:28:50.550009",
+  "generated_at": "2026-11-07T06:41:34.690256",
   "brief": [
     {
-      "conclusion": "NVIDIA/auto-ontology 24h +2679 stars — Auto Ontology is a Python framework for building semantic, g",
-      "why_hot": "新项目爆发，语言: Python，总 stars: 7,913",
+      "conclusion": "NVIDIA/auto-ontology 24h +2015 stars — Auto Ontology is a Python framework for building semantic, g",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 9,331",
       "evidence_urls": [
         "https://github.com/NVIDIA/auto-ontology"
       ],
       "category": "github"
     },
     {
-      "conclusion": "vercel-labs/agent-desktop 24h +2173 stars — Computer use CLI for AI agents",
-      "why_hot": "新项目爆发，语言: Rust，总 stars: 17,362",
+      "conclusion": "google/skills 24h +534 stars — Agent Skills for Google products and technologies",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 22,952",
       "evidence_urls": [
-        "https://github.com/vercel-labs/agent-desktop"
+        "https://github.com/google/skills"
       ],
       "category": "github"
     },
     {
-      "conclusion": "mattpocock/skills 24h +2071 stars — Skills for Real Engineers. Straight from my .agents director",
-      "why_hot": "新项目爆发，语言: Shell，总 stars: 315,765",
+      "conclusion": "lz4/lz4 24h +315 stars — Extremely Fast Compression algorithm",
+      "why_hot": "新项目爆发，语言: C，总 stars: 12,648",
       "evidence_urls": [
-        "https://github.com/mattpocock/skills"
+        "https://github.com/lz4/lz4"
       ],
       "category": "github"
     },
@@ -46,12 +46,37 @@
   "top_tweets": [],
   "github_trending": [
     {
+      "name": "zed-industries/zed",
+      "owner": "zed-industries",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "stars": 93831,
+      "forks": 11512,
+      "stars_24h": 306,
+      "created_at": "2021-02-20T03:01:06+00:00",
+      "language": "Rust",
+      "topics": [
+        "gpui",
+        "rust-lang",
+        "text-editor",
+        "zed"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 333,
+      "open_issues": 3036
+    },
+    {
       "name": "NVIDIA/auto-ontology",
       "owner": "NVIDIA",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "stars": 7913,
-      "forks": 637,
-      "stars_24h": 2679,
+      "stars": 9331,
+      "forks": 739,
+      "stars_24h": 2015,
       "created_at": "2026-04-27T21:45:56+00:00",
       "language": "Python",
       "topics": [],
@@ -66,19 +91,215 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 41,
-      "open_issues": 57
+      "watchers": 47,
+      "open_issues": 63
     },
     {
-      "name": "mattpocock/skills",
-      "owner": "mattpocock",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 315765,
-      "forks": 26429,
-      "stars_24h": 2071,
-      "created_at": "2026-02-03T11:15:53+00:00",
-      "language": "Shell",
-      "topics": [],
+      "name": "rails/rails",
+      "owner": "rails",
+      "description": "Ruby on Rails",
+      "stars": 59058,
+      "forks": 23833,
+      "stars_24h": 142,
+      "created_at": "2008-04-11T02:19:47+00:00",
+      "language": "Ruby",
+      "topics": [
+        "activejob",
+        "activerecord",
+        "framework",
+        "html",
+        "mvc",
+        "rails",
+        "ruby"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 2354,
+      "open_issues": 1762
+    },
+    {
+      "name": "mpv-player/mpv",
+      "owner": "mpv-player",
+      "description": "🎥 Command line media player",
+      "stars": 37934,
+      "forks": 3635,
+      "stars_24h": 37,
+      "created_at": "2012-10-13T08:08:44+00:00",
+      "language": "C",
+      "topics": [
+        "audio",
+        "c",
+        "ffmpeg",
+        "mplayer",
+        "mpv",
+        "multimedia",
+        "video"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 498,
+      "open_issues": 1161
+    },
+    {
+      "name": "rust-lang/rust",
+      "owner": "rust-lang",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "stars": 121520,
+      "forks": 17369,
+      "stars_24h": 192,
+      "created_at": "2010-06-16T20:39:03+00:00",
+      "language": "Rust",
+      "topics": [
+        "compiler",
+        "language",
+        "rust"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1573,
+      "open_issues": 12593
+    },
+    {
+      "name": "react/react",
+      "owner": "react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 252307,
+      "forks": 51830,
+      "stars_24h": 248,
+      "created_at": "2013-05-24T16:15:54+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "declarative",
+        "frontend",
+        "javascript",
+        "library",
+        "react",
+        "ui"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 6620,
+      "open_issues": 1513
+    },
+    {
+      "name": "angular/angular",
+      "owner": "angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "stars": 101422,
+      "forks": 28914,
+      "stars_24h": 135,
+      "created_at": "2014-09-18T16:12:01+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "angular",
+        "javascript",
+        "pwa",
+        "typescript",
+        "web",
+        "web-framework",
+        "web-performance"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 2992,
+      "open_issues": 1034
+    },
+    {
+      "name": "symfony/symfony",
+      "owner": "symfony",
+      "description": "The Symfony PHP framework",
+      "stars": 31478,
+      "forks": 9950,
+      "stars_24h": 128,
+      "created_at": "2010-01-04T14:21:21+00:00",
+      "language": "PHP",
+      "topics": [
+        "bundle",
+        "framework",
+        "hacktoberfest",
+        "php",
+        "php-framework",
+        "symfony",
+        "symfony-bundle"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1053,
+      "open_issues": 268
+    },
+    {
+      "name": "prometheus/prometheus",
+      "owner": "prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "stars": 67241,
+      "forks": 10991,
+      "stars_24h": 148,
+      "created_at": "2012-11-24T11:14:12+00:00",
+      "language": "Go",
+      "topics": [
+        "alerting",
+        "graphing",
+        "hacktoberfest",
+        "metrics",
+        "monitoring",
+        "prometheus",
+        "time-series"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1158,
+      "open_issues": 1081
+    },
+    {
+      "name": "google/skills",
+      "owner": "google",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 22952,
+      "forks": 1929,
+      "stars_24h": 534,
+      "created_at": "2026-03-31T19:02:20+00:00",
+      "language": "Python",
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
       "readme_summary": "",
       "relevance_tags": [
         "coding agent"
@@ -86,176 +307,42 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1626,
-      "open_issues": 216
+      "watchers": 141,
+      "open_issues": 26
     },
     {
-      "name": "garrytan/gstack",
-      "owner": "garrytan",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": 140167,
-      "forks": 20708,
-      "stars_24h": 612,
-      "created_at": "2026-03-11T21:22:45+00:00",
+      "name": "microsoft/vscode",
+      "owner": "microsoft",
+      "description": "Visual Studio Code",
+      "stars": 195080,
+      "forks": 44433,
+      "stars_24h": 301,
+      "created_at": "2015-09-03T20:23:38+00:00",
       "language": "TypeScript",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 765,
-      "open_issues": 73
-    },
-    {
-      "name": "Usagi-org/ai-goofish-monitor",
-      "owner": "Usagi-org",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "stars": 17951,
-      "forks": 2974,
-      "stars_24h": 240,
-      "created_at": "2025-07-16T08:13:41+00:00",
-      "language": "Python",
       "topics": [
-        "ai",
-        "ai-assistant",
-        "ai-tools",
-        "automation",
-        "gemini",
-        "goofish",
-        "open-source",
-        "openai",
-        "playwright",
-        "tool",
-        "xian-yu",
-        "xianyu",
-        "xianyu-bot"
+        "editor",
+        "electron",
+        "microsoft",
+        "typescript",
+        "visual-studio-code"
       ],
       "readme_summary": "",
       "relevance_tags": [
-        "workflow",
-        "tooling"
+        "IDE"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 65,
-      "open_issues": 48
-    },
-    {
-      "name": "D4Vinci/Scrapling",
-      "owner": "D4Vinci",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "stars": 98357,
-      "forks": 10302,
-      "stars_24h": 1655,
-      "created_at": "2024-10-13T20:29:53+00:00",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "ai-scraping",
-        "automation",
-        "crawler",
-        "crawling",
-        "crawling-python",
-        "data",
-        "data-extraction",
-        "mcp",
-        "mcp-server",
-        "playwright",
-        "python",
-        "scraping",
-        "selectors",
-        "stealth",
-        "web-scraper",
-        "web-scraping",
-        "web-scraping-python",
-        "webscraping",
-        "xpath"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "workflow",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 344,
-      "open_issues": 14
-    },
-    {
-      "name": "vercel-labs/agent-desktop",
-      "owner": "vercel-labs",
-      "description": "Computer use CLI for AI agents",
-      "stars": 17362,
-      "forks": 1236,
-      "stars_24h": 2173,
-      "created_at": "2026-02-19T18:00:49+00:00",
-      "language": "Rust",
-      "topics": [
-        "accessibility",
-        "accessibility-api",
-        "ai-agents",
-        "automation",
-        "cli",
-        "computer-use",
-        "computer-use-agent",
-        "computer-use-agents",
-        "desktop-automation",
-        "macos",
-        "mcp",
-        "rust"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "workflow"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 42,
-      "open_issues": 174
-    },
-    {
-      "name": "max-sixty/worktrunk",
-      "owner": "max-sixty",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "stars": 11656,
-      "forks": 446,
-      "stars_24h": 546,
-      "created_at": "2025-10-17T22:13:14+00:00",
-      "language": "Rust",
-      "topics": [
-        "agents",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "git",
-        "worktrees"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "workflow",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 24,
-      "open_issues": 49
+      "watchers": 3569,
+      "open_issues": 21854
     },
     {
       "name": "lz4/lz4",
       "owner": "lz4",
       "description": "Extremely Fast Compression algorithm",
-      "stars": 12472,
-      "forks": 1640,
-      "stars_24h": 23,
+      "stars": 12648,
+      "forks": 1644,
+      "stars_24h": 315,
       "created_at": "2014-03-25T15:52:21+00:00",
       "language": "C",
       "topics": [
@@ -271,164 +358,21 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 229,
-      "open_issues": 5
+      "open_issues": 6
     },
     {
-      "name": "google/skills",
-      "owner": "google",
-      "description": "Agent Skills for Google products and technologies",
-      "stars": 22527,
-      "forks": 1897,
-      "stars_24h": 211,
-      "created_at": "2026-03-31T19:02:20+00:00",
-      "language": "Python",
-      "topics": [
-        "google",
-        "googlecloud",
-        "skills"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 139,
-      "open_issues": 25
-    },
-    {
-      "name": "vercel-labs/agent-browser",
-      "owner": "vercel-labs",
-      "description": "Browser automation CLI for AI agents",
-      "stars": 46102,
-      "forks": 3155,
-      "stars_24h": 150,
-      "created_at": "2026-01-11T05:38:15+00:00",
+      "name": "nushell/nushell",
+      "owner": "nushell",
+      "description": "A new type of shell",
+      "stars": 41022,
+      "forks": 2344,
+      "stars_24h": 131,
+      "created_at": "2019-05-10T16:59:42+00:00",
       "language": "Rust",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "workflow"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 101,
-      "open_issues": 492
-    },
-    {
-      "name": "scenario-labs/skills",
-      "owner": "scenario-labs",
-      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "stars": 3252,
-      "forks": 282,
-      "stars_24h": 667,
-      "created_at": "2026-08-12T10:08:49+00:00",
-      "language": "Python",
       "topics": [
-        "3d-models",
-        "agent-skills",
-        "ai-agents",
-        "ai-art",
-        "blender",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "game-assets",
-        "game-development",
-        "generative-ai",
-        "image-generation",
-        "maya",
-        "mcp",
-        "model-context-protocol",
-        "skills-sh",
-        "unity",
-        "unreal-engine",
-        "video-generation",
-        "zbrush"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 12,
-      "open_issues": 39
-    },
-    {
-      "name": "ConardLi/garden-skills",
-      "owner": "ConardLi",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "stars": 14339,
-      "forks": 1658,
-      "stars_24h": 175,
-      "created_at": "2026-04-21T11:56:17+00:00",
-      "language": "JavaScript",
-      "topics": [
-        "agent",
-        "claude",
-        "gpt-image-2",
-        "rag",
-        "skills",
-        "web-design"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "eval",
-        "RAG"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 62,
-      "open_issues": 26
-    },
-    {
-      "name": "microsoft/VibeVoice",
-      "owner": "microsoft",
-      "description": "Open-Source Frontier Voice AI",
-      "stars": 56242,
-      "forks": 6334,
-      "stars_24h": 223,
-      "created_at": "2025-08-25T13:24:01+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 271,
-      "open_issues": 205
-    },
-    {
-      "name": "floci-io/floci",
-      "owner": "floci-io",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "stars": 30620,
-      "forks": 3339,
-      "stars_24h": 779,
-      "created_at": "2026-02-18T02:28:29+00:00",
-      "language": "Java",
-      "topics": [
-        "aws",
-        "aws-emulation",
-        "devops",
-        "docker",
-        "ec2",
-        "ecs",
-        "localstack",
-        "s3",
-        "sqs",
-        "testcontainers"
+        "nushell",
+        "rust",
+        "shell"
       ],
       "readme_summary": "",
       "relevance_tags": [
@@ -437,19 +381,30 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 92,
-      "open_issues": 207
+      "watchers": 227,
+      "open_issues": 1457
     },
     {
-      "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "owner": "JiaFeiMiao-K-Cat",
-      "description": "",
-      "stars": 7479,
-      "forks": 267,
-      "stars_24h": 984,
-      "created_at": "2026-08-23T03:40:14+00:00",
-      "language": "C#",
-      "topics": [],
+      "name": "etcd-io/etcd",
+      "owner": "etcd-io",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "stars": 52643,
+      "forks": 10590,
+      "stars_24h": 128,
+      "created_at": "2013-07-06T21:57:21+00:00",
+      "language": "Go",
+      "topics": [
+        "cncf",
+        "consensus",
+        "database",
+        "distributed-database",
+        "distributed-systems",
+        "etcd",
+        "go",
+        "key-value",
+        "kubernetes",
+        "raft"
+      ],
       "readme_summary": "",
       "relevance_tags": [
         "tooling"
@@ -457,8 +412,35 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 16,
-      "open_issues": 98
+      "watchers": 1281,
+      "open_issues": 425
+    },
+    {
+      "name": "openssl/openssl",
+      "owner": "openssl",
+      "description": "General purpose TLS and crypto library",
+      "stars": 31333,
+      "forks": 11583,
+      "stars_24h": 26,
+      "created_at": "2013-01-15T22:34:48+00:00",
+      "language": "C",
+      "topics": [
+        "cryptography",
+        "decryption",
+        "encryption",
+        "openssl",
+        "ssl",
+        "tls"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1015,
+      "open_issues": 1644
     }
   ],
   "github_new": [],
@@ -497,177 +479,111 @@
   ],
   "markets": [
     {
-      "title": "Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs",
-      "summary": "This market refers to the Counter-Strike Quarterfinal 1 match between PARIVISION and Natus Vincere in the IEM Beijing Pl",
-      "volume": "$845,798",
+      "title": "TCU vs. Arizona",
+      "summary": "In the upcoming college football game between TCU and Arizona, scheduled for November 6 at 10:15PM ET:\nThis market will ",
+      "volume": "$802,530",
       "odds_change": null,
-      "url": "https://polymarket.com/event/cs2-prv-navi-2026-11-06"
+      "url": "https://polymarket.com/event/cfb-tcu-arz-2026-11-06"
     },
     {
-      "title": "Will Donald Trump publicly insult Ken Paxton by October 31, 2026?",
-      "summary": "This market will resolve to \"Yes\" if Donald Trump makes any public statement in which he insults the listed individual b",
-      "volume": "$645,242",
+      "title": "Israel x Iran ceasefire continues through November 7?",
+      "summary": "This market will resolve to \"Yes\" if a state of ceasefire remains in effect between Israel and Iran through the listed d",
+      "volume": "$618,810",
       "odds_change": null,
-      "url": "https://polymarket.com/event/will-donald-trump-publicly-insult-ken-paxton-by-october-31-2026"
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-7"
     }
   ],
   "leaderboards": {
     "daily": [
       {
         "name": "NVIDIA/auto-ontology",
-        "stars": 7913,
-        "growth": 2088,
+        "stars": 9331,
+        "growth": 3506,
         "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
         "language": "Python",
         "topics": [],
-        "forks": 637,
-        "stars_24h": 2679
+        "forks": 739,
+        "stars_24h": 2015
       },
       {
         "name": "mattpocock/skills",
         "stars": 315765,
         "growth": 2002,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
+        "description": "",
+        "language": "",
         "topics": [],
-        "forks": 26429,
-        "stars_24h": 2071
+        "forks": 0,
+        "stars_24h": 0
       },
       {
         "name": "vercel-labs/agent-desktop",
         "stars": 17362,
         "growth": 1590,
-        "description": "Computer use CLI for AI agents",
-        "language": "Rust",
-        "topics": [
-          "accessibility",
-          "accessibility-api",
-          "ai-agents",
-          "automation",
-          "cli",
-          "computer-use",
-          "computer-use-agent",
-          "computer-use-agents",
-          "desktop-automation",
-          "macos",
-          "mcp",
-          "rust"
-        ],
-        "forks": 1236,
-        "stars_24h": 2173
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
       },
       {
         "name": "D4Vinci/Scrapling",
         "stars": 98357,
         "growth": 1349,
-        "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-        "language": "Python",
-        "topics": [
-          "ai",
-          "ai-scraping",
-          "automation",
-          "crawler",
-          "crawling",
-          "crawling-python",
-          "data",
-          "data-extraction",
-          "mcp",
-          "mcp-server",
-          "playwright",
-          "python",
-          "scraping",
-          "selectors",
-          "stealth",
-          "web-scraper",
-          "web-scraping",
-          "web-scraping-python",
-          "webscraping",
-          "xpath"
-        ],
-        "forks": 10302,
-        "stars_24h": 1655
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
       },
       {
         "name": "Usagi-org/ai-goofish-monitor",
         "stars": 17951,
         "growth": 1153,
-        "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-        "language": "Python",
-        "topics": [
-          "ai",
-          "ai-assistant",
-          "ai-tools",
-          "automation",
-          "gemini",
-          "goofish",
-          "open-source",
-          "openai",
-          "playwright",
-          "tool",
-          "xian-yu",
-          "xianyu",
-          "xianyu-bot"
-        ],
-        "forks": 2974,
-        "stars_24h": 240
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
       },
       {
         "name": "floci-io/floci",
         "stars": 30620,
         "growth": 782,
-        "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-        "language": "Java",
-        "topics": [
-          "aws",
-          "aws-emulation",
-          "devops",
-          "docker",
-          "ec2",
-          "ecs",
-          "localstack",
-          "s3",
-          "sqs",
-          "testcontainers"
-        ],
-        "forks": 3339,
-        "stars_24h": 779
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
       },
       {
         "name": "garrytan/gstack",
         "stars": 140167,
         "growth": 653,
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "language": "TypeScript",
+        "description": "",
+        "language": "",
         "topics": [],
-        "forks": 20708,
-        "stars_24h": 612
+        "forks": 0,
+        "stars_24h": 0
       },
       {
         "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
         "stars": 7479,
         "growth": 644,
         "description": "",
-        "language": "C#",
+        "language": "",
         "topics": [],
-        "forks": 267,
-        "stars_24h": 984
+        "forks": 0,
+        "stars_24h": 0
       },
       {
         "name": "max-sixty/worktrunk",
         "stars": 11656,
         "growth": 451,
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "language": "Rust",
-        "topics": [
-          "agents",
-          "claude-code",
-          "codex",
-          "developer-tools",
-          "git",
-          "worktrees"
-        ],
-        "forks": 446,
-        "stars_24h": 546
+        "description": "",
+        "language": "",
+        "topics": [],
+        "forks": 0,
+        "stars_24h": 0
       }
     ],
     "weekly": [
@@ -675,11 +591,11 @@
         "name": "mattpocock/skills",
         "stars": 315765,
         "growth": 8110,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
+        "description": "",
+        "language": "",
         "topics": [],
-        "forks": 26429,
-        "stars_24h": 2071
+        "forks": 0,
+        "stars_24h": 0
       }
     ],
     "monthly": [
@@ -687,21 +603,21 @@
         "name": "mattpocock/skills",
         "stars": 315765,
         "growth": 37318,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
+        "description": "",
+        "language": "",
         "topics": [],
-        "forks": 26429,
-        "stars_24h": 2071
+        "forks": 0,
+        "stars_24h": 0
       },
       {
         "name": "garrytan/gstack",
         "stars": 140167,
         "growth": 4941,
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "language": "TypeScript",
+        "description": "",
+        "language": "",
         "topics": [],
-        "forks": 20708,
-        "stars_24h": 612
+        "forks": 0,
+        "stars_24h": 0
       }
     ],
     "3month": [
@@ -709,16 +625,16 @@
         "name": "mattpocock/skills",
         "stars": 315765,
         "growth": 105644,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
+        "description": "",
+        "language": "",
         "topics": [],
-        "forks": 26429,
-        "stars_24h": 2071
+        "forks": 0,
+        "stars_24h": 0
       },
       {
         "name": "google/skills",
-        "stars": 22527,
-        "growth": 5746,
+        "stars": 22952,
+        "growth": 6171,
         "description": "Agent Skills for Google products and technologies",
         "language": "Python",
         "topics": [
@@ -726,8 +642,8 @@
           "googlecloud",
           "skills"
         ],
-        "forks": 1897,
-        "stars_24h": 211
+        "forks": 1929,
+        "stars_24h": 534
       }
     ],
     "6month": [
@@ -735,11 +651,11 @@
         "name": "mattpocock/skills",
         "stars": 315765,
         "growth": 239105,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
+        "description": "",
+        "language": "",
         "topics": [],
-        "forks": 26429,
-        "stars_24h": 2071
+        "forks": 0,
+        "stars_24h": 0
       }
     ],
     "9month": [],
