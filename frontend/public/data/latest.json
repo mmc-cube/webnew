@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-07T06:41:34.690256",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-08T06:47:49.416236",
   "brief": [
     {
-      "conclusion": "NVIDIA/auto-ontology 24h +2015 stars — Auto Ontology is a Python framework for building semantic, g",
-      "why_hot": "新项目爆发，语言: Python，总 stars: 9,331",
+      "conclusion": "cloudflare/security-audit-skill 24h +2085 stars — A coding-agent skill for multi-phase security audits with in",
+      "why_hot": "新项目爆发，语言: JavaScript，总 stars: 66,049",
       "evidence_urls": [
-        "https://github.com/NVIDIA/auto-ontology"
+        "https://github.com/cloudflare/security-audit-skill"
       ],
       "category": "github"
     },
     {
-      "conclusion": "google/skills 24h +534 stars — Agent Skills for Google products and technologies",
-      "why_hot": "新项目爆发，语言: Python，总 stars: 22,952",
+      "conclusion": "milind-soni/OpenMausBot 24h +1955 stars — Open-source Grok Bot alternative with a virtual machine that",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 17,316",
       "evidence_urls": [
-        "https://github.com/google/skills"
+        "https://github.com/milind-soni/OpenMausBot"
       ],
       "category": "github"
     },
     {
-      "conclusion": "lz4/lz4 24h +315 stars — Extremely Fast Compression algorithm",
-      "why_hot": "新项目爆发，语言: C，总 stars: 12,648",
+      "conclusion": "sherlock-project/sherlock 24h +1766 stars — Hunt down social media accounts by username across social ne",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 101,104",
       "evidence_urls": [
-        "https://github.com/lz4/lz4"
+        "https://github.com/sherlock-project/sherlock"
       ],
       "category": "github"
     },
@@ -46,225 +46,139 @@
   "top_tweets": [],
   "github_trending": [
     {
-      "name": "zed-industries/zed",
-      "owner": "zed-industries",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "stars": 93831,
-      "forks": 11512,
-      "stars_24h": 306,
-      "created_at": "2021-02-20T03:01:06+00:00",
+      "name": "vercel-labs/agent-browser",
+      "owner": "vercel-labs",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 47023,
+      "forks": 3222,
+      "stars_24h": 190,
+      "created_at": "2026-01-11T05:38:15+00:00",
       "language": "Rust",
-      "topics": [
-        "gpui",
-        "rust-lang",
-        "text-editor",
-        "zed"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 333,
-      "open_issues": 3036
-    },
-    {
-      "name": "NVIDIA/auto-ontology",
-      "owner": "NVIDIA",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "stars": 9331,
-      "forks": 739,
-      "stars_24h": 2015,
-      "created_at": "2026-04-27T21:45:56+00:00",
-      "language": "Python",
       "topics": [],
       "readme_summary": "",
       "relevance_tags": [
         "coding agent",
-        "workflow",
-        "eval",
-        "RAG",
-        "tooling"
+        "workflow"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 47,
-      "open_issues": 63
+      "watchers": 105,
+      "open_issues": 505
     },
     {
-      "name": "rails/rails",
-      "owner": "rails",
-      "description": "Ruby on Rails",
-      "stars": 59058,
-      "forks": 23833,
-      "stars_24h": 142,
-      "created_at": "2008-04-11T02:19:47+00:00",
-      "language": "Ruby",
-      "topics": [
-        "activejob",
-        "activerecord",
-        "framework",
-        "html",
-        "mvc",
-        "rails",
-        "ruby"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 2354,
-      "open_issues": 1762
-    },
-    {
-      "name": "mpv-player/mpv",
-      "owner": "mpv-player",
-      "description": "🎥 Command line media player",
-      "stars": 37934,
-      "forks": 3635,
-      "stars_24h": 37,
-      "created_at": "2012-10-13T08:08:44+00:00",
-      "language": "C",
-      "topics": [
-        "audio",
-        "c",
-        "ffmpeg",
-        "mplayer",
-        "mpv",
-        "multimedia",
-        "video"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 498,
-      "open_issues": 1161
-    },
-    {
-      "name": "rust-lang/rust",
-      "owner": "rust-lang",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "stars": 121520,
-      "forks": 17369,
-      "stars_24h": 192,
-      "created_at": "2010-06-16T20:39:03+00:00",
-      "language": "Rust",
-      "topics": [
-        "compiler",
-        "language",
-        "rust"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 1573,
-      "open_issues": 12593
-    },
-    {
-      "name": "react/react",
-      "owner": "react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 252307,
-      "forks": 51830,
-      "stars_24h": 248,
-      "created_at": "2013-05-24T16:15:54+00:00",
+      "name": "cloudflare/security-audit-skill",
+      "owner": "cloudflare",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 66049,
+      "forks": 4296,
+      "stars_24h": 2085,
+      "created_at": "2026-06-18T14:08:44+00:00",
       "language": "JavaScript",
-      "topics": [
-        "declarative",
-        "frontend",
-        "javascript",
-        "library",
-        "react",
-        "ui"
-      ],
+      "topics": [],
       "readme_summary": "",
       "relevance_tags": [
-        "tooling"
+        "coding agent"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 6620,
-      "open_issues": 1513
+      "watchers": 229,
+      "open_issues": 120
     },
     {
-      "name": "angular/angular",
-      "owner": "angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "stars": 101422,
-      "forks": 28914,
-      "stars_24h": 135,
-      "created_at": "2014-09-18T16:12:01+00:00",
+      "name": "google/skills",
+      "owner": "google",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 23531,
+      "forks": 1967,
+      "stars_24h": 443,
+      "created_at": "2026-03-31T19:02:20+00:00",
+      "language": "Python",
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 142,
+      "open_issues": 26
+    },
+    {
+      "name": "mattpocock/skills",
+      "owner": "mattpocock",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 317942,
+      "forks": 26604,
+      "stars_24h": 1100,
+      "created_at": "2026-02-03T11:15:53+00:00",
+      "language": "Shell",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1637,
+      "open_issues": 219
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "description": "Public repository for Agent Skills",
+      "stars": 188941,
+      "forks": 22271,
+      "stars_24h": 390,
+      "created_at": "2025-09-22T15:53:31+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1150,
+      "open_issues": 1493
+    },
+    {
+      "name": "meta/astryx",
+      "owner": "meta",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 14767,
+      "forks": 1210,
+      "stars_24h": 96,
+      "created_at": "2026-01-09T16:20:32+00:00",
       "language": "TypeScript",
-      "topics": [
-        "angular",
-        "javascript",
-        "pwa",
-        "typescript",
-        "web",
-        "web-framework",
-        "web-performance"
-      ],
+      "topics": [],
       "readme_summary": "",
       "relevance_tags": [
-        "IDE",
-        "tooling"
+        "coding agent"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 2992,
-      "open_issues": 1034
-    },
-    {
-      "name": "symfony/symfony",
-      "owner": "symfony",
-      "description": "The Symfony PHP framework",
-      "stars": 31478,
-      "forks": 9950,
-      "stars_24h": 128,
-      "created_at": "2010-01-04T14:21:21+00:00",
-      "language": "PHP",
-      "topics": [
-        "bundle",
-        "framework",
-        "hacktoberfest",
-        "php",
-        "php-framework",
-        "symfony",
-        "symfony-bundle"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 1053,
-      "open_issues": 268
+      "watchers": 80,
+      "open_issues": 727
     },
     {
       "name": "prometheus/prometheus",
       "owner": "prometheus",
       "description": "The Prometheus monitoring system and time series database.",
-      "stars": 67241,
-      "forks": 10991,
-      "stars_24h": 148,
+      "stars": 67491,
+      "forks": 11011,
+      "stars_24h": 322,
       "created_at": "2012-11-24T11:14:12+00:00",
       "language": "Go",
       "topics": [
@@ -284,21 +198,67 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 1158,
-      "open_issues": 1081
+      "open_issues": 1096
     },
     {
-      "name": "google/skills",
-      "owner": "google",
-      "description": "Agent Skills for Google products and technologies",
-      "stars": 22952,
-      "forks": 1929,
-      "stars_24h": 534,
-      "created_at": "2026-03-31T19:02:20+00:00",
+      "name": "sherlock-project/sherlock",
+      "owner": "sherlock-project",
+      "description": "Hunt down social media accounts by username across social networks",
+      "stars": 101104,
+      "forks": 11949,
+      "stars_24h": 1766,
+      "created_at": "2018-12-24T14:30:48+00:00",
       "language": "Python",
       "topics": [
-        "google",
-        "googlecloud",
-        "skills"
+        "cli",
+        "cti",
+        "cybersecurity",
+        "forensics",
+        "hacktoberfest",
+        "information-gathering",
+        "infosec",
+        "linux",
+        "osint",
+        "pentesting",
+        "python",
+        "python3",
+        "reconnaissance",
+        "redteam",
+        "sherlock",
+        "tools"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1478,
+      "open_issues": 367
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "owner": "milind-soni",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 17316,
+      "forks": 2439,
+      "stars_24h": 1955,
+      "created_at": "2026-08-11T18:58:55+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "grok-bot",
+        "grok-bot-alternative",
+        "self-hosted",
+        "typescript"
       ],
       "readme_summary": "",
       "relevance_tags": [
@@ -307,24 +267,30 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 141,
-      "open_issues": 26
+      "watchers": 42,
+      "open_issues": 859
     },
     {
-      "name": "microsoft/vscode",
-      "owner": "microsoft",
-      "description": "Visual Studio Code",
-      "stars": 195080,
-      "forks": 44433,
-      "stars_24h": 301,
-      "created_at": "2015-09-03T20:23:38+00:00",
-      "language": "TypeScript",
+      "name": "astral-sh/ruff",
+      "owner": "astral-sh",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "stars": 51031,
+      "forks": 2634,
+      "stars_24h": 350,
+      "created_at": "2022-08-09T17:17:44+00:00",
+      "language": "Rust",
       "topics": [
-        "editor",
-        "electron",
-        "microsoft",
-        "typescript",
-        "visual-studio-code"
+        "linter",
+        "pep8",
+        "python",
+        "python3",
+        "ruff",
+        "rust",
+        "rustpython",
+        "static-analysis",
+        "static-code-analysis",
+        "style-guide",
+        "styleguide"
       ],
       "readme_summary": "",
       "relevance_tags": [
@@ -333,22 +299,26 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 3569,
-      "open_issues": 21854
+      "watchers": 158,
+      "open_issues": 2276
     },
     {
-      "name": "lz4/lz4",
-      "owner": "lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "stars": 12648,
-      "forks": 1644,
-      "stars_24h": 315,
-      "created_at": "2014-03-25T15:52:21+00:00",
-      "language": "C",
+      "name": "tailwindlabs/tailwindcss",
+      "owner": "tailwindlabs",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "stars": 98573,
+      "forks": 7118,
+      "stars_24h": 122,
+      "created_at": "2017-10-06T14:59:14+00:00",
+      "language": "TypeScript",
       "topics": [
-        "c",
-        "compression",
-        "lz4"
+        "css",
+        "css-framework",
+        "functional-css",
+        "postcss",
+        "responsive",
+        "tailwindcss",
+        "utility-classes"
       ],
       "readme_summary": "",
       "relevance_tags": [
@@ -357,22 +327,76 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 229,
-      "open_issues": 6
+      "watchers": 737,
+      "open_issues": 115
     },
     {
-      "name": "nushell/nushell",
-      "owner": "nushell",
-      "description": "A new type of shell",
-      "stars": 41022,
-      "forks": 2344,
-      "stars_24h": 131,
-      "created_at": "2019-05-10T16:59:42+00:00",
+      "name": "mbillow/localthings",
+      "owner": "mbillow",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "stars": 1099,
+      "forks": 114,
+      "stars_24h": 186,
+      "created_at": "2026-06-30T21:30:14+00:00",
+      "language": "Python",
+      "topics": [
+        "coap-protocol",
+        "coap-server",
+        "custom-component",
+        "dtls",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "samsung",
+        "smartthings"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 5,
+      "open_issues": 80
+    },
+    {
+      "name": "zed-industries/zed",
+      "owner": "zed-industries",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "stars": 94356,
+      "forks": 11558,
+      "stars_24h": 1114,
+      "created_at": "2021-02-20T03:01:06+00:00",
       "language": "Rust",
       "topics": [
-        "nushell",
-        "rust",
-        "shell"
+        "gpui",
+        "rust-lang",
+        "text-editor",
+        "zed"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 334,
+      "open_issues": 3065
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "owner": "ranxianglei",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "stars": 4728,
+      "forks": 379,
+      "stars_24h": 191,
+      "created_at": "2026-08-06T08:27:34+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "dsh-plugin"
       ],
       "readme_summary": "",
       "relevance_tags": [
@@ -381,29 +405,24 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 227,
-      "open_issues": 1457
+      "watchers": 10,
+      "open_issues": 907
     },
     {
-      "name": "etcd-io/etcd",
-      "owner": "etcd-io",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "stars": 52643,
-      "forks": 10590,
-      "stars_24h": 128,
-      "created_at": "2013-07-06T21:57:21+00:00",
+      "name": "dsx-ai-factory/nvke",
+      "owner": "dsx-ai-factory",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "stars": 618,
+      "forks": 95,
+      "stars_24h": 123,
+      "created_at": "2026-08-04T15:42:58+00:00",
       "language": "Go",
       "topics": [
-        "cncf",
-        "consensus",
-        "database",
-        "distributed-database",
-        "distributed-systems",
-        "etcd",
-        "go",
-        "key-value",
+        "bare-metal",
+        "cluster-api",
+        "gpu",
         "kubernetes",
-        "raft"
+        "nvidia"
       ],
       "readme_summary": "",
       "relevance_tags": [
@@ -412,35 +431,8 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1281,
-      "open_issues": 425
-    },
-    {
-      "name": "openssl/openssl",
-      "owner": "openssl",
-      "description": "General purpose TLS and crypto library",
-      "stars": 31333,
-      "forks": 11583,
-      "stars_24h": 26,
-      "created_at": "2013-01-15T22:34:48+00:00",
-      "language": "C",
-      "topics": [
-        "cryptography",
-        "decryption",
-        "encryption",
-        "openssl",
-        "ssl",
-        "tls"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 1015,
-      "open_issues": 1644
+      "watchers": 10,
+      "open_issues": 182
     }
   ],
   "github_new": [],
@@ -479,162 +471,46 @@
   ],
   "markets": [
     {
-      "title": "TCU vs. Arizona",
-      "summary": "In the upcoming college football game between TCU and Arizona, scheduled for November 6 at 10:15PM ET:\nThis market will ",
-      "volume": "$802,530",
+      "title": "Wyoming vs. UNLV",
+      "summary": "In the upcoming college football game between Wyoming and UNLV, scheduled for November 7 at 10:30PM ET:\nThis market will",
+      "volume": "$827,715",
       "odds_change": null,
-      "url": "https://polymarket.com/event/cfb-tcu-arz-2026-11-06"
+      "url": "https://polymarket.com/event/cfb-wyom-unlv-2026-11-07"
     },
     {
-      "title": "Israel x Iran ceasefire continues through November 7?",
-      "summary": "This market will resolve to \"Yes\" if a state of ceasefire remains in effect between Israel and Iran through the listed d",
-      "volume": "$618,810",
+      "title": "Will FC Barcelona win on 2026-11-08?",
+      "summary": "In the upcoming game, scheduled for November 8, 2026\nIf FC Barcelona wins, this market will resolve to \"Yes\".\nOtherwise,",
+      "volume": "$662,331",
       "odds_change": null,
-      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-7"
+      "url": "https://polymarket.com/event/lal-mad-bar-2026-11-08-bar"
     }
   ],
   "leaderboards": {
     "daily": [
       {
-        "name": "NVIDIA/auto-ontology",
-        "stars": 9331,
-        "growth": 3506,
-        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-        "language": "Python",
-        "topics": [],
-        "forks": 739,
-        "stars_24h": 2015
-      },
-      {
         "name": "mattpocock/skills",
-        "stars": 315765,
-        "growth": 2002,
-        "description": "",
-        "language": "",
+        "stars": 317942,
+        "growth": 2177,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
         "topics": [],
-        "forks": 0,
-        "stars_24h": 0
+        "forks": 26604,
+        "stars_24h": 1100
       },
       {
-        "name": "vercel-labs/agent-desktop",
-        "stars": 17362,
-        "growth": 1590,
-        "description": "",
-        "language": "",
+        "name": "vercel-labs/agent-browser",
+        "stars": 47023,
+        "growth": 921,
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
         "topics": [],
-        "forks": 0,
-        "stars_24h": 0
-      },
-      {
-        "name": "D4Vinci/Scrapling",
-        "stars": 98357,
-        "growth": 1349,
-        "description": "",
-        "language": "",
-        "topics": [],
-        "forks": 0,
-        "stars_24h": 0
-      },
-      {
-        "name": "Usagi-org/ai-goofish-monitor",
-        "stars": 17951,
-        "growth": 1153,
-        "description": "",
-        "language": "",
-        "topics": [],
-        "forks": 0,
-        "stars_24h": 0
-      },
-      {
-        "name": "floci-io/floci",
-        "stars": 30620,
-        "growth": 782,
-        "description": "",
-        "language": "",
-        "topics": [],
-        "forks": 0,
-        "stars_24h": 0
-      },
-      {
-        "name": "garrytan/gstack",
-        "stars": 140167,
-        "growth": 653,
-        "description": "",
-        "language": "",
-        "topics": [],
-        "forks": 0,
-        "stars_24h": 0
-      },
-      {
-        "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
-        "stars": 7479,
-        "growth": 644,
-        "description": "",
-        "language": "",
-        "topics": [],
-        "forks": 0,
-        "stars_24h": 0
-      },
-      {
-        "name": "max-sixty/worktrunk",
-        "stars": 11656,
-        "growth": 451,
-        "description": "",
-        "language": "",
-        "topics": [],
-        "forks": 0,
-        "stars_24h": 0
-      }
-    ],
-    "weekly": [
-      {
-        "name": "mattpocock/skills",
-        "stars": 315765,
-        "growth": 8110,
-        "description": "",
-        "language": "",
-        "topics": [],
-        "forks": 0,
-        "stars_24h": 0
-      }
-    ],
-    "monthly": [
-      {
-        "name": "mattpocock/skills",
-        "stars": 315765,
-        "growth": 37318,
-        "description": "",
-        "language": "",
-        "topics": [],
-        "forks": 0,
-        "stars_24h": 0
-      },
-      {
-        "name": "garrytan/gstack",
-        "stars": 140167,
-        "growth": 4941,
-        "description": "",
-        "language": "",
-        "topics": [],
-        "forks": 0,
-        "stars_24h": 0
-      }
-    ],
-    "3month": [
-      {
-        "name": "mattpocock/skills",
-        "stars": 315765,
-        "growth": 105644,
-        "description": "",
-        "language": "",
-        "topics": [],
-        "forks": 0,
-        "stars_24h": 0
+        "forks": 3222,
+        "stars_24h": 190
       },
       {
         "name": "google/skills",
-        "stars": 22952,
-        "growth": 6171,
+        "stars": 23531,
+        "growth": 579,
         "description": "Agent Skills for Google products and technologies",
         "language": "Python",
         "topics": [
@@ -642,20 +518,160 @@
           "googlecloud",
           "skills"
         ],
-        "forks": 1929,
-        "stars_24h": 534
+        "forks": 1967,
+        "stars_24h": 443
+      },
+      {
+        "name": "zed-industries/zed",
+        "stars": 94356,
+        "growth": 525,
+        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "language": "Rust",
+        "topics": [
+          "gpui",
+          "rust-lang",
+          "text-editor",
+          "zed"
+        ],
+        "forks": 11558,
+        "stars_24h": 1114
+      },
+      {
+        "name": "prometheus/prometheus",
+        "stars": 67491,
+        "growth": 250,
+        "description": "The Prometheus monitoring system and time series database.",
+        "language": "Go",
+        "topics": [
+          "alerting",
+          "graphing",
+          "hacktoberfest",
+          "metrics",
+          "monitoring",
+          "prometheus",
+          "time-series"
+        ],
+        "forks": 11011,
+        "stars_24h": 322
+      }
+    ],
+    "weekly": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 317942,
+        "growth": 10287,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 26604,
+        "stars_24h": 1100
+      },
+      {
+        "name": "milind-soni/OpenMausBot",
+        "stars": 17316,
+        "growth": 8394,
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "computer-use",
+          "docker",
+          "electron",
+          "expo",
+          "grok",
+          "grok-bot",
+          "grok-bot-alternative",
+          "self-hosted",
+          "typescript"
+        ],
+        "forks": 2439,
+        "stars_24h": 1955
+      },
+      {
+        "name": "anthropics/skills",
+        "stars": 188941,
+        "growth": 3441,
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "forks": 22271,
+        "stars_24h": 390
+      }
+    ],
+    "monthly": [
+      {
+        "name": "cloudflare/security-audit-skill",
+        "stars": 66049,
+        "growth": 39809,
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "topics": [],
+        "forks": 4296,
+        "stars_24h": 2085
+      },
+      {
+        "name": "mattpocock/skills",
+        "stars": 317942,
+        "growth": 37872,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 26604,
+        "stars_24h": 1100
+      }
+    ],
+    "3month": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 317942,
+        "growth": 107821,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 26604,
+        "stars_24h": 1100
+      },
+      {
+        "name": "anthropics/skills",
+        "stars": 188941,
+        "growth": 20732,
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "forks": 22271,
+        "stars_24h": 390
+      },
+      {
+        "name": "google/skills",
+        "stars": 23531,
+        "growth": 6238,
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "topics": [
+          "google",
+          "googlecloud",
+          "skills"
+        ],
+        "forks": 1967,
+        "stars_24h": 443
       }
     ],
     "6month": [
       {
         "name": "mattpocock/skills",
-        "stars": 315765,
-        "growth": 239105,
-        "description": "",
-        "language": "",
+        "stars": 317942,
+        "growth": 241282,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
         "topics": [],
-        "forks": 0,
-        "stars_24h": 0
+        "forks": 26604,
+        "stars_24h": 1100
       }
     ],
     "9month": [],
