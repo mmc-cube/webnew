@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-09T07:22:08.011677",
+  "brief": [
+    {
+      "conclusion": "[Galxe] like,c omment and  RT（0成本）",
+      "why_hot": "来自 Endorphina 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Endorphina"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Hop in the DeLorean. Win $50 USDT with Asterium（0成本）",
+      "why_hot": "来自 Asterium 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Asterium"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "like,c omment and  RT",
+      "task_type": "积分任务",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1794006000,
+      "url": "https://galxe.com/Endorphina",
+      "note": "来自 Endorphina 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Hop in the DeLorean. Win $50 USDT with Asterium",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793473200,
+      "url": "https://galxe.com/Asterium",
+      "note": "来自 Asterium 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Open M.EDGE TestFlight",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": null,
+      "url": "https://galxe.com/M.EDGE",
+      "note": "来自 M.EDGE 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Chennai Open: Janice Tjen vs Magda Linette",
+      "summary": "This market refers to the tennis match between Janice Tjen and Magda Linette in the Chennai Open, originally scheduled f",
+      "volume": "$435,419",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/wta-tjen-linette-2026-11-08"
+    },
+    {
+      "title": "Will the US confirm that aliens exist before 2027?",
+      "summary": "This market will resolve to \"Yes\" if the President of the United States, any member of the Cabinet of the United States,",
+      "volume": "$425,042",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027-789-924-249"
+    }
+  ],
+  "leaderboards": {
+    "daily": [],
+    "weekly": [],
+    "monthly": [],
+    "3month": [],
+    "6month": [],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
