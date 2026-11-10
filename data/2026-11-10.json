@@ -1,0 +1,776 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-10T07:51:50.820157",
+  "brief": [
+    {
+      "conclusion": "sherlock-project/sherlock 24h +4267 stars — Hunt down social media accounts by username across social ne",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 107,832",
+      "evidence_urls": [
+        "https://github.com/sherlock-project/sherlock"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "meta/astryx 24h +3278 stars — An open source design system that's fully customizable and a",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 20,954",
+      "evidence_urls": [
+        "https://github.com/meta/astryx"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "milind-soni/OpenMausBot 24h +1587 stars — Open-source Grok Bot alternative with a virtual machine that",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 20,142",
+      "evidence_urls": [
+        "https://github.com/milind-soni/OpenMausBot"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] like,c omment and  RT（0成本）",
+      "why_hot": "来自 Endorphina 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Endorphina"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Hop in the DeLorean. Win $50 USDT with Asterium（0成本）",
+      "why_hot": "来自 Asterium 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Asterium"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "description": "Public repository for Agent Skills",
+      "stars": 191465,
+      "forks": 22476,
+      "stars_24h": 1038,
+      "created_at": "2025-09-22T15:53:31+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1170,
+      "open_issues": 1508
+    },
+    {
+      "name": "meta/astryx",
+      "owner": "meta",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 20954,
+      "forks": 1586,
+      "stars_24h": 3278,
+      "created_at": "2026-01-09T16:20:32+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 90,
+      "open_issues": 684
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "owner": "sherlock-project",
+      "description": "Hunt down social media accounts by username across social networks",
+      "stars": 107832,
+      "forks": 12467,
+      "stars_24h": 4267,
+      "created_at": "2018-12-24T14:30:48+00:00",
+      "language": "Python",
+      "topics": [
+        "cli",
+        "cti",
+        "cybersecurity",
+        "forensics",
+        "hacktoberfest",
+        "information-gathering",
+        "infosec",
+        "linux",
+        "osint",
+        "pentesting",
+        "python",
+        "python3",
+        "reconnaissance",
+        "redteam",
+        "sherlock",
+        "tools"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1503,
+      "open_issues": 402
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "owner": "google-deepmind",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "stars": 17076,
+      "forks": 2014,
+      "stars_24h": 574,
+      "created_at": "2021-08-27T12:25:48+00:00",
+      "language": "C++",
+      "topics": [
+        "mujoco",
+        "physics",
+        "robotics"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 141,
+      "open_issues": 318
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "owner": "anthropics",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "stars": 20174,
+      "forks": 3328,
+      "stars_24h": 551,
+      "created_at": "2024-08-29T19:52:32+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 180,
+      "open_issues": 240
+    },
+    {
+      "name": "garrytan/gbrain",
+      "owner": "garrytan",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "stars": 32326,
+      "forks": 4781,
+      "stars_24h": 216,
+      "created_at": "2026-04-05T14:40:56+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 135,
+      "open_issues": 813
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "owner": "vercel-labs",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 48740,
+      "forks": 3321,
+      "stars_24h": 916,
+      "created_at": "2026-01-11T05:38:15+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 109,
+      "open_issues": 542
+    },
+    {
+      "name": "ruvnet/RuView",
+      "owner": "ruvnet",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 103696,
+      "forks": 13431,
+      "stars_24h": 172,
+      "created_at": "2025-06-07T04:32:30+00:00",
+      "language": "Rust",
+      "topics": [
+        "claude",
+        "claude-code",
+        "esp32",
+        "firmware",
+        "home-assistant",
+        "home-automation",
+        "iot",
+        "mcp",
+        "monitoring",
+        "networking",
+        "pose-estimation",
+        "react",
+        "rf",
+        "self-learning",
+        "spatial-intelligence",
+        "typescript",
+        "webassembly",
+        "wifi",
+        "wifi-security"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 911,
+      "open_issues": 561
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 69281,
+      "forks": 56488,
+      "stars_24h": 506,
+      "created_at": "2026-01-10T06:43:20+00:00",
+      "language": "Python",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "llm",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 275,
+      "open_issues": 39
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "owner": "homeassistant-ai",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars": 6202,
+      "forks": 302,
+      "stars_24h": 31,
+      "created_at": "2025-09-14T13:23:45+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "hacs",
+        "home-assistant",
+        "home-automation",
+        "llm",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 20,
+      "open_issues": 17
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "owner": "milind-soni",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 20142,
+      "forks": 2753,
+      "stars_24h": 1587,
+      "created_at": "2026-08-11T18:58:55+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron",
+        "grok",
+        "grok-bot",
+        "grok-bot-alternative",
+        "self-hosted",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 49,
+      "open_issues": 976
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 42151,
+      "forks": 4802,
+      "stars_24h": 387,
+      "created_at": "2025-09-16T03:41:49+00:00",
+      "language": "Python",
+      "topics": [
+        "audio",
+        "deeplearning",
+        "minicpm",
+        "multilingual",
+        "python",
+        "pytorch",
+        "speech",
+        "speech-synthesis",
+        "text-to-speech",
+        "tts",
+        "tts-model",
+        "voice-cloning",
+        "voice-design",
+        "voxcpm"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 165,
+      "open_issues": 173
+    },
+    {
+      "name": "BigBodyCobain/Shadowbroker",
+      "owner": "BigBodyCobain",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "stars": 11533,
+      "forks": 1836,
+      "stars_24h": 25,
+      "created_at": "2026-03-05T03:59:55+00:00",
+      "language": "Python",
+      "topics": [
+        "ads-b",
+        "adsb",
+        "aircraft",
+        "aircraft-tracking",
+        "asdb",
+        "cctv",
+        "cctv-cameras",
+        "cctv-surveillance",
+        "earthquake-visualization",
+        "elonjet",
+        "gis",
+        "osint",
+        "osint-resources",
+        "plane",
+        "satellite-tracking",
+        "sattelite",
+        "sattelite-imagery",
+        "sdr",
+        "surveillance",
+        "tracking"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 107,
+      "open_issues": 10
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 106537,
+      "forks": 11822,
+      "stars_24h": 1262,
+      "created_at": "2026-04-09T21:40:26+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 363,
+      "open_issues": 42
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "stars": 78189,
+      "forks": 13902,
+      "stars_24h": 326,
+      "created_at": "2026-03-18T18:38:02+00:00",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "dsh",
+        "from-scratch",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "python",
+        "rea",
+        "reinforcement-learning",
+        "rust",
+        "transformers",
+        "tutorial",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 460,
+      "open_issues": 59
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "like,c omment and  RT",
+      "task_type": "积分任务",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1794006000,
+      "url": "https://galxe.com/Endorphina",
+      "note": "来自 Endorphina 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Hop in the DeLorean. Win $50 USDT with Asterium",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793473200,
+      "url": "https://galxe.com/Asterium",
+      "note": "来自 Asterium 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Open M.EDGE TestFlight",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": null,
+      "url": "https://galxe.com/M.EDGE",
+      "note": "来自 M.EDGE 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Will Shawn Fain win the 2028 Democratic presidential nomination?",
+      "summary": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party f",
+      "volume": "$779,656",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/will-shawn-fain-win-the-2028-democratic-presidential-nomination"
+    },
+    {
+      "title": "US announces end of Iranian blockade by November 15, 2026?",
+      "summary": "On July 13, 2026, Trump announced the United States would reinstate its naval blockade of Iran, targeting Iranian ships ",
+      "volume": "$615,791",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-november-15-2026"
+    }
+  ],
+  "leaderboards": {
+    "daily": [],
+    "weekly": [
+      {
+        "name": "milind-soni/OpenMausBot",
+        "stars": 20142,
+        "growth": 9308,
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "computer-use",
+          "docker",
+          "electron",
+          "grok",
+          "grok-bot",
+          "grok-bot-alternative",
+          "self-hosted",
+          "typescript"
+        ],
+        "forks": 2753,
+        "stars_24h": 1587
+      },
+      {
+        "name": "anthropics/skills",
+        "stars": 191465,
+        "growth": 5965,
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "forks": 22476,
+        "stars_24h": 1038
+      },
+      {
+        "name": "vercel-labs/agent-browser",
+        "stars": 48740,
+        "growth": 2638,
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "topics": [],
+        "forks": 3321,
+        "stars_24h": 916
+      }
+    ],
+    "monthly": [
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 106537,
+        "growth": 47349,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 11822,
+        "stars_24h": 1262
+      }
+    ],
+    "3month": [
+      {
+        "name": "anthropics/skills",
+        "stars": 191465,
+        "growth": 23256,
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "forks": 22476,
+        "stars_24h": 1038
+      },
+      {
+        "name": "ruvnet/RuView",
+        "stars": 103696,
+        "growth": 14293,
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "topics": [
+          "claude",
+          "claude-code",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "mcp",
+          "monitoring",
+          "networking",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "spatial-intelligence",
+          "typescript",
+          "webassembly",
+          "wifi",
+          "wifi-security"
+        ],
+        "forks": 13431,
+        "stars_24h": 172
+      },
+      {
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": 69281,
+        "growth": 7060,
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "forks": 56488,
+        "stars_24h": 506
+      }
+    ],
+    "6month": [
+      {
+        "name": "anthropics/skills",
+        "stars": 191465,
+        "growth": 56187,
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "forks": 22476,
+        "stars_24h": 1038
+      },
+      {
+        "name": "ruvnet/RuView",
+        "stars": 103696,
+        "growth": 47386,
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "topics": [
+          "claude",
+          "claude-code",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "mcp",
+          "monitoring",
+          "networking",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "spatial-intelligence",
+          "typescript",
+          "webassembly",
+          "wifi",
+          "wifi-security"
+        ],
+        "forks": 13431,
+        "stars_24h": 172
+      },
+      {
+        "name": "BigBodyCobain/Shadowbroker",
+        "stars": 11533,
+        "growth": 4297,
+        "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+        "language": "Python",
+        "topics": [
+          "ads-b",
+          "adsb",
+          "aircraft",
+          "aircraft-tracking",
+          "asdb",
+          "cctv",
+          "cctv-cameras",
+          "cctv-surveillance",
+          "earthquake-visualization",
+          "elonjet",
+          "gis",
+          "osint",
+          "osint-resources",
+          "plane",
+          "satellite-tracking",
+          "sattelite",
+          "sattelite-imagery",
+          "sdr",
+          "surveillance",
+          "tracking"
+        ],
+        "forks": 1836,
+        "stars_24h": 25
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
