@@ -1,0 +1,847 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-11T07:19:18.759776",
+  "brief": [
+    {
+      "conclusion": "meta/astryx 24h +3108 stars — An open source design system that's fully customizable and a",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 23,652",
+      "evidence_urls": [
+        "https://github.com/meta/astryx"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "sherlock-project/sherlock 24h +2393 stars — Hunt down social media accounts by username across social ne",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 109,433",
+      "evidence_urls": [
+        "https://github.com/sherlock-project/sherlock"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "anthropics/skills 24h +1679 stars — Public repository for Agent Skills",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 192,624",
+      "evidence_urls": [
+        "https://github.com/anthropics/skills"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] like,c omment and  RT（0成本）",
+      "why_hot": "来自 Endorphina 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Endorphina"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Hop in the DeLorean. Win $50 USDT with Asterium（0成本）",
+      "why_hot": "来自 Asterium 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Asterium"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "meta/astryx",
+      "owner": "meta",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 23652,
+      "forks": 1856,
+      "stars_24h": 3108,
+      "created_at": "2026-01-09T16:20:32+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 94,
+      "open_issues": 674
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "description": "Public repository for Agent Skills",
+      "stars": 192624,
+      "forks": 22673,
+      "stars_24h": 1679,
+      "created_at": "2025-09-22T15:53:31+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1175,
+      "open_issues": 1516
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 115385,
+      "forks": 12110,
+      "stars_24h": 465,
+      "created_at": "2026-02-15T20:20:26+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 567,
+      "open_issues": 133
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "owner": "anthropics",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "stars": 20634,
+      "forks": 3477,
+      "stars_24h": 531,
+      "created_at": "2024-08-29T19:52:32+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 182,
+      "open_issues": 242
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "owner": "google-deepmind",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "stars": 17498,
+      "forks": 2159,
+      "stars_24h": 456,
+      "created_at": "2021-08-27T12:25:48+00:00",
+      "language": "C++",
+      "topics": [
+        "mujoco",
+        "physics",
+        "robotics"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 142,
+      "open_issues": 355
+    },
+    {
+      "name": "we-promise/sure",
+      "owner": "we-promise",
+      "description": "The personal finance app for everyone (by everyone)",
+      "stars": 12258,
+      "forks": 908,
+      "stars_24h": 159,
+      "created_at": "2025-07-23T04:13:55+00:00",
+      "language": "Ruby",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 39,
+      "open_issues": 884
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "owner": "homeassistant-ai",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars": 6828,
+      "forks": 439,
+      "stars_24h": 790,
+      "created_at": "2025-09-14T13:23:45+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "hacs",
+        "home-assistant",
+        "home-automation",
+        "llm",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 23,
+      "open_issues": 21
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "owner": "vercel-labs",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 49446,
+      "forks": 3463,
+      "stars_24h": 780,
+      "created_at": "2026-01-11T05:38:15+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 109,
+      "open_issues": 571
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "owner": "sherlock-project",
+      "description": "Hunt down social media accounts by username across social networks",
+      "stars": 109433,
+      "forks": 12693,
+      "stars_24h": 2393,
+      "created_at": "2018-12-24T14:30:48+00:00",
+      "language": "Python",
+      "topics": [
+        "cli",
+        "cti",
+        "cybersecurity",
+        "forensics",
+        "hacktoberfest",
+        "information-gathering",
+        "infosec",
+        "linux",
+        "osint",
+        "pentesting",
+        "python",
+        "python3",
+        "reconnaissance",
+        "redteam",
+        "sherlock",
+        "tools"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1510,
+      "open_issues": 409
+    },
+    {
+      "name": "tokio-rs/topcoat",
+      "owner": "tokio-rs",
+      "description": "A batteries-included framework for building web apps",
+      "stars": 6974,
+      "forks": 309,
+      "stars_24h": 192,
+      "created_at": "2026-04-03T14:27:27+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 43,
+      "open_issues": 60
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "owner": "ranxianglei",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "stars": 6546,
+      "forks": 540,
+      "stars_24h": 375,
+      "created_at": "2026-08-06T08:27:34+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "dsh-plugin"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 16,
+      "open_issues": 987
+    },
+    {
+      "name": "mattpocock/skills",
+      "owner": "mattpocock",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 321245,
+      "forks": 26933,
+      "stars_24h": 1225,
+      "created_at": "2026-02-03T11:15:53+00:00",
+      "language": "Shell",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1650,
+      "open_issues": 233
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 42231,
+      "forks": 4818,
+      "stars_24h": 140,
+      "created_at": "2025-09-16T03:41:49+00:00",
+      "language": "Python",
+      "topics": [
+        "audio",
+        "deeplearning",
+        "minicpm",
+        "multilingual",
+        "python",
+        "pytorch",
+        "speech",
+        "speech-synthesis",
+        "text-to-speech",
+        "tts",
+        "tts-model",
+        "voice-cloning",
+        "voice-design",
+        "voxcpm"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 165,
+      "open_issues": 175
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 107562,
+      "forks": 11913,
+      "stars_24h": 1207,
+      "created_at": "2026-04-09T21:40:26+00:00",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "audiobook",
+        "cuda",
+        "dubbing",
+        "elevenlabs-alternative",
+        "huggingface",
+        "local-first",
+        "mlx",
+        "omnivoice-studio",
+        "speech-to-text",
+        "text-to-speech",
+        "transcription",
+        "translate",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "voicestudio",
+        "workflow"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 360,
+      "open_issues": 32
+    },
+    {
+      "name": "ashishpatel26/500-AI-Agents-Projects",
+      "owner": "ashishpatel26",
+      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+      "stars": 39673,
+      "forks": 7114,
+      "stars_24h": 126,
+      "created_at": "2024-12-20T13:37:15+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "genai"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 420,
+      "open_issues": 54
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "like,c omment and  RT",
+      "task_type": "积分任务",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1794006000,
+      "url": "https://galxe.com/Endorphina",
+      "note": "来自 Endorphina 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Hop in the DeLorean. Win $50 USDT with Asterium",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793473200,
+      "url": "https://galxe.com/Asterium",
+      "note": "来自 Asterium 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Open M.EDGE TestFlight",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": null,
+      "url": "https://galxe.com/M.EDGE",
+      "note": "来自 M.EDGE 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B",
+      "summary": "This market refers to the Counter-Strike match between Spirit and FUT Esports in the BLAST Rivals Group B, initially sch",
+      "volume": "$894,369",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/cs2-ts7-fut-2026-11-11"
+    },
+    {
+      "title": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+      "summary": "This market will resolve to \"Josh Hokit\" if Josh Hokit is officially declared the winner of the fight against Ciryl Gane",
+      "volume": "$531,637",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/ufc-jos52-cir-2026-11-14"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "meta/astryx",
+        "stars": 23652,
+        "growth": 2698,
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1856,
+        "stars_24h": 3108
+      },
+      {
+        "name": "sherlock-project/sherlock",
+        "stars": 109433,
+        "growth": 1601,
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "topics": [
+          "cli",
+          "cti",
+          "cybersecurity",
+          "forensics",
+          "hacktoberfest",
+          "information-gathering",
+          "infosec",
+          "linux",
+          "osint",
+          "pentesting",
+          "python",
+          "python3",
+          "reconnaissance",
+          "redteam",
+          "sherlock",
+          "tools"
+        ],
+        "forks": 12693,
+        "stars_24h": 2393
+      },
+      {
+        "name": "anthropics/skills",
+        "stars": 192624,
+        "growth": 1159,
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "forks": 22673,
+        "stars_24h": 1679
+      },
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 107562,
+        "growth": 1025,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 11913,
+        "stars_24h": 1207
+      },
+      {
+        "name": "vercel-labs/agent-browser",
+        "stars": 49446,
+        "growth": 706,
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "topics": [],
+        "forks": 3463,
+        "stars_24h": 780
+      },
+      {
+        "name": "homeassistant-ai/ha-mcp",
+        "stars": 6828,
+        "growth": 626,
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "claude",
+          "hacs",
+          "home-assistant",
+          "home-automation",
+          "llm",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "forks": 439,
+        "stars_24h": 790
+      },
+      {
+        "name": "anthropics/claude-quickstarts",
+        "stars": 20634,
+        "growth": 460,
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "Python",
+        "topics": [],
+        "forks": 3477,
+        "stars_24h": 531
+      },
+      {
+        "name": "google-deepmind/mujoco",
+        "stars": 17498,
+        "growth": 422,
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "language": "C++",
+        "topics": [
+          "mujoco",
+          "physics",
+          "robotics"
+        ],
+        "forks": 2159,
+        "stars_24h": 456
+      },
+      {
+        "name": "OpenBMB/VoxCPM",
+        "stars": 42231,
+        "growth": 80,
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "topics": [
+          "audio",
+          "deeplearning",
+          "minicpm",
+          "multilingual",
+          "python",
+          "pytorch",
+          "speech",
+          "speech-synthesis",
+          "text-to-speech",
+          "tts",
+          "tts-model",
+          "voice-cloning",
+          "voice-design",
+          "voxcpm"
+        ],
+        "forks": 4818,
+        "stars_24h": 140
+      }
+    ],
+    "weekly": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 321245,
+        "growth": 9445,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 26933,
+        "stars_24h": 1225
+      },
+      {
+        "name": "meta/astryx",
+        "stars": 23652,
+        "growth": 8885,
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1856,
+        "stars_24h": 3108
+      },
+      {
+        "name": "sherlock-project/sherlock",
+        "stars": 109433,
+        "growth": 8329,
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "topics": [
+          "cli",
+          "cti",
+          "cybersecurity",
+          "forensics",
+          "hacktoberfest",
+          "information-gathering",
+          "infosec",
+          "linux",
+          "osint",
+          "pentesting",
+          "python",
+          "python3",
+          "reconnaissance",
+          "redteam",
+          "sherlock",
+          "tools"
+        ],
+        "forks": 12693,
+        "stars_24h": 2393
+      },
+      {
+        "name": "anthropics/skills",
+        "stars": 192624,
+        "growth": 3683,
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "forks": 22673,
+        "stars_24h": 1679
+      },
+      {
+        "name": "vercel-labs/agent-browser",
+        "stars": 49446,
+        "growth": 3344,
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "topics": [],
+        "forks": 3463,
+        "stars_24h": 780
+      },
+      {
+        "name": "ranxianglei/billion-context",
+        "stars": 6546,
+        "growth": 1818,
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "language": "TypeScript",
+        "topics": [
+          "dsh-plugin"
+        ],
+        "forks": 540,
+        "stars_24h": 375
+      }
+    ],
+    "monthly": [
+      {
+        "name": "debpalash/VoiceStudio",
+        "stars": 107562,
+        "growth": 48374,
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "forks": 11913,
+        "stars_24h": 1207
+      },
+      {
+        "name": "mattpocock/skills",
+        "stars": 321245,
+        "growth": 36366,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 26933,
+        "stars_24h": 1225
+      },
+      {
+        "name": "addyosmani/agent-skills",
+        "stars": 115385,
+        "growth": 11215,
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "forks": 12110,
+        "stars_24h": 465
+      }
+    ],
+    "3month": [
+      {
+        "name": "addyosmani/agent-skills",
+        "stars": 115385,
+        "growth": 29102,
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "forks": 12110,
+        "stars_24h": 465
+      },
+      {
+        "name": "anthropics/skills",
+        "stars": 192624,
+        "growth": 23521,
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "forks": 22673,
+        "stars_24h": 1679
+      }
+    ],
+    "6month": [
+      {
+        "name": "mattpocock/skills",
+        "stars": 321245,
+        "growth": 236012,
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "topics": [],
+        "forks": 26933,
+        "stars_24h": 1225
+      },
+      {
+        "name": "anthropics/skills",
+        "stars": 192624,
+        "growth": 57346,
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "forks": 22673,
+        "stars_24h": 1679
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
