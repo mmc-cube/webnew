@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-11T07:19:18.759776",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-12T07:49:58.175838",
   "brief": [
     {
-      "conclusion": "meta/astryx 24h +3108 stars — An open source design system that's fully customizable and a",
-      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 23,652",
+      "conclusion": "meta/astryx 24h +2776 stars — An open source design system that's fully customizable and a",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 25,598",
       "evidence_urls": [
         "https://github.com/meta/astryx"
       ],
       "category": "github"
     },
     {
-      "conclusion": "sherlock-project/sherlock 24h +2393 stars — Hunt down social media accounts by username across social ne",
-      "why_hot": "新项目爆发，语言: Python，总 stars: 109,433",
+      "conclusion": "sherlock-project/sherlock 24h +1483 stars — Hunt down social media accounts by username across social ne",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 110,297",
       "evidence_urls": [
         "https://github.com/sherlock-project/sherlock"
       ],
       "category": "github"
     },
     {
-      "conclusion": "anthropics/skills 24h +1679 stars — Public repository for Agent Skills",
-      "why_hot": "新项目爆发，语言: Python，总 stars: 192,624",
+      "conclusion": "we-promise/sure 24h +1078 stars — The personal finance app for everyone (by everyone)",
+      "why_hot": "新项目爆发，语言: Ruby，总 stars: 13,239",
       "evidence_urls": [
-        "https://github.com/anthropics/skills"
+        "https://github.com/we-promise/sure"
       ],
       "category": "github"
     },
@@ -49,9 +49,9 @@
       "name": "meta/astryx",
       "owner": "meta",
       "description": "An open source design system that's fully customizable and agent ready",
-      "stars": 23652,
-      "forks": 1856,
-      "stars_24h": 3108,
+      "stars": 25598,
+      "forks": 1992,
+      "stars_24h": 2776,
       "created_at": "2026-01-09T16:20:32+00:00",
       "language": "TypeScript",
       "topics": [],
@@ -62,20 +62,26 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 94,
-      "open_issues": 674
+      "watchers": 97,
+      "open_issues": 662
     },
     {
-      "name": "anthropics/skills",
-      "owner": "anthropics",
-      "description": "Public repository for Agent Skills",
-      "stars": 192624,
-      "forks": 22673,
-      "stars_24h": 1679,
-      "created_at": "2025-09-22T15:53:31+00:00",
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 70755,
+      "forks": 57009,
+      "stars_24h": 278,
+      "created_at": "2026-01-10T06:43:20+00:00",
       "language": "Python",
       "topics": [
-        "agent-skills"
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "llm",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading"
       ],
       "readme_summary": "",
       "relevance_tags": [
@@ -84,16 +90,56 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1175,
-      "open_issues": 1516
+      "watchers": 283,
+      "open_issues": 52
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "owner": "GoogleChrome",
+      "description": "",
+      "stars": 2035,
+      "forks": 151,
+      "stars_24h": 159,
+      "created_at": "2026-01-27T20:22:24+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 32,
+      "open_issues": 372
+    },
+    {
+      "name": "shadcn/improve",
+      "owner": "shadcn",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "stars": 11199,
+      "forks": 454,
+      "stars_24h": 361,
+      "created_at": "2026-06-10T11:06:58+00:00",
+      "language": "",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 30,
+      "open_issues": 18
     },
     {
       "name": "addyosmani/agent-skills",
       "owner": "addyosmani",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 115385,
-      "forks": 12110,
-      "stars_24h": 465,
+      "stars": 116179,
+      "forks": 12174,
+      "stars_24h": 787,
       "created_at": "2026-02-15T20:20:26+00:00",
       "language": "JavaScript",
       "topics": [
@@ -112,60 +158,37 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 567,
-      "open_issues": 133
+      "watchers": 572,
+      "open_issues": 136
     },
     {
-      "name": "anthropics/claude-quickstarts",
-      "owner": "anthropics",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": 20634,
-      "forks": 3477,
-      "stars_24h": 531,
-      "created_at": "2024-08-29T19:52:32+00:00",
-      "language": "Python",
+      "name": "vercel-labs/agent-browser",
+      "owner": "vercel-labs",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 50064,
+      "forks": 3494,
+      "stars_24h": 708,
+      "created_at": "2026-01-11T05:38:15+00:00",
+      "language": "Rust",
       "topics": [],
       "readme_summary": "",
       "relevance_tags": [
-        "tooling"
+        "coding agent",
+        "workflow"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 182,
-      "open_issues": 242
-    },
-    {
-      "name": "google-deepmind/mujoco",
-      "owner": "google-deepmind",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "stars": 17498,
-      "forks": 2159,
-      "stars_24h": 456,
-      "created_at": "2021-08-27T12:25:48+00:00",
-      "language": "C++",
-      "topics": [
-        "mujoco",
-        "physics",
-        "robotics"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 142,
-      "open_issues": 355
+      "watchers": 110,
+      "open_issues": 583
     },
     {
       "name": "we-promise/sure",
       "owner": "we-promise",
       "description": "The personal finance app for everyone (by everyone)",
-      "stars": 12258,
-      "forks": 908,
-      "stars_24h": 159,
+      "stars": 13239,
+      "forks": 977,
+      "stars_24h": 1078,
       "created_at": "2025-07-23T04:13:55+00:00",
       "language": "Ruby",
       "topics": [],
@@ -176,16 +199,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 39,
-      "open_issues": 884
+      "watchers": 43,
+      "open_issues": 889
     },
     {
       "name": "homeassistant-ai/ha-mcp",
       "owner": "homeassistant-ai",
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "stars": 6828,
-      "forks": 439,
-      "stars_24h": 790,
+      "stars": 7560,
+      "forks": 459,
+      "stars_24h": 645,
       "created_at": "2025-09-14T13:23:45+00:00",
       "language": "Python",
       "topics": [
@@ -205,37 +228,224 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 23,
-      "open_issues": 21
+      "watchers": 24,
+      "open_issues": 20
     },
     {
-      "name": "vercel-labs/agent-browser",
-      "owner": "vercel-labs",
-      "description": "Browser automation CLI for AI agents",
-      "stars": 49446,
-      "forks": 3463,
-      "stars_24h": 780,
-      "created_at": "2026-01-11T05:38:15+00:00",
-      "language": "Rust",
-      "topics": [],
+      "name": "openai/codex-security",
+      "owner": "openai",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "stars": 11951,
+      "forks": 952,
+      "stars_24h": 52,
+      "created_at": "2026-07-13T22:00:13+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ai-security",
+        "application-security",
+        "cli",
+        "code-scanning",
+        "codex",
+        "codex-security",
+        "cybersecurity",
+        "devsecops",
+        "nodejs",
+        "npm",
+        "openai",
+        "sdk",
+        "security",
+        "typescript",
+        "vulnerability-scanning"
+      ],
       "readme_summary": "",
       "relevance_tags": [
-        "coding agent",
-        "workflow"
+        "tooling"
       ],
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 109,
-      "open_issues": 571
+      "watchers": 40,
+      "open_issues": 139
+    },
+    {
+      "name": "TheAlgorithms/Java",
+      "owner": "TheAlgorithms",
+      "description": "All Algorithms implemented in Java",
+      "stars": 67158,
+      "forks": 21519,
+      "stars_24h": 51,
+      "created_at": "2016-07-16T10:21:02+00:00",
+      "language": "Java",
+      "topics": [
+        "algorithm",
+        "algorithm-challenges",
+        "algorithms",
+        "algorithms-datastructures",
+        "data-structures",
+        "hacktoberfest",
+        "java",
+        "search",
+        "sort",
+        "sorting-algorithms"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 2165,
+      "open_issues": 31
+    },
+    {
+      "name": "browser-use/browser-use",
+      "owner": "browser-use",
+      "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+      "stars": 120785,
+      "forks": 13498,
+      "stars_24h": 172,
+      "created_at": "2024-10-31T16:00:56+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-agent",
+        "browser-automation",
+        "browser-use",
+        "cdp",
+        "cloud-browser",
+        "computer-use",
+        "headless-browser",
+        "llm",
+        "mcp",
+        "playwright",
+        "python",
+        "remote-browser",
+        "stealth-browser",
+        "web-automation",
+        "web-scraping"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 473,
+      "open_issues": 610
+    },
+    {
+      "name": "soxoj/maigret",
+      "owner": "soxoj",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+      "stars": 40434,
+      "forks": 3246,
+      "stars_24h": 260,
+      "created_at": "2020-06-27T14:16:42+00:00",
+      "language": "Python",
+      "topics": [
+        "cli",
+        "cybersecurity",
+        "identification",
+        "information-gathering",
+        "infosec",
+        "investigation",
+        "open-source",
+        "osint",
+        "osint-framework",
+        "osint-python",
+        "pentesting",
+        "python",
+        "python3",
+        "reconnaissance",
+        "redteam",
+        "scraping",
+        "sherlock",
+        "social-network",
+        "socmint",
+        "username"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 183,
+      "open_issues": 57
+    },
+    {
+      "name": "sgl-project/sglang-omni",
+      "owner": "sgl-project",
+      "description": "High Performance Serving Runtime For Interactive Super Intelligence System",
+      "stars": 1769,
+      "forks": 725,
+      "stars_24h": 15,
+      "created_at": "2026-01-07T06:58:29+00:00",
+      "language": "Python",
+      "topics": [
+        "asr",
+        "audio-generation",
+        "cuda",
+        "distributed-inference",
+        "inference",
+        "interactive",
+        "model-serving",
+        "multimodal",
+        "music-generation",
+        "openai-api",
+        "pytorch",
+        "sglang",
+        "speech-recognition",
+        "streaming",
+        "text-to-speech",
+        "tts"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 9,
+      "open_issues": 1151
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "description": "Public repository for Agent Skills",
+      "stars": 193326,
+      "forks": 22748,
+      "stars_24h": 1032,
+      "created_at": "2025-09-22T15:53:31+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1182,
+      "open_issues": 1522
     },
     {
       "name": "sherlock-project/sherlock",
       "owner": "sherlock-project",
       "description": "Hunt down social media accounts by username across social networks",
-      "stars": 109433,
-      "forks": 12693,
-      "stars_24h": 2393,
+      "stars": 110297,
+      "forks": 12771,
+      "stars_24h": 1483,
       "created_at": "2018-12-24T14:30:48+00:00",
       "language": "Python",
       "topics": [
@@ -264,169 +474,7 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 1510,
-      "open_issues": 409
-    },
-    {
-      "name": "tokio-rs/topcoat",
-      "owner": "tokio-rs",
-      "description": "A batteries-included framework for building web apps",
-      "stars": 6974,
-      "forks": 309,
-      "stars_24h": 192,
-      "created_at": "2026-04-03T14:27:27+00:00",
-      "language": "Rust",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 43,
-      "open_issues": 60
-    },
-    {
-      "name": "ranxianglei/billion-context",
-      "owner": "ranxianglei",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "stars": 6546,
-      "forks": 540,
-      "stars_24h": 375,
-      "created_at": "2026-08-06T08:27:34+00:00",
-      "language": "TypeScript",
-      "topics": [
-        "dsh-plugin"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 16,
-      "open_issues": 987
-    },
-    {
-      "name": "mattpocock/skills",
-      "owner": "mattpocock",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 321245,
-      "forks": 26933,
-      "stars_24h": 1225,
-      "created_at": "2026-02-03T11:15:53+00:00",
-      "language": "Shell",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 1650,
-      "open_issues": 233
-    },
-    {
-      "name": "OpenBMB/VoxCPM",
-      "owner": "OpenBMB",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 42231,
-      "forks": 4818,
-      "stars_24h": 140,
-      "created_at": "2025-09-16T03:41:49+00:00",
-      "language": "Python",
-      "topics": [
-        "audio",
-        "deeplearning",
-        "minicpm",
-        "multilingual",
-        "python",
-        "pytorch",
-        "speech",
-        "speech-synthesis",
-        "text-to-speech",
-        "tts",
-        "tts-model",
-        "voice-cloning",
-        "voice-design",
-        "voxcpm"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 165,
-      "open_issues": 175
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "owner": "debpalash",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 107562,
-      "forks": 11913,
-      "stars_24h": 1207,
-      "created_at": "2026-04-09T21:40:26+00:00",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "audiobook",
-        "cuda",
-        "dubbing",
-        "elevenlabs-alternative",
-        "huggingface",
-        "local-first",
-        "mlx",
-        "omnivoice-studio",
-        "speech-to-text",
-        "text-to-speech",
-        "transcription",
-        "translate",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "voicestudio",
-        "workflow"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "IDE",
-        "workflow"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 360,
-      "open_issues": 32
-    },
-    {
-      "name": "ashishpatel26/500-AI-Agents-Projects",
-      "owner": "ashishpatel26",
-      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
-      "stars": 39673,
-      "forks": 7114,
-      "stars_24h": 126,
-      "created_at": "2024-12-20T13:37:15+00:00",
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "genai"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 420,
-      "open_issues": 54
+      "open_issues": 410
     }
   ],
   "github_new": [],
@@ -465,36 +513,64 @@
   ],
   "markets": [
     {
-      "title": "Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B",
-      "summary": "This market refers to the Counter-Strike match between Spirit and FUT Esports in the BLAST Rivals Group B, initially sch",
-      "volume": "$894,369",
+      "title": "Jensen Huang announced resignation or removal by December 31, 2026?",
+      "summary": "This market will resolve to “Yes” if Jensen Huang’s departure through resignation or removal as CEO of NVIDIA is officia",
+      "volume": "$3,923,449",
       "odds_change": null,
-      "url": "https://polymarket.com/event/cs2-ts7-fut-2026-11-11"
+      "url": "https://polymarket.com/event/jensen-huang-announced-resignation-or-removal-by-december-31"
     },
     {
-      "title": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
-      "summary": "This market will resolve to \"Josh Hokit\" if Josh Hokit is officially declared the winner of the fight against Ciryl Gane",
-      "volume": "$531,637",
+      "title": "Jensen Huang announced resignation or removal by November 12, 2026?",
+      "summary": "This market will resolve to “Yes” if Jensen Huang’s departure through resignation or removal as CEO of NVIDIA is officia",
+      "volume": "$2,571,278",
       "odds_change": null,
-      "url": "https://polymarket.com/event/ufc-jos52-cir-2026-11-14"
+      "url": "https://polymarket.com/event/jensen-huang-announced-resignation-or-removal-by-november-12-2026"
     }
   ],
   "leaderboards": {
     "daily": [
       {
         "name": "meta/astryx",
-        "stars": 23652,
-        "growth": 2698,
+        "stars": 25598,
+        "growth": 1946,
         "description": "An open source design system that's fully customizable and agent ready",
         "language": "TypeScript",
         "topics": [],
-        "forks": 1856,
-        "stars_24h": 3108
+        "forks": 1992,
+        "stars_24h": 2776
+      },
+      {
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": 70755,
+        "growth": 1474,
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "forks": 57009,
+        "stars_24h": 278
+      },
+      {
+        "name": "we-promise/sure",
+        "stars": 13239,
+        "growth": 981,
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "topics": [],
+        "forks": 977,
+        "stars_24h": 1078
       },
       {
         "name": "sherlock-project/sherlock",
-        "stars": 109433,
-        "growth": 1601,
+        "stars": 110297,
+        "growth": 864,
         "description": "Hunt down social media accounts by username across social networks",
         "language": "Python",
         "topics": [
@@ -515,65 +591,30 @@
           "sherlock",
           "tools"
         ],
-        "forks": 12693,
-        "stars_24h": 2393
+        "forks": 12771,
+        "stars_24h": 1483
       },
       {
-        "name": "anthropics/skills",
-        "stars": 192624,
-        "growth": 1159,
-        "description": "Public repository for Agent Skills",
-        "language": "Python",
+        "name": "addyosmani/agent-skills",
+        "stars": 116179,
+        "growth": 794,
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
         "topics": [
-          "agent-skills"
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
         ],
-        "forks": 22673,
-        "stars_24h": 1679
-      },
-      {
-        "name": "debpalash/VoiceStudio",
-        "stars": 107562,
-        "growth": 1025,
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "topics": [
-          "ai",
-          "audiobook",
-          "cuda",
-          "dubbing",
-          "elevenlabs-alternative",
-          "huggingface",
-          "local-first",
-          "mlx",
-          "omnivoice-studio",
-          "speech-to-text",
-          "text-to-speech",
-          "transcription",
-          "translate",
-          "tts",
-          "voice-ai",
-          "voice-cloning",
-          "voice-generation",
-          "voicestudio",
-          "workflow"
-        ],
-        "forks": 11913,
-        "stars_24h": 1207
-      },
-      {
-        "name": "vercel-labs/agent-browser",
-        "stars": 49446,
-        "growth": 706,
-        "description": "Browser automation CLI for AI agents",
-        "language": "Rust",
-        "topics": [],
-        "forks": 3463,
-        "stars_24h": 780
+        "forks": 12174,
+        "stars_24h": 787
       },
       {
         "name": "homeassistant-ai/ha-mcp",
-        "stars": 6828,
-        "growth": 626,
+        "stars": 7560,
+        "growth": 732,
         "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
         "language": "Python",
         "topics": [
@@ -586,84 +627,47 @@
           "mcp",
           "model-context-protocol"
         ],
-        "forks": 439,
-        "stars_24h": 790
+        "forks": 459,
+        "stars_24h": 645
       },
       {
-        "name": "anthropics/claude-quickstarts",
-        "stars": 20634,
-        "growth": 460,
-        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "name": "anthropics/skills",
+        "stars": 193326,
+        "growth": 702,
+        "description": "Public repository for Agent Skills",
         "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "forks": 22748,
+        "stars_24h": 1032
+      },
+      {
+        "name": "vercel-labs/agent-browser",
+        "stars": 50064,
+        "growth": 618,
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
         "topics": [],
-        "forks": 3477,
-        "stars_24h": 531
-      },
-      {
-        "name": "google-deepmind/mujoco",
-        "stars": 17498,
-        "growth": 422,
-        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-        "language": "C++",
-        "topics": [
-          "mujoco",
-          "physics",
-          "robotics"
-        ],
-        "forks": 2159,
-        "stars_24h": 456
-      },
-      {
-        "name": "OpenBMB/VoxCPM",
-        "stars": 42231,
-        "growth": 80,
-        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "language": "Python",
-        "topics": [
-          "audio",
-          "deeplearning",
-          "minicpm",
-          "multilingual",
-          "python",
-          "pytorch",
-          "speech",
-          "speech-synthesis",
-          "text-to-speech",
-          "tts",
-          "tts-model",
-          "voice-cloning",
-          "voice-design",
-          "voxcpm"
-        ],
-        "forks": 4818,
-        "stars_24h": 140
+        "forks": 3494,
+        "stars_24h": 708
       }
     ],
     "weekly": [
       {
-        "name": "mattpocock/skills",
-        "stars": 321245,
-        "growth": 9445,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "topics": [],
-        "forks": 26933,
-        "stars_24h": 1225
-      },
-      {
         "name": "meta/astryx",
-        "stars": 23652,
-        "growth": 8885,
+        "stars": 25598,
+        "growth": 10831,
         "description": "An open source design system that's fully customizable and agent ready",
         "language": "TypeScript",
         "topics": [],
-        "forks": 1856,
-        "stars_24h": 3108
+        "forks": 1992,
+        "stars_24h": 2776
       },
       {
         "name": "sherlock-project/sherlock",
-        "stars": 109433,
-        "growth": 8329,
+        "stars": 110297,
+        "growth": 9193,
         "description": "Hunt down social media accounts by username across social networks",
         "language": "Python",
         "topics": [
@@ -684,89 +688,37 @@
           "sherlock",
           "tools"
         ],
-        "forks": 12693,
-        "stars_24h": 2393
+        "forks": 12771,
+        "stars_24h": 1483
       },
       {
         "name": "anthropics/skills",
-        "stars": 192624,
-        "growth": 3683,
+        "stars": 193326,
+        "growth": 4385,
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "topics": [
           "agent-skills"
         ],
-        "forks": 22673,
-        "stars_24h": 1679
+        "forks": 22748,
+        "stars_24h": 1032
       },
       {
         "name": "vercel-labs/agent-browser",
-        "stars": 49446,
-        "growth": 3344,
+        "stars": 50064,
+        "growth": 3962,
         "description": "Browser automation CLI for AI agents",
         "language": "Rust",
         "topics": [],
-        "forks": 3463,
-        "stars_24h": 780
-      },
-      {
-        "name": "ranxianglei/billion-context",
-        "stars": 6546,
-        "growth": 1818,
-        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-        "language": "TypeScript",
-        "topics": [
-          "dsh-plugin"
-        ],
-        "forks": 540,
-        "stars_24h": 375
+        "forks": 3494,
+        "stars_24h": 708
       }
     ],
     "monthly": [
       {
-        "name": "debpalash/VoiceStudio",
-        "stars": 107562,
-        "growth": 48374,
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "topics": [
-          "ai",
-          "audiobook",
-          "cuda",
-          "dubbing",
-          "elevenlabs-alternative",
-          "huggingface",
-          "local-first",
-          "mlx",
-          "omnivoice-studio",
-          "speech-to-text",
-          "text-to-speech",
-          "transcription",
-          "translate",
-          "tts",
-          "voice-ai",
-          "voice-cloning",
-          "voice-generation",
-          "voicestudio",
-          "workflow"
-        ],
-        "forks": 11913,
-        "stars_24h": 1207
-      },
-      {
-        "name": "mattpocock/skills",
-        "stars": 321245,
-        "growth": 36366,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "topics": [],
-        "forks": 26933,
-        "stars_24h": 1225
-      },
-      {
         "name": "addyosmani/agent-skills",
-        "stars": 115385,
-        "growth": 11215,
+        "stars": 116179,
+        "growth": 12009,
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "JavaScript",
         "topics": [
@@ -777,15 +729,15 @@
           "cursor",
           "skills"
         ],
-        "forks": 12110,
-        "stars_24h": 465
+        "forks": 12174,
+        "stars_24h": 787
       }
     ],
     "3month": [
       {
         "name": "addyosmani/agent-skills",
-        "stars": 115385,
-        "growth": 29102,
+        "stars": 116179,
+        "growth": 29896,
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "JavaScript",
         "topics": [
@@ -796,44 +748,70 @@
           "cursor",
           "skills"
         ],
-        "forks": 12110,
-        "stars_24h": 465
+        "forks": 12174,
+        "stars_24h": 787
       },
       {
         "name": "anthropics/skills",
-        "stars": 192624,
-        "growth": 23521,
+        "stars": 193326,
+        "growth": 24223,
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "topics": [
           "agent-skills"
         ],
-        "forks": 22673,
-        "stars_24h": 1679
+        "forks": 22748,
+        "stars_24h": 1032
+      },
+      {
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": 70755,
+        "growth": 8534,
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "forks": 57009,
+        "stars_24h": 278
       }
     ],
     "6month": [
       {
-        "name": "mattpocock/skills",
-        "stars": 321245,
-        "growth": 236012,
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "topics": [],
-        "forks": 26933,
-        "stars_24h": 1225
-      },
-      {
         "name": "anthropics/skills",
-        "stars": 192624,
-        "growth": 57346,
+        "stars": 193326,
+        "growth": 57438,
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "topics": [
           "agent-skills"
         ],
-        "forks": 22673,
-        "stars_24h": 1679
+        "forks": 22748,
+        "stars_24h": 1032
+      },
+      {
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": 70755,
+        "growth": 33402,
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "forks": 57009,
+        "stars_24h": 278
       }
     ],
     "9month": [],
