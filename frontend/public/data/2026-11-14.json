@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-14T07:07:57.589531",
+  "brief": [
+    {
+      "conclusion": "GoogleChrome/modern-web-guidance-src 24h +1925 stars — Keep your coding agent up to date with the latest web best p",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 5,090",
+      "evidence_urls": [
+        "https://github.com/GoogleChrome/modern-web-guidance-src"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "we-promise/sure 24h +925 stars — The personal finance app for everyone (by everyone)",
+      "why_hot": "新项目爆发，语言: Ruby，总 stars: 14,888",
+      "evidence_urls": [
+        "https://github.com/we-promise/sure"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "openai/codex-security 24h +751 stars — OpenAI's Codex Security CLI and TypeScript SDK for finding, ",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 13,274",
+      "evidence_urls": [
+        "https://github.com/openai/codex-security"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] like,c omment and  RT（0成本）",
+      "why_hot": "来自 Endorphina 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Endorphina"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Hop in the DeLorean. Win $50 USDT with Asterium（0成本）",
+      "why_hot": "来自 Asterium 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Asterium"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 50849,
+      "forks": 3786,
+      "stars_24h": 215,
+      "created_at": "2026-05-18T02:16:36+00:00",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 145,
+      "open_issues": 340
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "owner": "GoogleChrome",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "stars": 5090,
+      "forks": 279,
+      "stars_24h": 1925,
+      "created_at": "2026-01-27T20:22:24+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 48,
+      "open_issues": 389
+    },
+    {
+      "name": "openai/codex-security",
+      "owner": "openai",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "stars": 13274,
+      "forks": 1028,
+      "stars_24h": 751,
+      "created_at": "2026-07-13T22:00:13+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ai-security",
+        "application-security",
+        "cli",
+        "code-scanning",
+        "codex",
+        "codex-security",
+        "cybersecurity",
+        "devsecops",
+        "nodejs",
+        "npm",
+        "openai",
+        "sdk",
+        "security",
+        "typescript",
+        "vulnerability-scanning"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 50,
+      "open_issues": 170
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 71877,
+      "forks": 57366,
+      "stars_24h": 256,
+      "created_at": "2026-01-10T06:43:20+00:00",
+      "language": "Python",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "llm",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 284,
+      "open_issues": 59
+    },
+    {
+      "name": "we-promise/sure",
+      "owner": "we-promise",
+      "description": "The personal finance app for everyone (by everyone)",
+      "stars": 14888,
+      "forks": 1132,
+      "stars_24h": 925,
+      "created_at": "2025-07-23T04:13:55+00:00",
+      "language": "Ruby",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 42,
+      "open_issues": 914
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "owner": "backnotprop",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "stars": 10568,
+      "forks": 791,
+      "stars_24h": 108,
+      "created_at": "2025-12-28T02:09:40+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "claude-code",
+        "code-review",
+        "codex",
+        "obsidian",
+        "opencode",
+        "pi-mono",
+        "plan-mode",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 24,
+      "open_issues": 210
+    },
+    {
+      "name": "louislam/uptime-kuma",
+      "owner": "louislam",
+      "description": "A fancy self-hosted monitoring tool",
+      "stars": 93965,
+      "forks": 8728,
+      "stars_24h": 71,
+      "created_at": "2021-07-03T01:02:42+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "docker",
+        "monitor",
+        "monitoring",
+        "responsive",
+        "self-hosted",
+        "selfhosted",
+        "single-page-app",
+        "socket-io",
+        "uptime",
+        "uptime-monitoring",
+        "webapp",
+        "websocket"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 317,
+      "open_issues": 855
+    },
+    {
+      "name": "block/buzz",
+      "owner": "block",
+      "description": "A hive mind communication platform",
+      "stars": 37362,
+      "forks": 4944,
+      "stars_24h": 97,
+      "created_at": "2026-03-06T21:00:56+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 151,
+      "open_issues": 3838
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "owner": "tradermonty",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "stars": 4311,
+      "forks": 881,
+      "stars_24h": 69,
+      "created_at": "2025-10-19T16:37:29+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 42,
+      "open_issues": 86
+    },
+    {
+      "name": "tailscale/tailcat",
+      "owner": "tailscale",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "stars": 9576,
+      "forks": 435,
+      "stars_24h": 256,
+      "created_at": "2024-10-29T17:21:12+00:00",
+      "language": "Go",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 30,
+      "open_issues": 42
+    },
+    {
+      "name": "Likely7/Veyra-NRVideo",
+      "owner": "Likely7",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "stars": 1725,
+      "forks": 77,
+      "stars_24h": 256,
+      "created_at": "2026-09-09T10:58:42+00:00",
+      "language": "C++",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 9,
+      "open_issues": 62
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 55689,
+      "forks": 4614,
+      "stars_24h": 67,
+      "created_at": "2025-09-11T10:39:55+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "browser",
+        "chrome",
+        "chrome-devtools",
+        "debugging",
+        "devtools",
+        "mcp",
+        "mcp-server",
+        "puppeteer"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 250,
+      "open_issues": 118
+    },
+    {
+      "name": "Tencent-Hunyuan/Hy-MT2",
+      "owner": "Tencent-Hunyuan",
+      "description": "",
+      "stars": 1754,
+      "forks": 185,
+      "stars_24h": 28,
+      "created_at": "2026-05-18T07:54:11+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 11,
+      "open_issues": 14
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "owner": "davila7",
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "stars": 33499,
+      "forks": 3935,
+      "stars_24h": 62,
+      "created_at": "2025-07-04T01:26:26+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code",
+        "claude-code-plugins",
+        "cli",
+        "mcp",
+        "registry"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 192,
+      "open_issues": 510
+    },
+    {
+      "name": "avenoxai/avenoxbeyin",
+      "owner": "avenoxai",
+      "description": "Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md",
+      "stars": 460,
+      "forks": 75,
+      "stars_24h": 51,
+      "created_at": "2026-06-29T21:55:11+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 8,
+      "open_issues": 40
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "like,c omment and  RT",
+      "task_type": "积分任务",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1794006000,
+      "url": "https://galxe.com/Endorphina",
+      "note": "来自 Endorphina 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Hop in the DeLorean. Win $50 USDT with Asterium",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793473200,
+      "url": "https://galxe.com/Asterium",
+      "note": "来自 Asterium 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Open M.EDGE TestFlight",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": null,
+      "url": "https://galxe.com/M.EDGE",
+      "note": "来自 M.EDGE 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs",
+      "summary": "This market refers to the Counter-Strike Semifinal 1 match between Spirit and MOUZ in the BLAST Rivals Playoffs, initial",
+      "volume": "$679,489",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/cs2-ts7-mouz-2026-11-14"
+    },
+    {
+      "title": "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
+      "summary": "This market refers to the Counter-Strike Semifinal 2 match between FURIA and Team Falcons in the BLAST Rivals Playoffs, ",
+      "volume": "$547,282",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/cs2-furia-fal2-2026-11-14"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "GoogleChrome/modern-web-guidance-src",
+        "stars": 5090,
+        "growth": 1425,
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 279,
+        "stars_24h": 1925
+      },
+      {
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": 71877,
+        "growth": 735,
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "forks": 57366,
+        "stars_24h": 256
+      },
+      {
+        "name": "we-promise/sure",
+        "stars": 14888,
+        "growth": 698,
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "topics": [],
+        "forks": 1132,
+        "stars_24h": 925
+      },
+      {
+        "name": "openai/codex-security",
+        "stars": 13274,
+        "growth": 604,
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "language": "TypeScript",
+        "topics": [
+          "ai-security",
+          "application-security",
+          "cli",
+          "code-scanning",
+          "codex",
+          "codex-security",
+          "cybersecurity",
+          "devsecops",
+          "nodejs",
+          "npm",
+          "openai",
+          "sdk",
+          "security",
+          "typescript",
+          "vulnerability-scanning"
+        ],
+        "forks": 1028,
+        "stars_24h": 751
+      }
+    ],
+    "weekly": [
+      {
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": 71877,
+        "growth": 2596,
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "forks": 57366,
+        "stars_24h": 256
+      }
+    ],
+    "monthly": [],
+    "3month": [],
+    "6month": [
+      {
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": 71877,
+        "growth": 34524,
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "forks": 57366,
+        "stars_24h": 256
+      },
+      {
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": 55689,
+        "growth": 15096,
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "forks": 4614,
+        "stars_24h": 67
+      }
+    ],
+    "9month": [],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}

@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-13T07:27:15.148945",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-14T07:07:57.589531",
   "brief": [
     {
-      "conclusion": "meta/astryx 24h +1830 stars — An open source design system that's fully customizable and a",
-      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 26,904",
+      "conclusion": "GoogleChrome/modern-web-guidance-src 24h +1925 stars — Keep your coding agent up to date with the latest web best p",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 5,090",
       "evidence_urls": [
-        "https://github.com/meta/astryx"
+        "https://github.com/GoogleChrome/modern-web-guidance-src"
       ],
       "category": "github"
     },
     {
-      "conclusion": "ZhuLinsen/daily_stock_analysis 24h +1294 stars — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-power",
-      "why_hot": "新项目爆发，语言: Python，总 stars: 71,142",
-      "evidence_urls": [
-        "https://github.com/ZhuLinsen/daily_stock_analysis"
-      ],
-      "category": "github"
-    },
-    {
-      "conclusion": "we-promise/sure 24h +967 stars — The personal finance app for everyone (by everyone)",
-      "why_hot": "新项目爆发，语言: Ruby，总 stars: 14,190",
+      "conclusion": "we-promise/sure 24h +925 stars — The personal finance app for everyone (by everyone)",
+      "why_hot": "新项目爆发，语言: Ruby，总 stars: 14,888",
       "evidence_urls": [
         "https://github.com/we-promise/sure"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "openai/codex-security 24h +751 stars — OpenAI's Codex Security CLI and TypeScript SDK for finding, ",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 13,274",
+      "evidence_urls": [
+        "https://github.com/openai/codex-security"
       ],
       "category": "github"
     },
@@ -46,12 +46,41 @@
   "top_tweets": [],
   "github_trending": [
     {
+      "name": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 50849,
+      "forks": 3786,
+      "stars_24h": 215,
+      "created_at": "2026-05-18T02:16:36+00:00",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 145,
+      "open_issues": 340
+    },
+    {
       "name": "GoogleChrome/modern-web-guidance-src",
       "owner": "GoogleChrome",
       "description": "Keep your coding agent up to date with the latest web best practices",
-      "stars": 3665,
-      "forks": 225,
-      "stars_24h": 739,
+      "stars": 5090,
+      "forks": 279,
+      "stars_24h": 1925,
       "created_at": "2026-01-27T20:22:24+00:00",
       "language": "TypeScript",
       "topics": [],
@@ -62,16 +91,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 43,
-      "open_issues": 385
+      "watchers": 48,
+      "open_issues": 389
     },
     {
       "name": "openai/codex-security",
       "owner": "openai",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "stars": 12670,
-      "forks": 991,
-      "stars_24h": 643,
+      "stars": 13274,
+      "forks": 1028,
+      "stars_24h": 751,
       "created_at": "2026-07-13T22:00:13+00:00",
       "language": "TypeScript",
       "topics": [
@@ -98,321 +127,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 45,
-      "open_issues": 146
-    },
-    {
-      "name": "nvm-sh/nvm",
-      "owner": "nvm-sh",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "stars": 96065,
-      "forks": 10761,
-      "stars_24h": 63,
-      "created_at": "2010-04-15T17:47:47+00:00",
-      "language": "Shell",
-      "topics": [
-        "bash",
-        "install",
-        "lts",
-        "node",
-        "node-js",
-        "nodejs",
-        "nvm",
-        "nvmrc",
-        "posix",
-        "posix-compliant",
-        "shell",
-        "version-manager",
-        "zsh"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 1149,
-      "open_issues": 374
-    },
-    {
-      "name": "pookjw/HermesEnabler",
-      "owner": "pookjw",
-      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
-      "stars": 1653,
-      "forks": 145,
-      "stars_24h": 218,
-      "created_at": "2024-12-14T11:32:03+00:00",
-      "language": "Objective-C",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 8,
-      "open_issues": 59
-    },
-    {
-      "name": "we-promise/sure",
-      "owner": "we-promise",
-      "description": "The personal finance app for everyone (by everyone)",
-      "stars": 14190,
-      "forks": 1068,
-      "stars_24h": 967,
-      "created_at": "2025-07-23T04:13:55+00:00",
-      "language": "Ruby",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 41,
-      "open_issues": 902
-    },
-    {
-      "name": "QwenLM/qwen-code",
-      "owner": "QwenLM",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 29990,
-      "forks": 3410,
-      "stars_24h": 151,
-      "created_at": "2025-06-26T01:37:46+00:00",
-      "language": "TypeScript",
-      "topics": [
-        "agentic",
-        "ai",
-        "ai-agent",
-        "ai-coding",
-        "cli",
-        "coding-agent",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "qwen",
-        "terminal",
-        "typescript"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 148,
-      "open_issues": 2252
-    },
-    {
-      "name": "ashhart/TensorFold",
-      "owner": "ashhart",
-      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
-      "stars": 2021,
-      "forks": 397,
-      "stars_24h": 54,
-      "created_at": "2026-06-19T20:27:39+00:00",
-      "language": "Zig",
-      "topics": [
-        "ai",
-        "ai-tools",
-        "llm",
-        "llm-inference",
-        "llm-tools"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 11,
-      "open_issues": 569
-    },
-    {
-      "name": "nodejs/node",
-      "owner": "nodejs",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "stars": 123657,
-      "forks": 38060,
-      "stars_24h": 62,
-      "created_at": "2014-11-26T19:57:11+00:00",
-      "language": "JavaScript",
-      "topics": [
-        "javascript",
-        "js",
-        "linux",
-        "macos",
-        "mit",
-        "node",
-        "nodejs",
-        "runtime",
-        "windows"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 3082,
-      "open_issues": 1338
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "owner": "addyosmani",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 116859,
-      "forks": 12220,
-      "stars_24h": 816,
-      "created_at": "2026-02-15T20:20:26+00:00",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 574,
-      "open_issues": 137
-    },
-    {
-      "name": "meta/astryx",
-      "owner": "meta",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "stars": 26904,
-      "forks": 2086,
-      "stars_24h": 1830,
-      "created_at": "2026-01-09T16:20:32+00:00",
-      "language": "TypeScript",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 96,
-      "open_issues": 618
-    },
-    {
-      "name": "CopilotKit/OpenBot",
-      "owner": "CopilotKit",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "stars": 11863,
-      "forks": 1457,
-      "stars_24h": 298,
-      "created_at": "2026-08-17T00:44:59+00:00",
-      "language": "TypeScript",
-      "topics": [
-        "ag-ui",
-        "agent-governance",
-        "ai-agents",
-        "browser-automation",
-        "copilotkit",
-        "generative-ui",
-        "mcp"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "coding agent",
-        "IDE",
-        "workflow",
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 44,
-      "open_issues": 92
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "owner": "Alishahryar1",
-      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "stars": 69561,
-      "forks": 10799,
-      "stars_24h": 415,
-      "created_at": "2026-01-28T19:02:30+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "IDE"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 468,
-      "open_issues": 399
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "owner": "ggml-org",
-      "description": "LLM inference in C/C++",
-      "stars": 134725,
-      "forks": 25528,
-      "stars_24h": 176,
-      "created_at": "2023-03-10T18:58:00+00:00",
-      "language": "C++",
-      "topics": [
-        "ggml"
-      ],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 925,
-      "open_issues": 2588
-    },
-    {
-      "name": "openai/whisper",
-      "owner": "openai",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "stars": 112625,
-      "forks": 13657,
-      "stars_24h": 113,
-      "created_at": "2022-09-16T20:02:54+00:00",
-      "language": "Python",
-      "topics": [],
-      "readme_summary": "",
-      "relevance_tags": [
-        "tooling"
-      ],
-      "is_new": false,
-      "trending_days": 1,
-      "trend_status": "new",
-      "watchers": 833,
-      "open_issues": 183
+      "watchers": 50,
+      "open_issues": 170
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "owner": "ZhuLinsen",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 71142,
-      "forks": 57173,
-      "stars_24h": 1294,
+      "stars": 71877,
+      "forks": 57366,
+      "stars_24h": 256,
       "created_at": "2026-01-10T06:43:20+00:00",
       "language": "Python",
       "topics": [
@@ -431,8 +155,274 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 280,
-      "open_issues": 54
+      "watchers": 284,
+      "open_issues": 59
+    },
+    {
+      "name": "we-promise/sure",
+      "owner": "we-promise",
+      "description": "The personal finance app for everyone (by everyone)",
+      "stars": 14888,
+      "forks": 1132,
+      "stars_24h": 925,
+      "created_at": "2025-07-23T04:13:55+00:00",
+      "language": "Ruby",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 42,
+      "open_issues": 914
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "owner": "backnotprop",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "stars": 10568,
+      "forks": 791,
+      "stars_24h": 108,
+      "created_at": "2025-12-28T02:09:40+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "claude-code",
+        "code-review",
+        "codex",
+        "obsidian",
+        "opencode",
+        "pi-mono",
+        "plan-mode",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 24,
+      "open_issues": 210
+    },
+    {
+      "name": "louislam/uptime-kuma",
+      "owner": "louislam",
+      "description": "A fancy self-hosted monitoring tool",
+      "stars": 93965,
+      "forks": 8728,
+      "stars_24h": 71,
+      "created_at": "2021-07-03T01:02:42+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "docker",
+        "monitor",
+        "monitoring",
+        "responsive",
+        "self-hosted",
+        "selfhosted",
+        "single-page-app",
+        "socket-io",
+        "uptime",
+        "uptime-monitoring",
+        "webapp",
+        "websocket"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 317,
+      "open_issues": 855
+    },
+    {
+      "name": "block/buzz",
+      "owner": "block",
+      "description": "A hive mind communication platform",
+      "stars": 37362,
+      "forks": 4944,
+      "stars_24h": 97,
+      "created_at": "2026-03-06T21:00:56+00:00",
+      "language": "Rust",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 151,
+      "open_issues": 3838
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "owner": "tradermonty",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "stars": 4311,
+      "forks": 881,
+      "stars_24h": 69,
+      "created_at": "2025-10-19T16:37:29+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 42,
+      "open_issues": 86
+    },
+    {
+      "name": "tailscale/tailcat",
+      "owner": "tailscale",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "stars": 9576,
+      "forks": 435,
+      "stars_24h": 256,
+      "created_at": "2024-10-29T17:21:12+00:00",
+      "language": "Go",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 30,
+      "open_issues": 42
+    },
+    {
+      "name": "Likely7/Veyra-NRVideo",
+      "owner": "Likely7",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "stars": 1725,
+      "forks": 77,
+      "stars_24h": 256,
+      "created_at": "2026-09-09T10:58:42+00:00",
+      "language": "C++",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 9,
+      "open_issues": 62
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 55689,
+      "forks": 4614,
+      "stars_24h": 67,
+      "created_at": "2025-09-11T10:39:55+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "browser",
+        "chrome",
+        "chrome-devtools",
+        "debugging",
+        "devtools",
+        "mcp",
+        "mcp-server",
+        "puppeteer"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 250,
+      "open_issues": 118
+    },
+    {
+      "name": "Tencent-Hunyuan/Hy-MT2",
+      "owner": "Tencent-Hunyuan",
+      "description": "",
+      "stars": 1754,
+      "forks": 185,
+      "stars_24h": 28,
+      "created_at": "2026-05-18T07:54:11+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 11,
+      "open_issues": 14
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "owner": "davila7",
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "stars": 33499,
+      "forks": 3935,
+      "stars_24h": 62,
+      "created_at": "2025-07-04T01:26:26+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code",
+        "claude-code-plugins",
+        "cli",
+        "mcp",
+        "registry"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 192,
+      "open_issues": 510
+    },
+    {
+      "name": "avenoxai/avenoxbeyin",
+      "owner": "avenoxai",
+      "description": "Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md",
+      "stars": 460,
+      "forks": 75,
+      "stars_24h": 51,
+      "created_at": "2026-06-29T21:55:11+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 8,
+      "open_issues": 40
     }
   ],
   "github_new": [],
@@ -471,56 +461,64 @@
   ],
   "markets": [
     {
-      "title": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
-      "summary": "This market will resolve to \"Josh Hokit\" if Josh Hokit is officially declared the winner of the fight against Ciryl Gane",
-      "volume": "$1,167,164",
+      "title": "Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs",
+      "summary": "This market refers to the Counter-Strike Semifinal 1 match between Spirit and MOUZ in the BLAST Rivals Playoffs, initial",
+      "volume": "$679,489",
       "odds_change": null,
-      "url": "https://polymarket.com/event/ufc-jos52-cir-2026-11-14"
+      "url": "https://polymarket.com/event/cs2-ts7-mouz-2026-11-14"
     },
     {
-      "title": "Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs",
-      "summary": "This market refers to the Counter-Strike Quarterfinal 1 match between Vitality and MOUZ in the BLAST Rivals Playoffs, in",
-      "volume": "$736,263",
+      "title": "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
+      "summary": "This market refers to the Counter-Strike Semifinal 2 match between FURIA and Team Falcons in the BLAST Rivals Playoffs, ",
+      "volume": "$547,282",
       "odds_change": null,
-      "url": "https://polymarket.com/event/cs2-vit-mouz-2026-11-13"
+      "url": "https://polymarket.com/event/cs2-furia-fal2-2026-11-14"
     }
   ],
   "leaderboards": {
     "daily": [
       {
         "name": "GoogleChrome/modern-web-guidance-src",
-        "stars": 3665,
-        "growth": 1630,
+        "stars": 5090,
+        "growth": 1425,
         "description": "Keep your coding agent up to date with the latest web best practices",
         "language": "TypeScript",
         "topics": [],
-        "forks": 225,
-        "stars_24h": 739
+        "forks": 279,
+        "stars_24h": 1925
       },
       {
-        "name": "meta/astryx",
-        "stars": 26904,
-        "growth": 1306,
-        "description": "An open source design system that's fully customizable and agent ready",
-        "language": "TypeScript",
-        "topics": [],
-        "forks": 2086,
-        "stars_24h": 1830
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": 71877,
+        "growth": 735,
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "forks": 57366,
+        "stars_24h": 256
       },
       {
         "name": "we-promise/sure",
-        "stars": 14190,
-        "growth": 951,
+        "stars": 14888,
+        "growth": 698,
         "description": "The personal finance app for everyone (by everyone)",
         "language": "Ruby",
         "topics": [],
-        "forks": 1068,
-        "stars_24h": 967
+        "forks": 1132,
+        "stars_24h": 925
       },
       {
         "name": "openai/codex-security",
-        "stars": 12670,
-        "growth": 719,
+        "stars": 13274,
+        "growth": 604,
         "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
         "language": "TypeScript",
         "topics": [
@@ -540,109 +538,15 @@
           "typescript",
           "vulnerability-scanning"
         ],
-        "forks": 991,
-        "stars_24h": 643
-      },
-      {
-        "name": "addyosmani/agent-skills",
-        "stars": 116859,
-        "growth": 680,
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "topics": [
-          "agent-skills",
-          "antigravity",
-          "claude-code",
-          "codex",
-          "cursor",
-          "skills"
-        ],
-        "forks": 12220,
-        "stars_24h": 816
-      },
-      {
-        "name": "ZhuLinsen/daily_stock_analysis",
-        "stars": 71142,
-        "growth": 387,
-        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "language": "Python",
-        "topics": [
-          "a-stock",
-          "ai-agent",
-          "aigc",
-          "llm",
-          "quant",
-          "quantitative-finance",
-          "quantitative-trading"
-        ],
-        "forks": 57173,
-        "stars_24h": 1294
+        "forks": 1028,
+        "stars_24h": 751
       }
     ],
     "weekly": [
       {
-        "name": "meta/astryx",
-        "stars": 26904,
-        "growth": 12137,
-        "description": "An open source design system that's fully customizable and agent ready",
-        "language": "TypeScript",
-        "topics": [],
-        "forks": 2086,
-        "stars_24h": 1830
-      }
-    ],
-    "monthly": [
-      {
-        "name": "Alishahryar1/free-claude-code",
-        "stars": 69561,
-        "growth": 8964,
-        "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "language": "Python",
-        "topics": [],
-        "forks": 10799,
-        "stars_24h": 415
-      },
-      {
-        "name": "nvm-sh/nvm",
-        "stars": 96065,
-        "growth": 571,
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-        "language": "Shell",
-        "topics": [
-          "bash",
-          "install",
-          "lts",
-          "node",
-          "node-js",
-          "nodejs",
-          "nvm",
-          "nvmrc",
-          "posix",
-          "posix-compliant",
-          "shell",
-          "version-manager",
-          "zsh"
-        ],
-        "forks": 10761,
-        "stars_24h": 63
-      }
-    ],
-    "3month": [],
-    "6month": [
-      {
-        "name": "Alishahryar1/free-claude-code",
-        "stars": 69561,
-        "growth": 43089,
-        "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "language": "Python",
-        "topics": [],
-        "forks": 10799,
-        "stars_24h": 415
-      },
-      {
         "name": "ZhuLinsen/daily_stock_analysis",
-        "stars": 71142,
-        "growth": 33789,
+        "stars": 71877,
+        "growth": 2596,
         "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
         "language": "Python",
         "topics": [
@@ -654,47 +558,52 @@
           "quantitative-finance",
           "quantitative-trading"
         ],
-        "forks": 57173,
-        "stars_24h": 1294
+        "forks": 57366,
+        "stars_24h": 256
+      }
+    ],
+    "monthly": [],
+    "3month": [],
+    "6month": [
+      {
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": 71877,
+        "growth": 34524,
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "forks": 57366,
+        "stars_24h": 256
       },
       {
-        "name": "ggml-org/llama.cpp",
-        "stars": 134725,
-        "growth": 23576,
-        "description": "LLM inference in C/C++",
-        "language": "C++",
-        "topics": [
-          "ggml"
-        ],
-        "forks": 25528,
-        "stars_24h": 176
-      }
-    ],
-    "9month": [
-      {
-        "name": "QwenLM/qwen-code",
-        "stars": 29990,
-        "growth": 11102,
-        "description": "An open-source AI coding agent that lives in your terminal.",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": 55689,
+        "growth": 15096,
+        "description": "Chrome DevTools for coding agents",
         "language": "TypeScript",
         "topics": [
-          "agentic",
-          "ai",
-          "ai-agent",
-          "ai-coding",
-          "cli",
-          "coding-agent",
-          "developer-tools",
-          "llm",
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
           "mcp",
-          "qwen",
-          "terminal",
-          "typescript"
+          "mcp-server",
+          "puppeteer"
         ],
-        "forks": 3410,
-        "stars_24h": 151
+        "forks": 4614,
+        "stars_24h": 67
       }
     ],
+    "9month": [],
     "yearly": []
   },
   "meta": {
