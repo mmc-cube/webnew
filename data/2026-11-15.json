@@ -1,0 +1,809 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-15T07:19:05.095580",
+  "brief": [
+    {
+      "conclusion": "GoogleChrome/modern-web-guidance-src 24h +1231 stars — Keep your coding agent up to date with the latest web best p",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 6,318",
+      "evidence_urls": [
+        "https://github.com/GoogleChrome/modern-web-guidance-src"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "alibaba/open-code-review 24h +893 stars — Secure, fast, efficient, battle-tested at Alibaba's scale. H",
+      "why_hot": "新项目爆发，语言: Go，总 stars: 51,577",
+      "evidence_urls": [
+        "https://github.com/alibaba/open-code-review"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "ChromeDevTools/chrome-devtools-mcp 24h +664 stars — Chrome DevTools for coding agents",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 56,471",
+      "evidence_urls": [
+        "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] like,c omment and  RT（0成本）",
+      "why_hot": "来自 Endorphina 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Endorphina"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Hop in the DeLorean. Win $50 USDT with Asterium（0成本）",
+      "why_hot": "来自 Asterium 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Asterium"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "backnotprop/plannotator",
+      "owner": "backnotprop",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "stars": 11371,
+      "forks": 978,
+      "stars_24h": 408,
+      "created_at": "2025-12-28T02:09:40+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "claude-code",
+        "code-review",
+        "codex",
+        "obsidian",
+        "opencode",
+        "pi-mono",
+        "plan-mode",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 30,
+      "open_issues": 226
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "owner": "GoogleChrome",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "stars": 6318,
+      "forks": 475,
+      "stars_24h": 1231,
+      "created_at": "2026-01-27T20:22:24+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 50,
+      "open_issues": 393
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "owner": "tradermonty",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "stars": 5009,
+      "forks": 1050,
+      "stars_24h": 553,
+      "created_at": "2025-10-19T16:37:29+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 42,
+      "open_issues": 75
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 56471,
+      "forks": 4782,
+      "stars_24h": 664,
+      "created_at": "2025-09-11T10:39:55+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "browser",
+        "chrome",
+        "chrome-devtools",
+        "debugging",
+        "devtools",
+        "mcp",
+        "mcp-server",
+        "puppeteer"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 252,
+      "open_issues": 131
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 51577,
+      "forks": 3983,
+      "stars_24h": 893,
+      "created_at": "2026-05-18T02:16:36+00:00",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 146,
+      "open_issues": 341
+    },
+    {
+      "name": "QwenLM/qwen-code",
+      "owner": "QwenLM",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 30425,
+      "forks": 3523,
+      "stars_24h": 64,
+      "created_at": "2025-06-26T01:37:46+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agentic",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "qwen",
+        "terminal",
+        "typescript"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 148,
+      "open_issues": 2296
+    },
+    {
+      "name": "dream-num/univer",
+      "owner": "dream-num",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "stars": 25101,
+      "forks": 2296,
+      "stars_24h": 495,
+      "created_at": "2022-09-29T12:09:14+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "board",
+        "collaboration",
+        "doc",
+        "docx",
+        "excel",
+        "offce365",
+        "office",
+        "pdf",
+        "ppt",
+        "pptx",
+        "presentation",
+        "sdk",
+        "sheet",
+        "slides",
+        "spreadsheet",
+        "univer",
+        "word",
+        "wordprocessor",
+        "workspace",
+        "xlsx"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 519,
+      "open_issues": 166
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "owner": "ag-ui-protocol",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "stars": 17470,
+      "forks": 1718,
+      "stars_24h": 9,
+      "created_at": "2025-05-07T12:49:37+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ag-ui-protocol",
+        "agent-frontend",
+        "agent-ui",
+        "agentic-workflow",
+        "ai-agents"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 97,
+      "open_issues": 591
+    },
+    {
+      "name": "ashhart/TensorFold",
+      "owner": "ashhart",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "stars": 2206,
+      "forks": 517,
+      "stars_24h": 37,
+      "created_at": "2026-06-19T20:27:39+00:00",
+      "language": "Zig",
+      "topics": [
+        "ai",
+        "ai-tools",
+        "llm",
+        "llm-inference",
+        "llm-tools"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 11,
+      "open_issues": 602
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "owner": "JuliusBrussee",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 120187,
+      "forks": 7006,
+      "stars_24h": 227,
+      "created_at": "2026-04-04T10:03:00+00:00",
+      "language": "Go",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code",
+        "llm",
+        "meme",
+        "prompt-engineering",
+        "skill",
+        "tokens"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 259,
+      "open_issues": 88
+    },
+    {
+      "name": "louislam/uptime-kuma",
+      "owner": "louislam",
+      "description": "A fancy self-hosted monitoring tool",
+      "stars": 94326,
+      "forks": 8836,
+      "stars_24h": 430,
+      "created_at": "2021-07-03T01:02:42+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "docker",
+        "monitor",
+        "monitoring",
+        "responsive",
+        "self-hosted",
+        "selfhosted",
+        "single-page-app",
+        "socket-io",
+        "uptime",
+        "uptime-monitoring",
+        "webapp",
+        "websocket"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 319,
+      "open_issues": 855
+    },
+    {
+      "name": "we-promise/sure",
+      "owner": "we-promise",
+      "description": "The personal finance app for everyone (by everyone)",
+      "stars": 15439,
+      "forks": 1319,
+      "stars_24h": 659,
+      "created_at": "2025-07-23T04:13:55+00:00",
+      "language": "Ruby",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 43,
+      "open_issues": 944
+    },
+    {
+      "name": "Tencent/LoopForge",
+      "owner": "Tencent",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "stars": 1020,
+      "forks": 232,
+      "stars_24h": 33,
+      "created_at": "2026-07-28T03:51:01+00:00",
+      "language": "Go",
+      "topics": [
+        "agent-orchestration",
+        "agentic-workflow",
+        "ai-agents",
+        "ai-coding",
+        "claude-code",
+        "code-review",
+        "codebuddy",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "human-on-the-loop",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "sdlc",
+        "self-hosted",
+        "sop",
+        "workflow-automation",
+        "workflow-engine"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 8,
+      "open_issues": 68
+    },
+    {
+      "name": "Likely7/Veyra-NRVideo",
+      "owner": "Likely7",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "stars": 2424,
+      "forks": 204,
+      "stars_24h": 420,
+      "created_at": "2026-09-09T10:58:42+00:00",
+      "language": "C++",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 9,
+      "open_issues": 71
+    },
+    {
+      "name": "martin-olivier/airgorah",
+      "owner": "martin-olivier",
+      "description": "A WiFi security auditing software",
+      "stars": 6034,
+      "forks": 1043,
+      "stars_24h": 270,
+      "created_at": "2022-09-30T09:06:45+00:00",
+      "language": "Rust",
+      "topics": [
+        "gui",
+        "kali",
+        "linux-app",
+        "security",
+        "security-audit",
+        "wifi",
+        "wifi-security",
+        "wireless"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 148,
+      "open_issues": 16
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "like,c omment and  RT",
+      "task_type": "积分任务",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1794006000,
+      "url": "https://galxe.com/Endorphina",
+      "note": "来自 Endorphina 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Hop in the DeLorean. Win $50 USDT with Asterium",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793473200,
+      "url": "https://galxe.com/Asterium",
+      "note": "来自 Asterium 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Open M.EDGE TestFlight",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": null,
+      "url": "https://galxe.com/M.EDGE",
+      "note": "来自 M.EDGE 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Utah vs. Arizona",
+      "summary": "In the upcoming college football game between Utah and Arizona, originally scheduled for Saturday, November 14, 2026 at ",
+      "volume": "$1,698,185",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/cfb-utah-arz-2026-11-14"
+    },
+    {
+      "title": "Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs",
+      "summary": "This market refers to the Counter-Strike Grand Final match between Spirit and FURIA in the BLAST Rivals Playoffs, initia",
+      "volume": "$508,800",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/cs2-ts7-furia-2026-11-15"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "GoogleChrome/modern-web-guidance-src",
+        "stars": 6318,
+        "growth": 1228,
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 475,
+        "stars_24h": 1231
+      },
+      {
+        "name": "backnotprop/plannotator",
+        "stars": 11371,
+        "growth": 803,
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+        "language": "TypeScript",
+        "topics": [
+          "agents",
+          "claude-code",
+          "code-review",
+          "codex",
+          "obsidian",
+          "opencode",
+          "pi-mono",
+          "plan-mode",
+          "skills"
+        ],
+        "forks": 978,
+        "stars_24h": 408
+      },
+      {
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": 56471,
+        "growth": 782,
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "forks": 4782,
+        "stars_24h": 664
+      },
+      {
+        "name": "alibaba/open-code-review",
+        "stars": 51577,
+        "growth": 728,
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "forks": 3983,
+        "stars_24h": 893
+      },
+      {
+        "name": "Likely7/Veyra-NRVideo",
+        "stars": 2424,
+        "growth": 699,
+        "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+        "language": "C++",
+        "topics": [],
+        "forks": 204,
+        "stars_24h": 420
+      },
+      {
+        "name": "tradermonty/claude-trading-skills",
+        "stars": 5009,
+        "growth": 698,
+        "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "language": "Python",
+        "topics": [],
+        "forks": 1050,
+        "stars_24h": 553
+      },
+      {
+        "name": "we-promise/sure",
+        "stars": 15439,
+        "growth": 551,
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "topics": [],
+        "forks": 1319,
+        "stars_24h": 659
+      },
+      {
+        "name": "QwenLM/qwen-code",
+        "stars": 30425,
+        "growth": 435,
+        "description": "An open-source AI coding agent that lives in your terminal.",
+        "language": "TypeScript",
+        "topics": [
+          "agentic",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "cli",
+          "coding-agent",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "qwen",
+          "terminal",
+          "typescript"
+        ],
+        "forks": 3523,
+        "stars_24h": 64
+      },
+      {
+        "name": "louislam/uptime-kuma",
+        "stars": 94326,
+        "growth": 361,
+        "description": "A fancy self-hosted monitoring tool",
+        "language": "JavaScript",
+        "topics": [
+          "docker",
+          "monitor",
+          "monitoring",
+          "responsive",
+          "self-hosted",
+          "selfhosted",
+          "single-page-app",
+          "socket-io",
+          "uptime",
+          "uptime-monitoring",
+          "webapp",
+          "websocket"
+        ],
+        "forks": 8836,
+        "stars_24h": 430
+      },
+      {
+        "name": "ashhart/TensorFold",
+        "stars": 2206,
+        "growth": 185,
+        "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+        "language": "Zig",
+        "topics": [
+          "ai",
+          "ai-tools",
+          "llm",
+          "llm-inference",
+          "llm-tools"
+        ],
+        "forks": 517,
+        "stars_24h": 37
+      }
+    ],
+    "weekly": [
+      {
+        "name": "we-promise/sure",
+        "stars": 15439,
+        "growth": 3181,
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "topics": [],
+        "forks": 1319,
+        "stars_24h": 659
+      }
+    ],
+    "monthly": [
+      {
+        "name": "JuliusBrussee/caveman",
+        "stars": 120187,
+        "growth": 7460,
+        "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+        "language": "Go",
+        "topics": [
+          "ai",
+          "anthropic",
+          "caveman",
+          "claude",
+          "claude-code",
+          "llm",
+          "meme",
+          "prompt-engineering",
+          "skill",
+          "tokens"
+        ],
+        "forks": 7006,
+        "stars_24h": 227
+      }
+    ],
+    "3month": [
+      {
+        "name": "JuliusBrussee/caveman",
+        "stars": 120187,
+        "growth": 20513,
+        "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+        "language": "Go",
+        "topics": [
+          "ai",
+          "anthropic",
+          "caveman",
+          "claude",
+          "claude-code",
+          "llm",
+          "meme",
+          "prompt-engineering",
+          "skill",
+          "tokens"
+        ],
+        "forks": 7006,
+        "stars_24h": 227
+      }
+    ],
+    "6month": [
+      {
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": 56471,
+        "growth": 15878,
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "forks": 4782,
+        "stars_24h": 664
+      }
+    ],
+    "9month": [
+      {
+        "name": "QwenLM/qwen-code",
+        "stars": 30425,
+        "growth": 11537,
+        "description": "An open-source AI coding agent that lives in your terminal.",
+        "language": "TypeScript",
+        "topics": [
+          "agentic",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "cli",
+          "coding-agent",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "qwen",
+          "terminal",
+          "typescript"
+        ],
+        "forks": 3523,
+        "stars_24h": 64
+      }
+    ],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
