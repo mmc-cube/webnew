@@ -1,0 +1,810 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-16T07:26:47.280242",
+  "brief": [
+    {
+      "conclusion": "GoogleChrome/modern-web-guidance-src 24h +1219 stars — Keep your coding agent up to date with the latest web best p",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 7,500",
+      "evidence_urls": [
+        "https://github.com/GoogleChrome/modern-web-guidance-src"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "dream-num/univer 24h +988 stars — Build your own AI office with Univer Office SDK. Bring editi",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 26,633",
+      "evidence_urls": [
+        "https://github.com/dream-num/univer"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "backnotprop/plannotator 24h +866 stars — The workspace to stay in the loop and on top of agents - sha",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 12,068",
+      "evidence_urls": [
+        "https://github.com/backnotprop/plannotator"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] like,c omment and  RT（0成本）",
+      "why_hot": "来自 Endorphina 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Endorphina"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Hop in the DeLorean. Win $50 USDT with Asterium（0成本）",
+      "why_hot": "来自 Asterium 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Asterium"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "dream-num/univer",
+      "owner": "dream-num",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "stars": 26633,
+      "forks": 2424,
+      "stars_24h": 988,
+      "created_at": "2022-09-29T12:09:14+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "board",
+        "collaboration",
+        "doc",
+        "docx",
+        "excel",
+        "offce365",
+        "office",
+        "pdf",
+        "ppt",
+        "pptx",
+        "presentation",
+        "sdk",
+        "sheet",
+        "slides",
+        "spreadsheet",
+        "univer",
+        "word",
+        "wordprocessor",
+        "workspace",
+        "xlsx"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 594,
+      "open_issues": 176
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "owner": "ag-ui-protocol",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "stars": 18170,
+      "forks": 1876,
+      "stars_24h": 355,
+      "created_at": "2025-05-07T12:49:37+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ag-ui-protocol",
+        "agent-frontend",
+        "agent-ui",
+        "agentic-workflow",
+        "ai-agents"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 99,
+      "open_issues": 594
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "owner": "google-labs-code",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": 9473,
+      "forks": 1175,
+      "stars_24h": 247,
+      "created_at": "2026-01-16T17:17:17+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 85,
+      "open_issues": 19
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "owner": "backnotprop",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "stars": 12068,
+      "forks": 1130,
+      "stars_24h": 866,
+      "created_at": "2025-12-28T02:09:40+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "claude-code",
+        "code-review",
+        "codex",
+        "obsidian",
+        "opencode",
+        "pi-mono",
+        "plan-mode",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 33,
+      "open_issues": 171
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 57240,
+      "forks": 4827,
+      "stars_24h": 717,
+      "created_at": "2025-09-11T10:39:55+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "browser",
+        "chrome",
+        "chrome-devtools",
+        "debugging",
+        "devtools",
+        "mcp",
+        "mcp-server",
+        "puppeteer"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 252,
+      "open_issues": 136
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 52433,
+      "forks": 4194,
+      "stars_24h": 691,
+      "created_at": "2026-05-18T02:16:36+00:00",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 151,
+      "open_issues": 349
+    },
+    {
+      "name": "Tencent/LoopForge",
+      "owner": "Tencent",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "stars": 1872,
+      "forks": 309,
+      "stars_24h": 423,
+      "created_at": "2026-07-28T03:51:01+00:00",
+      "language": "Go",
+      "topics": [
+        "agent-orchestration",
+        "agentic-workflow",
+        "ai-agents",
+        "ai-coding",
+        "claude-code",
+        "code-review",
+        "codebuddy",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "human-on-the-loop",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "sdlc",
+        "self-hosted",
+        "sop",
+        "workflow-automation",
+        "workflow-engine"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 10,
+      "open_issues": 133
+    },
+    {
+      "name": "ggml-org/ggml",
+      "owner": "ggml-org",
+      "description": "Tensor library for machine learning",
+      "stars": 16006,
+      "forks": 2055,
+      "stars_24h": 43,
+      "created_at": "2022-09-18T17:07:19+00:00",
+      "language": "C++",
+      "topics": [
+        "machine-learning"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 150,
+      "open_issues": 387
+    },
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "owner": "elementalsouls",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": 6777,
+      "forks": 1041,
+      "stars_24h": 98,
+      "created_at": "2026-05-05T11:22:32+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-security",
+        "anthropic",
+        "application-security",
+        "bug-bounty",
+        "bugbounty",
+        "bugcrowd",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "ethical-hacking",
+        "hackerone",
+        "offensive-security",
+        "pentesting",
+        "red-team",
+        "security-tools",
+        "web-security"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 41,
+      "open_issues": 46
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "owner": "GoogleChrome",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "stars": 7500,
+      "forks": 653,
+      "stars_24h": 1219,
+      "created_at": "2026-01-27T20:22:24+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 51,
+      "open_issues": 405
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "owner": "tradermonty",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "stars": 5814,
+      "forks": 1227,
+      "stars_24h": 706,
+      "created_at": "2025-10-19T16:37:29+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 44,
+      "open_issues": 57
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "owner": "NVIDIA",
+      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "stars": 1992,
+      "forks": 276,
+      "stars_24h": 122,
+      "created_at": "2026-06-24T02:32:26+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-evaluation",
+        "agent-plugins",
+        "agent-security",
+        "agent-skills",
+        "agentic-ai",
+        "benchmark",
+        "claude-code",
+        "codex",
+        "evaluate",
+        "evaluation",
+        "plugin",
+        "plugin-evaluation",
+        "security-scanner",
+        "skill-eval",
+        "skill-evals",
+        "skill-evaluation",
+        "skill-evaluator",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "eval",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 3,
+      "open_issues": 38
+    },
+    {
+      "name": "bojieli/ai-infra-book",
+      "owner": "bojieli",
+      "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
+      "stars": 7854,
+      "forks": 635,
+      "stars_24h": 127,
+      "created_at": "2026-08-22T15:30:41+00:00",
+      "language": "Python",
+      "topics": [
+        "accelerator",
+        "ai-infra",
+        "ai-infrastructure",
+        "book",
+        "datacenter-network",
+        "deepseek",
+        "distributed-systems",
+        "gpu",
+        "kv-cache",
+        "llm",
+        "llm-inference",
+        "llm-serving",
+        "llm-training",
+        "mixture-of-experts",
+        "performance-engineering"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 22,
+      "open_issues": 9
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "owner": "davila7",
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "stars": 33794,
+      "forks": 3988,
+      "stars_24h": 174,
+      "created_at": "2025-07-04T01:26:26+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code",
+        "claude-code-plugins",
+        "cli",
+        "mcp",
+        "registry"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 190,
+      "open_issues": 519
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "owner": "kajisho5",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "stars": 6068,
+      "forks": 538,
+      "stars_24h": 331,
+      "created_at": "2026-09-03T14:33:38+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "audio-processing",
+        "captions",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "cursor",
+        "ffmpeg",
+        "gemini-cli-extension",
+        "loudness-normalization",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "python",
+        "subtitles",
+        "transcoding",
+        "video",
+        "video-editing",
+        "whisper"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 11,
+      "open_issues": 32
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "like,c omment and  RT",
+      "task_type": "积分任务",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1794006000,
+      "url": "https://galxe.com/Endorphina",
+      "note": "来自 Endorphina 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Hop in the DeLorean. Win $50 USDT with Asterium",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793473200,
+      "url": "https://galxe.com/Asterium",
+      "note": "来自 Asterium 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Open M.EDGE TestFlight",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": null,
+      "url": "https://galxe.com/M.EDGE",
+      "note": "来自 M.EDGE 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Sydney: Omar Jasika vs Alex Bolt",
+      "summary": "This market refers to the tennis match between Omar Jasika and Alex Bolt in the Sydney, originally scheduled for Novembe",
+      "volume": "$477,390",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/atp-jasika-bolt-2026-11-16"
+    },
+    {
+      "title": "Israel x Iran ceasefire continues through November 15?",
+      "summary": "This market will resolve to \"Yes\" if a state of ceasefire remains in effect between Israel and Iran through the listed d",
+      "volume": "$278,700",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-15"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "dream-num/univer",
+        "stars": 26633,
+        "growth": 1532,
+        "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+        "language": "TypeScript",
+        "topics": [
+          "board",
+          "collaboration",
+          "doc",
+          "docx",
+          "excel",
+          "offce365",
+          "office",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "univer",
+          "word",
+          "wordprocessor",
+          "workspace",
+          "xlsx"
+        ],
+        "forks": 2424,
+        "stars_24h": 988
+      },
+      {
+        "name": "GoogleChrome/modern-web-guidance-src",
+        "stars": 7500,
+        "growth": 1182,
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 653,
+        "stars_24h": 1219
+      },
+      {
+        "name": "alibaba/open-code-review",
+        "stars": 52433,
+        "growth": 856,
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "forks": 4194,
+        "stars_24h": 691
+      },
+      {
+        "name": "Tencent/LoopForge",
+        "stars": 1872,
+        "growth": 852,
+        "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+        "language": "Go",
+        "topics": [
+          "agent-orchestration",
+          "agentic-workflow",
+          "ai-agents",
+          "ai-coding",
+          "claude-code",
+          "code-review",
+          "codebuddy",
+          "codex",
+          "coding-agents",
+          "cursor",
+          "developer-tools",
+          "human-on-the-loop",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "sdlc",
+          "self-hosted",
+          "sop",
+          "workflow-automation",
+          "workflow-engine"
+        ],
+        "forks": 309,
+        "stars_24h": 423
+      },
+      {
+        "name": "tradermonty/claude-trading-skills",
+        "stars": 5814,
+        "growth": 805,
+        "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "language": "Python",
+        "topics": [],
+        "forks": 1227,
+        "stars_24h": 706
+      },
+      {
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": 57240,
+        "growth": 769,
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "forks": 4827,
+        "stars_24h": 717
+      },
+      {
+        "name": "ag-ui-protocol/ag-ui",
+        "stars": 18170,
+        "growth": 700,
+        "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "language": "TypeScript",
+        "topics": [
+          "ag-ui-protocol",
+          "agent-frontend",
+          "agent-ui",
+          "agentic-workflow",
+          "ai-agents"
+        ],
+        "forks": 1876,
+        "stars_24h": 355
+      },
+      {
+        "name": "backnotprop/plannotator",
+        "stars": 12068,
+        "growth": 697,
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+        "language": "TypeScript",
+        "topics": [
+          "agents",
+          "claude-code",
+          "code-review",
+          "codex",
+          "obsidian",
+          "opencode",
+          "pi-mono",
+          "plan-mode",
+          "skills"
+        ],
+        "forks": 1130,
+        "stars_24h": 866
+      },
+      {
+        "name": "davila7/claude-code-templates",
+        "stars": 33794,
+        "growth": 295,
+        "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "anthropic",
+          "anthropic-claude",
+          "claude",
+          "claude-code",
+          "claude-code-plugins",
+          "cli",
+          "mcp",
+          "registry"
+        ],
+        "forks": 3988,
+        "stars_24h": 174
+      }
+    ],
+    "weekly": [
+      {
+        "name": "GoogleChrome/modern-web-guidance-src",
+        "stars": 7500,
+        "growth": 5465,
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 653,
+        "stars_24h": 1219
+      }
+    ],
+    "monthly": [],
+    "3month": [],
+    "6month": [
+      {
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": 57240,
+        "growth": 16647,
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "forks": 4827,
+        "stars_24h": 717
+      }
+    ],
+    "9month": [
+      {
+        "name": "ggml-org/ggml",
+        "stars": 16006,
+        "growth": 1932,
+        "description": "Tensor library for machine learning",
+        "language": "C++",
+        "topics": [
+          "machine-learning"
+        ],
+        "forks": 2055,
+        "stars_24h": 43
+      }
+    ],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
