@@ -1,0 +1,1031 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-18T08:01:19.410080",
+  "brief": [
+    {
+      "conclusion": "obra/superpowers 24h +1917 stars — An agentic skills framework & software development methodolo",
+      "why_hot": "新项目爆发，语言: Shell，总 stars: 319,574",
+      "evidence_urls": [
+        "https://github.com/obra/superpowers"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "dream-num/univer 24h +1774 stars — Build your own AI office with Univer Office SDK. Bring editi",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 29,553",
+      "evidence_urls": [
+        "https://github.com/dream-num/univer"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "ag-ui-protocol/ag-ui 24h +1445 stars — AG-UI: the Agent-User Interaction Protocol. Bring Agents int",
+      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 20,180",
+      "evidence_urls": [
+        "https://github.com/ag-ui-protocol/ag-ui"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] like,c omment and  RT（0成本）",
+      "why_hot": "来自 Endorphina 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Endorphina"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Hop in the DeLorean. Win $50 USDT with Asterium（0成本）",
+      "why_hot": "来自 Asterium 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Asterium"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "owner": "elementalsouls",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": 9991,
+      "forks": 1405,
+      "stars_24h": 1005,
+      "created_at": "2026-05-05T11:22:32+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-security",
+        "anthropic",
+        "application-security",
+        "bug-bounty",
+        "bugbounty",
+        "bugcrowd",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "ethical-hacking",
+        "hackerone",
+        "offensive-security",
+        "pentesting",
+        "red-team",
+        "security-tools",
+        "web-security"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 55,
+      "open_issues": 13
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 69417,
+      "forks": 6167,
+      "stars_24h": 696,
+      "created_at": "2026-01-23T20:37:37+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-prompts",
+        "ai-skill",
+        "bluesky",
+        "claude",
+        "claude-code",
+        "clawhub",
+        "deep-research",
+        "hackernews",
+        "instagram",
+        "openclaw",
+        "polymarket",
+        "recency",
+        "reddit",
+        "research",
+        "social-media",
+        "tiktok",
+        "trends",
+        "twitter",
+        "web-search",
+        "youtube"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 222,
+      "open_issues": 21
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 53988,
+      "forks": 4452,
+      "stars_24h": 763,
+      "created_at": "2026-05-18T02:16:36+00:00",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 159,
+      "open_issues": 346
+    },
+    {
+      "name": "Tencent/LoopForge",
+      "owner": "Tencent",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "stars": 3575,
+      "forks": 489,
+      "stars_24h": 591,
+      "created_at": "2026-07-28T03:51:01+00:00",
+      "language": "Go",
+      "topics": [
+        "agent-orchestration",
+        "agentic-workflow",
+        "ai-agents",
+        "ai-coding",
+        "claude-code",
+        "code-review",
+        "codebuddy",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "human-on-the-loop",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "sdlc",
+        "self-hosted",
+        "sop",
+        "workflow-automation",
+        "workflow-engine"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "workflow",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 13,
+      "open_issues": 198
+    },
+    {
+      "name": "dream-num/univer",
+      "owner": "dream-num",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "stars": 29553,
+      "forks": 2641,
+      "stars_24h": 1774,
+      "created_at": "2022-09-29T12:09:14+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "board",
+        "collaboration",
+        "doc",
+        "docx",
+        "excel",
+        "offce365",
+        "office",
+        "pdf",
+        "ppt",
+        "pptx",
+        "presentation",
+        "sdk",
+        "sheet",
+        "slides",
+        "spreadsheet",
+        "univer",
+        "word",
+        "wordprocessor",
+        "workspace",
+        "xlsx"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 748,
+      "open_issues": 202
+    },
+    {
+      "name": "getarcaneapp/arcane",
+      "owner": "getarcaneapp",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "stars": 9504,
+      "forks": 521,
+      "stars_24h": 618,
+      "created_at": "2025-04-19T00:43:29+00:00",
+      "language": "Go",
+      "topics": [
+        "compose",
+        "container-management",
+        "containers",
+        "docker",
+        "docker-compose",
+        "docker-management",
+        "go",
+        "self-hosted",
+        "sveltekit",
+        "typescript",
+        "web-ui"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 18,
+      "open_issues": 10
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "owner": "google-labs-code",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": 10226,
+      "forks": 1335,
+      "stars_24h": 350,
+      "created_at": "2026-01-16T17:17:17+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 88,
+      "open_issues": 20
+    },
+    {
+      "name": "cursor/plugins",
+      "owner": "cursor",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 17000,
+      "forks": 1844,
+      "stars_24h": 201,
+      "created_at": "2026-01-23T01:57:42+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 78,
+      "open_issues": 676
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 319574,
+      "forks": 28490,
+      "stars_24h": 1917,
+      "created_at": "2025-10-09T19:45:18+00:00",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1165,
+      "open_issues": 358
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "owner": "ag-ui-protocol",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "stars": 20180,
+      "forks": 2080,
+      "stars_24h": 1445,
+      "created_at": "2025-05-07T12:49:37+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "ag-ui-protocol",
+        "agent-frontend",
+        "agent-ui",
+        "agentic-workflow",
+        "ai-agents"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "workflow"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 107,
+      "open_issues": 588
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "owner": "backnotprop",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+      "stars": 13207,
+      "forks": 1322,
+      "stars_24h": 691,
+      "created_at": "2025-12-28T02:09:40+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "claude-code",
+        "code-review",
+        "codex",
+        "obsidian",
+        "opencode",
+        "pi-mono",
+        "plan-mode",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 37,
+      "open_issues": 196
+    },
+    {
+      "name": "sveltejs/svelte",
+      "owner": "sveltejs",
+      "description": "web development for the rest of us",
+      "stars": 89680,
+      "forks": 6220,
+      "stars_24h": 477,
+      "created_at": "2016-11-20T18:13:05+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "compiler",
+        "template",
+        "ui"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 980,
+      "open_issues": 1322
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 305866,
+      "forks": 45014,
+      "stars_24h": 883,
+      "created_at": "2026-01-18T00:51:51+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1499,
+      "open_issues": 162
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "owner": "jingyaogong",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": 66293,
+      "forks": 8692,
+      "stars_24h": 192,
+      "created_at": "2024-07-27T04:34:12+00:00",
+      "language": "Python",
+      "topics": [
+        "artificial-intelligence",
+        "large-language-model"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 293,
+      "open_issues": 62
+    },
+    {
+      "name": "google-research/paper-orchestra",
+      "owner": "google-research",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "stars": 3436,
+      "forks": 445,
+      "stars_24h": 1072,
+      "created_at": "2026-05-01T18:07:52+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-research-assistant",
+        "multi-agent-systems"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 26,
+      "open_issues": 37
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "like,c omment and  RT",
+      "task_type": "积分任务",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1794006000,
+      "url": "https://galxe.com/Endorphina",
+      "note": "来自 Endorphina 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Hop in the DeLorean. Win $50 USDT with Asterium",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793473200,
+      "url": "https://galxe.com/Asterium",
+      "note": "来自 Asterium 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Open M.EDGE TestFlight",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": null,
+      "url": "https://galxe.com/M.EDGE",
+      "note": "来自 M.EDGE 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Will South Shields vs. Harborough Town FC end in a draw?",
+      "summary": "In the upcoming National League North game between South Shields and Harborough Town FC, originally scheduled for Tuesda",
+      "volume": "$729,719",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/nln-sos-har-2026-11-17-draw"
+    },
+    {
+      "title": "Will Puma Shen win the next Taipei Mayor election?",
+      "summary": "Taiwanese local elections are scheduled to be held on November 28, 2026.\n\nThis market will resolve according to the cand",
+      "volume": "$298,003",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "elementalsouls/Claude-BugHunter",
+        "stars": 9991,
+        "growth": 2155,
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "topics": [
+          "ai-security",
+          "anthropic",
+          "application-security",
+          "bug-bounty",
+          "bugbounty",
+          "bugcrowd",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "ethical-hacking",
+          "hackerone",
+          "offensive-security",
+          "pentesting",
+          "red-team",
+          "security-tools",
+          "web-security"
+        ],
+        "forks": 1405,
+        "stars_24h": 1005
+      },
+      {
+        "name": "Tencent/LoopForge",
+        "stars": 3575,
+        "growth": 1703,
+        "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+        "language": "Go",
+        "topics": [
+          "agent-orchestration",
+          "agentic-workflow",
+          "ai-agents",
+          "ai-coding",
+          "claude-code",
+          "code-review",
+          "codebuddy",
+          "codex",
+          "coding-agents",
+          "cursor",
+          "developer-tools",
+          "human-on-the-loop",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "sdlc",
+          "self-hosted",
+          "sop",
+          "workflow-automation",
+          "workflow-engine"
+        ],
+        "forks": 489,
+        "stars_24h": 591
+      },
+      {
+        "name": "google-research/paper-orchestra",
+        "stars": 3436,
+        "growth": 1499,
+        "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+        "language": "Python",
+        "topics": [
+          "ai-research-assistant",
+          "multi-agent-systems"
+        ],
+        "forks": 445,
+        "stars_24h": 1072
+      },
+      {
+        "name": "mvanhorn/last30days-skill",
+        "stars": 69417,
+        "growth": 999,
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "topics": [
+          "ai-prompts",
+          "ai-skill",
+          "bluesky",
+          "claude",
+          "claude-code",
+          "clawhub",
+          "deep-research",
+          "hackernews",
+          "instagram",
+          "openclaw",
+          "polymarket",
+          "recency",
+          "reddit",
+          "research",
+          "social-media",
+          "tiktok",
+          "trends",
+          "twitter",
+          "web-search",
+          "youtube"
+        ],
+        "forks": 6167,
+        "stars_24h": 696
+      },
+      {
+        "name": "dream-num/univer",
+        "stars": 29553,
+        "growth": 998,
+        "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+        "language": "TypeScript",
+        "topics": [
+          "board",
+          "collaboration",
+          "doc",
+          "docx",
+          "excel",
+          "offce365",
+          "office",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "univer",
+          "word",
+          "wordprocessor",
+          "workspace",
+          "xlsx"
+        ],
+        "forks": 2641,
+        "stars_24h": 1774
+      },
+      {
+        "name": "alibaba/open-code-review",
+        "stars": 53988,
+        "growth": 747,
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "forks": 4452,
+        "stars_24h": 763
+      },
+      {
+        "name": "ag-ui-protocol/ag-ui",
+        "stars": 20180,
+        "growth": 604,
+        "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "language": "TypeScript",
+        "topics": [
+          "ag-ui-protocol",
+          "agent-frontend",
+          "agent-ui",
+          "agentic-workflow",
+          "ai-agents"
+        ],
+        "forks": 2080,
+        "stars_24h": 1445
+      },
+      {
+        "name": "getarcaneapp/arcane",
+        "stars": 9504,
+        "growth": 548,
+        "description": "Modern Docker Management, Designed for Everyone",
+        "language": "Go",
+        "topics": [
+          "compose",
+          "container-management",
+          "containers",
+          "docker",
+          "docker-compose",
+          "docker-management",
+          "go",
+          "self-hosted",
+          "sveltekit",
+          "typescript",
+          "web-ui"
+        ],
+        "forks": 521,
+        "stars_24h": 618
+      },
+      {
+        "name": "sveltejs/svelte",
+        "stars": 89680,
+        "growth": 538,
+        "description": "web development for the rest of us",
+        "language": "JavaScript",
+        "topics": [
+          "compiler",
+          "template",
+          "ui"
+        ],
+        "forks": 6220,
+        "stars_24h": 477
+      },
+      {
+        "name": "backnotprop/plannotator",
+        "stars": 13207,
+        "growth": 389,
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+        "language": "TypeScript",
+        "topics": [
+          "agents",
+          "claude-code",
+          "code-review",
+          "codex",
+          "obsidian",
+          "opencode",
+          "pi-mono",
+          "plan-mode",
+          "skills"
+        ],
+        "forks": 1322,
+        "stars_24h": 691
+      },
+      {
+        "name": "google-labs-code/stitch-skills",
+        "stars": 10226,
+        "growth": 359,
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1335,
+        "stars_24h": 350
+      }
+    ],
+    "weekly": [
+      {
+        "name": "alibaba/open-code-review",
+        "stars": 53988,
+        "growth": 3139,
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "forks": 4452,
+        "stars_24h": 763
+      },
+      {
+        "name": "backnotprop/plannotator",
+        "stars": 13207,
+        "growth": 2639,
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+        "language": "TypeScript",
+        "topics": [
+          "agents",
+          "claude-code",
+          "code-review",
+          "codex",
+          "obsidian",
+          "opencode",
+          "pi-mono",
+          "plan-mode",
+          "skills"
+        ],
+        "forks": 1322,
+        "stars_24h": 691
+      }
+    ],
+    "monthly": [
+      {
+        "name": "affaan-m/ECC",
+        "stars": 305866,
+        "growth": 23190,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "forks": 45014,
+        "stars_24h": 883
+      },
+      {
+        "name": "obra/superpowers",
+        "stars": 319574,
+        "growth": 18807,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 28490,
+        "stars_24h": 1917
+      },
+      {
+        "name": "cursor/plugins",
+        "stars": 17000,
+        "growth": 4172,
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1844,
+        "stars_24h": 201
+      }
+    ],
+    "3month": [
+      {
+        "name": "affaan-m/ECC",
+        "stars": 305866,
+        "growth": 64057,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "forks": 45014,
+        "stars_24h": 883
+      },
+      {
+        "name": "obra/superpowers",
+        "stars": 319574,
+        "growth": 44589,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 28490,
+        "stars_24h": 1917
+      },
+      {
+        "name": "cursor/plugins",
+        "stars": 17000,
+        "growth": 12894,
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1844,
+        "stars_24h": 201
+      },
+      {
+        "name": "mvanhorn/last30days-skill",
+        "stars": 69417,
+        "growth": 10677,
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "topics": [
+          "ai-prompts",
+          "ai-skill",
+          "bluesky",
+          "claude",
+          "claude-code",
+          "clawhub",
+          "deep-research",
+          "hackernews",
+          "instagram",
+          "openclaw",
+          "polymarket",
+          "recency",
+          "reddit",
+          "research",
+          "social-media",
+          "tiktok",
+          "trends",
+          "twitter",
+          "web-search",
+          "youtube"
+        ],
+        "forks": 6167,
+        "stars_24h": 696
+      }
+    ],
+    "6month": [
+      {
+        "name": "obra/superpowers",
+        "stars": 319574,
+        "growth": 117757,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 28490,
+        "stars_24h": 1917
+      },
+      {
+        "name": "affaan-m/ECC",
+        "stars": 305866,
+        "growth": 113077,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "forks": 45014,
+        "stars_24h": 883
+      }
+    ],
+    "9month": [
+      {
+        "name": "obra/superpowers",
+        "stars": 319574,
+        "growth": 262486,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 28490,
+        "stars_24h": 1917
+      }
+    ],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
