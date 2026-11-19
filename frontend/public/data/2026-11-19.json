@@ -1,0 +1,940 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-19T08:06:50.938587",
+  "brief": [
+    {
+      "conclusion": "google-research/paper-orchestra 24h +1524 stars — PaperOrchestra is a multi-agent framework for automated AI r",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 4,621",
+      "evidence_urls": [
+        "https://github.com/google-research/paper-orchestra"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "affaan-m/ECC 24h +1108 stars — The agent harness performance optimization system. Skills, i",
+      "why_hot": "新项目爆发，语言: JavaScript，总 stars: 306,802",
+      "evidence_urls": [
+        "https://github.com/affaan-m/ECC"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "mvanhorn/last30days-skill 24h +1059 stars — AI agent skill that researches any topic across Reddit, X, Y",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 70,330",
+      "evidence_urls": [
+        "https://github.com/mvanhorn/last30days-skill"
+      ],
+      "category": "github"
+    },
+    {
+      "conclusion": "[Galxe] like,c omment and  RT（0成本）",
+      "why_hot": "来自 Endorphina 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Endorphina"
+      ],
+      "category": "web3"
+    },
+    {
+      "conclusion": "[Galxe] Hop in the DeLorean. Win $50 USDT with Asterium（0成本）",
+      "why_hot": "来自 Asterium 的热门活动",
+      "evidence_urls": [
+        "https://galxe.com/Asterium"
+      ],
+      "category": "web3"
+    }
+  ],
+  "top_tweets": [],
+  "github_trending": [
+    {
+      "name": "cursor/plugins",
+      "owner": "cursor",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 17354,
+      "forks": 1914,
+      "stars_24h": 314,
+      "created_at": "2026-01-23T01:57:42+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "IDE"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 79,
+      "open_issues": 681
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 60059,
+      "forks": 5453,
+      "stars_24h": 389,
+      "created_at": "2026-03-08T13:52:57+00:00",
+      "language": "Python",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 217,
+      "open_issues": 248
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 70330,
+      "forks": 6265,
+      "stars_24h": 1059,
+      "created_at": "2026-01-23T20:37:37+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-prompts",
+        "ai-skill",
+        "bluesky",
+        "claude",
+        "claude-code",
+        "clawhub",
+        "deep-research",
+        "hackernews",
+        "instagram",
+        "openclaw",
+        "polymarket",
+        "recency",
+        "reddit",
+        "research",
+        "social-media",
+        "tiktok",
+        "trends",
+        "twitter",
+        "web-search",
+        "youtube"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 222,
+      "open_issues": 24
+    },
+    {
+      "name": "getarcaneapp/arcane",
+      "owner": "getarcaneapp",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "stars": 9972,
+      "forks": 570,
+      "stars_24h": 547,
+      "created_at": "2025-04-19T00:43:29+00:00",
+      "language": "Go",
+      "topics": [
+        "compose",
+        "container-management",
+        "containers",
+        "docker",
+        "docker-compose",
+        "docker-management",
+        "go",
+        "self-hosted",
+        "sveltekit",
+        "typescript",
+        "web-ui"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 19,
+      "open_issues": 16
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "owner": "NVIDIA",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
+      "stars": 3916,
+      "forks": 532,
+      "stars_24h": 312,
+      "created_at": "2026-06-24T02:32:26+00:00",
+      "language": "Python",
+      "topics": [
+        "agent-evaluation",
+        "agent-plugins",
+        "agent-security",
+        "agent-skills",
+        "agentic-ai",
+        "benchmark",
+        "ci-templates",
+        "claude-code",
+        "codex",
+        "evaluate",
+        "evaluation",
+        "harness",
+        "plugin",
+        "plugin-evaluation",
+        "security-scanner",
+        "skill-eval",
+        "skill-evaluation",
+        "skill-evaluator",
+        "skill-gap-analysis",
+        "skills"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "eval",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 8,
+      "open_issues": 63
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "owner": "nvm-sh",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "stars": 96201,
+      "forks": 10793,
+      "stars_24h": 237,
+      "created_at": "2010-04-15T17:47:47+00:00",
+      "language": "Shell",
+      "topics": [
+        "bash",
+        "install",
+        "lts",
+        "node",
+        "node-js",
+        "nodejs",
+        "nvm",
+        "nvmrc",
+        "posix",
+        "posix-compliant",
+        "shell",
+        "version-manager",
+        "zsh"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1128,
+      "open_issues": 367
+    },
+    {
+      "name": "astral-sh/uv",
+      "owner": "astral-sh",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "stars": 92337,
+      "forks": 3930,
+      "stars_24h": 258,
+      "created_at": "2023-10-02T20:24:11+00:00",
+      "language": "Rust",
+      "topics": [
+        "packaging",
+        "python",
+        "resolver",
+        "uv"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 220,
+      "open_issues": 3081
+    },
+    {
+      "name": "google-research/paper-orchestra",
+      "owner": "google-research",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "stars": 4621,
+      "forks": 572,
+      "stars_24h": 1524,
+      "created_at": "2026-05-01T18:07:52+00:00",
+      "language": "Python",
+      "topics": [
+        "ai-research-assistant",
+        "multi-agent-systems"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 30,
+      "open_issues": 43
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "owner": "google-labs-code",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": 10524,
+      "forks": 1372,
+      "stars_24h": 365,
+      "created_at": "2026-01-16T17:17:17+00:00",
+      "language": "TypeScript",
+      "topics": [],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 88,
+      "open_issues": 21
+    },
+    {
+      "name": "sveltejs/svelte",
+      "owner": "sveltejs",
+      "description": "web development for the rest of us",
+      "stars": 89714,
+      "forks": 6222,
+      "stars_24h": 692,
+      "created_at": "2016-11-20T18:13:05+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "compiler",
+        "template",
+        "ui"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 918,
+      "open_issues": 1312
+    },
+    {
+      "name": "jquery/jquery",
+      "owner": "jquery",
+      "description": "jQuery JavaScript Library",
+      "stars": 60075,
+      "forks": 20713,
+      "stars_24h": 266,
+      "created_at": "2009-04-03T15:20:14+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "jquery"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 3114,
+      "open_issues": 95
+    },
+    {
+      "name": "appwrite/appwrite",
+      "owner": "appwrite",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "stars": 58338,
+      "forks": 5889,
+      "stars_24h": 232,
+      "created_at": "2019-04-08T16:36:25+00:00",
+      "language": "TypeScript",
+      "topics": [
+        "android",
+        "appwrite",
+        "backend",
+        "backend-as-a-service",
+        "docker",
+        "firebase",
+        "firewall",
+        "flutter",
+        "hosting",
+        "ios",
+        "javascript",
+        "nextjs",
+        "react",
+        "react-native",
+        "reactnative",
+        "self-hosted",
+        "selfhosted",
+        "supabase",
+        "swift",
+        "web"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "RAG"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 448,
+      "open_issues": 738
+    },
+    {
+      "name": "openvinotoolkit/openvino",
+      "owner": "openvinotoolkit",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 11416,
+      "forks": 3609,
+      "stars_24h": 24,
+      "created_at": "2018-10-15T10:54:40+00:00",
+      "language": "C++",
+      "topics": [
+        "ai",
+        "computer-vision",
+        "deep-learning",
+        "deploy-ai",
+        "diffusion-models",
+        "generative-ai",
+        "good-first-issue",
+        "inference",
+        "llm-inference",
+        "natural-language-processing",
+        "nlp",
+        "openvino",
+        "optimize-ai",
+        "performance-boost",
+        "recommendation-system",
+        "speech-recognition",
+        "stable-diffusion",
+        "transformers",
+        "yolo"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 193,
+      "open_issues": 1153
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 321526,
+      "forks": 28578,
+      "stars_24h": 822,
+      "created_at": "2025-10-09T19:45:18+00:00",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1172,
+      "open_issues": 360
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 306802,
+      "forks": 45161,
+      "stars_24h": 1108,
+      "created_at": "2026-01-18T00:51:51+00:00",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "readme_summary": "",
+      "relevance_tags": [
+        "coding agent",
+        "IDE",
+        "tooling"
+      ],
+      "is_new": false,
+      "trending_days": 1,
+      "trend_status": "new",
+      "watchers": 1509,
+      "open_issues": 179
+    }
+  ],
+  "github_new": [],
+  "clusters": [],
+  "quests": [
+    {
+      "platform": "Galxe",
+      "title": "like,c omment and  RT",
+      "task_type": "积分任务",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1794006000,
+      "url": "https://galxe.com/Endorphina",
+      "note": "来自 Endorphina 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Hop in the DeLorean. Win $50 USDT with Asterium",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": 1793473200,
+      "url": "https://galxe.com/Asterium",
+      "note": "来自 Asterium 的热门活动"
+    },
+    {
+      "platform": "Galxe",
+      "title": "Open M.EDGE TestFlight",
+      "task_type": "测试网",
+      "cost_tag": "0成本",
+      "risk_tag": "较低",
+      "deadline": null,
+      "url": "https://galxe.com/M.EDGE",
+      "note": "来自 M.EDGE 的热门活动"
+    }
+  ],
+  "markets": [
+    {
+      "title": "Will Fabien Roussel win the 2027 French presidential election?",
+      "summary": "The next French presidential election is currently expected to be held around April 2027.  This market pertains to the o",
+      "volume": "$591,521",
+      "odds_change": null,
+      "url": "https://polymarket.com/event/will-fabien-roussel-win-the-2027-french-presidential-election"
+    }
+  ],
+  "leaderboards": {
+    "daily": [
+      {
+        "name": "obra/superpowers",
+        "stars": 321526,
+        "growth": 1952,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 28578,
+        "stars_24h": 822
+      },
+      {
+        "name": "google-research/paper-orchestra",
+        "stars": 4621,
+        "growth": 1185,
+        "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+        "language": "Python",
+        "topics": [
+          "ai-research-assistant",
+          "multi-agent-systems"
+        ],
+        "forks": 572,
+        "stars_24h": 1524
+      },
+      {
+        "name": "affaan-m/ECC",
+        "stars": 306802,
+        "growth": 936,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "forks": 45161,
+        "stars_24h": 1108
+      },
+      {
+        "name": "mvanhorn/last30days-skill",
+        "stars": 70330,
+        "growth": 913,
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "topics": [
+          "ai-prompts",
+          "ai-skill",
+          "bluesky",
+          "claude",
+          "claude-code",
+          "clawhub",
+          "deep-research",
+          "hackernews",
+          "instagram",
+          "openclaw",
+          "polymarket",
+          "recency",
+          "reddit",
+          "research",
+          "social-media",
+          "tiktok",
+          "trends",
+          "twitter",
+          "web-search",
+          "youtube"
+        ],
+        "forks": 6265,
+        "stars_24h": 1059
+      },
+      {
+        "name": "NVIDIA/SkillEvaluator",
+        "stars": 3916,
+        "growth": 868,
+        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
+        "language": "Python",
+        "topics": [
+          "agent-evaluation",
+          "agent-plugins",
+          "agent-security",
+          "agent-skills",
+          "agentic-ai",
+          "benchmark",
+          "ci-templates",
+          "claude-code",
+          "codex",
+          "evaluate",
+          "evaluation",
+          "harness",
+          "plugin",
+          "plugin-evaluation",
+          "security-scanner",
+          "skill-eval",
+          "skill-evaluation",
+          "skill-evaluator",
+          "skill-gap-analysis",
+          "skills"
+        ],
+        "forks": 532,
+        "stars_24h": 312
+      },
+      {
+        "name": "getarcaneapp/arcane",
+        "stars": 9972,
+        "growth": 468,
+        "description": "Modern Docker Management, Designed for Everyone",
+        "language": "Go",
+        "topics": [
+          "compose",
+          "container-management",
+          "containers",
+          "docker",
+          "docker-compose",
+          "docker-management",
+          "go",
+          "self-hosted",
+          "sveltekit",
+          "typescript",
+          "web-ui"
+        ],
+        "forks": 570,
+        "stars_24h": 547
+      },
+      {
+        "name": "cursor/plugins",
+        "stars": 17354,
+        "growth": 354,
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1914,
+        "stars_24h": 314
+      },
+      {
+        "name": "google-labs-code/stitch-skills",
+        "stars": 10524,
+        "growth": 298,
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1372,
+        "stars_24h": 365
+      },
+      {
+        "name": "sveltejs/svelte",
+        "stars": 89714,
+        "growth": 34,
+        "description": "web development for the rest of us",
+        "language": "JavaScript",
+        "topics": [
+          "compiler",
+          "template",
+          "ui"
+        ],
+        "forks": 6222,
+        "stars_24h": 692
+      }
+    ],
+    "weekly": [
+      {
+        "name": "nvm-sh/nvm",
+        "stars": 96201,
+        "growth": 136,
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "language": "Shell",
+        "topics": [
+          "bash",
+          "install",
+          "lts",
+          "node",
+          "node-js",
+          "nodejs",
+          "nvm",
+          "nvmrc",
+          "posix",
+          "posix-compliant",
+          "shell",
+          "version-manager",
+          "zsh"
+        ],
+        "forks": 10793,
+        "stars_24h": 237
+      }
+    ],
+    "monthly": [
+      {
+        "name": "affaan-m/ECC",
+        "stars": 306802,
+        "growth": 24126,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "forks": 45161,
+        "stars_24h": 1108
+      },
+      {
+        "name": "HKUDS/CLI-Anything",
+        "stars": 60059,
+        "growth": 4682,
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "language": "Python",
+        "topics": [],
+        "forks": 5453,
+        "stars_24h": 389
+      },
+      {
+        "name": "cursor/plugins",
+        "stars": 17354,
+        "growth": 4526,
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1914,
+        "stars_24h": 314
+      }
+    ],
+    "3month": [
+      {
+        "name": "affaan-m/ECC",
+        "stars": 306802,
+        "growth": 64993,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "forks": 45161,
+        "stars_24h": 1108
+      },
+      {
+        "name": "obra/superpowers",
+        "stars": 321526,
+        "growth": 45853,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 28578,
+        "stars_24h": 822
+      },
+      {
+        "name": "cursor/plugins",
+        "stars": 17354,
+        "growth": 12936,
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1914,
+        "stars_24h": 314
+      },
+      {
+        "name": "mvanhorn/last30days-skill",
+        "stars": 70330,
+        "growth": 11590,
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "topics": [
+          "ai-prompts",
+          "ai-skill",
+          "bluesky",
+          "claude",
+          "claude-code",
+          "clawhub",
+          "deep-research",
+          "hackernews",
+          "instagram",
+          "openclaw",
+          "polymarket",
+          "recency",
+          "reddit",
+          "research",
+          "social-media",
+          "tiktok",
+          "trends",
+          "twitter",
+          "web-search",
+          "youtube"
+        ],
+        "forks": 6265,
+        "stars_24h": 1059
+      }
+    ],
+    "6month": [
+      {
+        "name": "obra/superpowers",
+        "stars": 321526,
+        "growth": 119709,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 28578,
+        "stars_24h": 822
+      },
+      {
+        "name": "affaan-m/ECC",
+        "stars": 306802,
+        "growth": 114013,
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "forks": 45161,
+        "stars_24h": 1108
+      },
+      {
+        "name": "HKUDS/CLI-Anything",
+        "stars": 60059,
+        "growth": 20814,
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "language": "Python",
+        "topics": [],
+        "forks": 5453,
+        "stars_24h": 389
+      }
+    ],
+    "9month": [
+      {
+        "name": "obra/superpowers",
+        "stars": 321526,
+        "growth": 264438,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 28578,
+        "stars_24h": 822
+      }
+    ],
+    "yearly": []
+  },
+  "meta": {
+    "degraded": false,
+    "degraded_modules": [],
+    "message": ""
+  }
+}
