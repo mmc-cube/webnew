@@ -1,28 +1,28 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-27T09:13:21.707429",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-28T08:32:30.811393",
   "brief": [
     {
-      "conclusion": "elementalsouls/Claude-BugHunter 24h +1597 stars — A Claude Code skill bundle for bug hunting and external red-",
-      "why_hot": "新项目爆发，语言: Python，总 stars: 25,176",
+      "conclusion": "elementalsouls/Claude-BugHunter 24h +1608 stars — A Claude Code skill bundle for bug hunting and external red-",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 26,503",
       "evidence_urls": [
         "https://github.com/elementalsouls/Claude-BugHunter"
       ],
       "category": "github"
     },
     {
-      "conclusion": "firecrawl/firecrawl 24h +1046 stars — Knowledge infrastructure to make your agents smarter. Search",
-      "why_hot": "新项目爆发，语言: TypeScript，总 stars: 211,217",
+      "conclusion": "obra/superpowers 24h +922 stars — An agentic skills framework & software development methodolo",
+      "why_hot": "新项目爆发，语言: Shell，总 stars: 328,566",
       "evidence_urls": [
-        "https://github.com/firecrawl/firecrawl"
+        "https://github.com/obra/superpowers"
       ],
       "category": "github"
     },
     {
-      "conclusion": "cathrynlavery/diagram-design 24h +955 stars — Editorial diagram design for Claude Code, Codex, GitHub Copi",
-      "why_hot": "新项目爆发，语言: HTML，总 stars: 74,142",
+      "conclusion": "XiaoYouChR/Ghost-Downloader-3 24h +836 stars — The only downloader you need. 下载器的集大成者。",
+      "why_hot": "新项目爆发，语言: Python，总 stars: 20,106",
       "evidence_urls": [
-        "https://github.com/cathrynlavery/diagram-design"
+        "https://github.com/XiaoYouChR/Ghost-Downloader-3"
       ],
       "category": "github"
     },
@@ -49,9 +49,9 @@
       "name": "elementalsouls/Claude-BugHunter",
       "owner": "elementalsouls",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "stars": 25176,
-      "forks": 2559,
-      "stars_24h": 1597,
+      "stars": 26503,
+      "forks": 2710,
+      "stars_24h": 1608,
       "created_at": "2026-05-05T11:22:32+00:00",
       "language": "Python",
       "topics": [
@@ -80,16 +80,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 95,
-      "open_issues": 10
+      "watchers": 98,
+      "open_issues": 28
     },
     {
       "name": "obra/superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 327815,
-      "forks": 29089,
-      "stars_24h": 854,
+      "stars": 328566,
+      "forks": 29204,
+      "stars_24h": 922,
       "created_at": "2025-10-09T19:45:18+00:00",
       "language": "Shell",
       "topics": [
@@ -110,16 +110,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 1184,
-      "open_issues": 373
+      "watchers": 1189,
+      "open_issues": 376
     },
     {
       "name": "HKUDS/CLI-Anything",
       "owner": "HKUDS",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": 66625,
-      "forks": 6082,
-      "stars_24h": 746,
+      "stars": 67154,
+      "forks": 6179,
+      "stars_24h": 666,
       "created_at": "2026-03-08T13:52:57+00:00",
       "language": "Python",
       "topics": [],
@@ -130,16 +130,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 236,
-      "open_issues": 329
+      "watchers": 239,
+      "open_issues": 342
     },
     {
       "name": "jingyaogong/minimind",
       "owner": "jingyaogong",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-      "stars": 71950,
-      "forks": 9358,
-      "stars_24h": 702,
+      "stars": 72350,
+      "forks": 9462,
+      "stars_24h": 660,
       "created_at": "2024-07-27T04:34:12+00:00",
       "language": "Python",
       "topics": [
@@ -153,16 +153,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 319,
-      "open_issues": 68
+      "watchers": 320,
+      "open_issues": 70
     },
     {
       "name": "cursor/plugins",
       "owner": "cursor",
       "description": "Cursor plugin specification and official plugins",
-      "stars": 19874,
-      "forks": 2169,
-      "stars_24h": 270,
+      "stars": 20073,
+      "forks": 2248,
+      "stars_24h": 243,
       "created_at": "2026-01-23T01:57:42+00:00",
       "language": "TypeScript",
       "topics": [],
@@ -173,16 +173,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 85,
-      "open_issues": 708
+      "watchers": 86,
+      "open_issues": 712
     },
     {
       "name": "firecrawl/firecrawl",
       "owner": "firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "stars": 211217,
-      "forks": 11073,
-      "stars_24h": 1046,
+      "stars": 211877,
+      "forks": 11156,
+      "stars_24h": 822,
       "created_at": "2024-04-15T21:02:29+00:00",
       "language": "TypeScript",
       "topics": [
@@ -215,16 +215,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 517,
-      "open_issues": 931
+      "watchers": 518,
+      "open_issues": 839
     },
     {
       "name": "nginx/nginx",
       "owner": "nginx",
       "description": "The official NGINX Open Source repository.",
-      "stars": 33575,
-      "forks": 8441,
-      "stars_24h": 150,
+      "stars": 33704,
+      "forks": 8487,
+      "stars_24h": 146,
       "created_at": "2015-06-23T10:26:27+00:00",
       "language": "C",
       "topics": [
@@ -251,16 +251,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 944,
-      "open_issues": 496
+      "watchers": 943,
+      "open_issues": 497
     },
     {
       "name": "openvinotoolkit/openvino",
       "owner": "openvinotoolkit",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "stars": 12868,
-      "forks": 3754,
-      "stars_24h": 176,
+      "stars": 12983,
+      "forks": 3817,
+      "stars_24h": 151,
       "created_at": "2018-10-15T10:54:40+00:00",
       "language": "C++",
       "topics": [
@@ -292,15 +292,15 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 193,
-      "open_issues": 1201
+      "open_issues": 1204
     },
     {
       "name": "cathrynlavery/diagram-design",
       "owner": "cathrynlavery",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 74142,
-      "forks": 4966,
-      "stars_24h": 955,
+      "stars": 74602,
+      "forks": 5039,
+      "stars_24h": 725,
       "created_at": "2026-04-16T18:01:16+00:00",
       "language": "HTML",
       "topics": [
@@ -321,16 +321,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 165,
-      "open_issues": 33
+      "watchers": 166,
+      "open_issues": 36
     },
     {
       "name": "mvanhorn/last30days-skill",
       "owner": "mvanhorn",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 76018,
-      "forks": 6715,
-      "stars_24h": 759,
+      "stars": 76509,
+      "forks": 6808,
+      "stars_24h": 675,
       "created_at": "2026-01-23T20:37:37+00:00",
       "language": "Python",
       "topics": [
@@ -364,15 +364,15 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 229,
-      "open_issues": 16
+      "open_issues": 12
     },
     {
       "name": "google-labs-code/stitch-skills",
       "owner": "google-labs-code",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "stars": 13414,
-      "forks": 1580,
-      "stars_24h": 309,
+      "stars": 13678,
+      "forks": 1637,
+      "stars_24h": 311,
       "created_at": "2026-01-16T17:17:17+00:00",
       "language": "TypeScript",
       "topics": [],
@@ -385,16 +385,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 93,
+      "watchers": 94,
       "open_issues": 25
     },
     {
       "name": "mjmirza/app-store-compliance",
       "owner": "mjmirza",
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-      "stars": 7231,
-      "forks": 504,
-      "stars_24h": 562,
+      "stars": 8104,
+      "forks": 610,
+      "stars_24h": 530,
       "created_at": "2026-06-06T11:29:45+00:00",
       "language": "Shell",
       "topics": [
@@ -427,16 +427,16 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 14,
+      "watchers": 15,
       "open_issues": 38
     },
     {
       "name": "Tracer-Cloud/opensre",
       "owner": "Tracer-Cloud",
       "description": "The open-source agent for CI/CD reliability.",
-      "stars": 15957,
-      "forks": 2084,
-      "stars_24h": 327,
+      "stars": 16212,
+      "forks": 2168,
+      "stars_24h": 328,
       "created_at": "2026-01-13T00:04:47+00:00",
       "language": "Python",
       "topics": [
@@ -466,15 +466,15 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 66,
-      "open_issues": 31
+      "open_issues": 35
     },
     {
       "name": "toeverything/AFFiNE",
       "owner": "toeverything",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
-      "stars": 79138,
-      "forks": 5775,
-      "stars_24h": 525,
+      "stars": 79597,
+      "forks": 5854,
+      "stars_24h": 474,
       "created_at": "2022-07-31T18:45:21+00:00",
       "language": "TypeScript",
       "topics": [
@@ -505,15 +505,15 @@
       "trending_days": 1,
       "trend_status": "new",
       "watchers": 298,
-      "open_issues": 658
+      "open_issues": 664
     },
     {
       "name": "XiaoYouChR/Ghost-Downloader-3",
       "owner": "XiaoYouChR",
       "description": "The only downloader you need. 下载器的集大成者。",
-      "stars": 19488,
-      "forks": 1187,
-      "stars_24h": 889,
+      "stars": 20106,
+      "forks": 1279,
+      "stars_24h": 836,
       "created_at": "2023-08-16T04:23:44+00:00",
       "language": "Python",
       "topics": [
@@ -544,8 +544,8 @@
       "is_new": false,
       "trending_days": 1,
       "trend_status": "new",
-      "watchers": 53,
-      "open_issues": 119
+      "watchers": 56,
+      "open_issues": 121
     }
   ],
   "github_new": [],
@@ -584,26 +584,26 @@
   ],
   "markets": [
     {
-      "title": "Will the price of Bitcoin be between $60,000 and $62,000 on November 27?",
-      "summary": "This market will resolve according to the final \"Close\" price of the Binance 1 minute candle for BTC/USDT closing at 12:",
-      "volume": "$2,031,226",
+      "title": "Counter-Strike: MIBR vs 100 Thieves (BO1) - PGL Major Singapore Stage 2",
+      "summary": "This market refers to the Counter-Strike Round 1 match between MIBR and 100 Thieves in the PGL Major Singapore Stage 2, ",
+      "volume": "$1,862,096",
       "odds_change": null,
-      "url": "https://polymarket.com/event/will-the-price-of-bitcoin-be-between-60000-62000-on-november-27-2026"
+      "url": "https://polymarket.com/event/cs2-mibr-100t-2026-11-28"
     },
     {
-      "title": "Counter-Strike: Imperial vs Wildcard (BO3) - PGL Major Singapore Stage 1",
-      "summary": "This market refers to the Counter-Strike Round 5 match between Imperial and Wildcard in the PGL Major Singapore Stage 1,",
-      "volume": "$830,891",
+      "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+      "summary": "Taiwanese local elections are scheduled to be held on November 28, 2026.\n\nThis market will resolve according to the cand",
+      "volume": "$1,725,083",
       "odds_change": null,
-      "url": "https://polymarket.com/event/cs2-imp11-wc1-2026-11-27"
+      "url": "https://polymarket.com/event/will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101"
     }
   ],
   "leaderboards": {
     "daily": [
       {
         "name": "elementalsouls/Claude-BugHunter",
-        "stars": 25176,
-        "growth": 1623,
+        "stars": 26503,
+        "growth": 1327,
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
         "language": "Python",
         "topics": [
@@ -624,165 +624,13 @@
           "security-tools",
           "web-security"
         ],
-        "forks": 2559,
-        "stars_24h": 1597
-      },
-      {
-        "name": "obra/superpowers",
-        "stars": 327815,
-        "growth": 878,
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "topics": [
-          "ai",
-          "brainstorming",
-          "coding",
-          "obra",
-          "sdlc",
-          "skills",
-          "subagent-driven-development",
-          "superpowers"
-        ],
-        "forks": 29089,
-        "stars_24h": 854
-      },
-      {
-        "name": "XiaoYouChR/Ghost-Downloader-3",
-        "stars": 19488,
-        "growth": 860,
-        "description": "The only downloader you need. 下载器的集大成者。",
-        "language": "Python",
-        "topics": [
-          "async",
-          "asyncio",
-          "bittorent",
-          "bt",
-          "cross-platform",
-          "download-manager",
-          "downloader",
-          "fluent-design",
-          "ftp",
-          "http3",
-          "magnet",
-          "pyqt",
-          "pyside6",
-          "python",
-          "qt",
-          "quic",
-          "react",
-          "software",
-          "streaming"
-        ],
-        "forks": 1187,
-        "stars_24h": 889
-      },
-      {
-        "name": "firecrawl/firecrawl",
-        "stars": 211217,
-        "growth": 821,
-        "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-        "language": "TypeScript",
-        "topics": [
-          "ai",
-          "ai-agents",
-          "ai-crawler",
-          "ai-scraping",
-          "ai-search",
-          "crawler",
-          "data-extraction",
-          "html-to-markdown",
-          "llm",
-          "markdown",
-          "scraper",
-          "scraping",
-          "web-crawler",
-          "web-data",
-          "web-data-extraction",
-          "web-scraper",
-          "web-scraping",
-          "web-search",
-          "webscraping"
-        ],
-        "forks": 11073,
-        "stars_24h": 1046
-      },
-      {
-        "name": "cathrynlavery/diagram-design",
-        "stars": 74142,
-        "growth": 750,
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "topics": [
-          "agent-skills",
-          "claude-code",
-          "codex",
-          "data-visualization",
-          "diagrams",
-          "drawio",
-          "mermaid",
-          "svg"
-        ],
-        "forks": 4966,
-        "stars_24h": 955
-      },
-      {
-        "name": "HKUDS/CLI-Anything",
-        "stars": 66625,
-        "growth": 672,
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "language": "Python",
-        "topics": [],
-        "forks": 6082,
-        "stars_24h": 746
-      },
-      {
-        "name": "mvanhorn/last30days-skill",
-        "stars": 76018,
-        "growth": 648,
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "language": "Python",
-        "topics": [
-          "agent-skills",
-          "artificial-intelligence",
-          "automation",
-          "bot",
-          "command-line",
-          "data-science",
-          "dsh",
-          "dsh-plugin",
-          "golang",
-          "instagram",
-          "llms",
-          "nlp",
-          "osint",
-          "polymarket",
-          "python3",
-          "reddit",
-          "terminal",
-          "tiktok",
-          "twitter",
-          "youtube"
-        ],
-        "forks": 6715,
-        "stars_24h": 759
-      },
-      {
-        "name": "jingyaogong/minimind",
-        "stars": 71950,
-        "growth": 647,
-        "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-        "language": "Python",
-        "topics": [
-          "artificial-intelligence",
-          "large-language-model"
-        ],
-        "forks": 9358,
-        "stars_24h": 702
+        "forks": 2710,
+        "stars_24h": 1608
       },
       {
         "name": "mjmirza/app-store-compliance",
-        "stars": 7231,
-        "growth": 542,
+        "stars": 8104,
+        "growth": 873,
         "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
         "language": "Shell",
         "topics": [
@@ -807,13 +655,152 @@
           "pre-submission-checklist",
           "privacy-manifest"
         ],
-        "forks": 504,
-        "stars_24h": 562
+        "forks": 610,
+        "stars_24h": 530
+      },
+      {
+        "name": "obra/superpowers",
+        "stars": 328566,
+        "growth": 751,
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "forks": 29204,
+        "stars_24h": 922
+      },
+      {
+        "name": "firecrawl/firecrawl",
+        "stars": 211877,
+        "growth": 660,
+        "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-crawler",
+          "ai-scraping",
+          "ai-search",
+          "crawler",
+          "data-extraction",
+          "html-to-markdown",
+          "llm",
+          "markdown",
+          "scraper",
+          "scraping",
+          "web-crawler",
+          "web-data",
+          "web-data-extraction",
+          "web-scraper",
+          "web-scraping",
+          "web-search",
+          "webscraping"
+        ],
+        "forks": 11156,
+        "stars_24h": 822
+      },
+      {
+        "name": "XiaoYouChR/Ghost-Downloader-3",
+        "stars": 20106,
+        "growth": 618,
+        "description": "The only downloader you need. 下载器的集大成者。",
+        "language": "Python",
+        "topics": [
+          "async",
+          "asyncio",
+          "bittorent",
+          "bt",
+          "cross-platform",
+          "download-manager",
+          "downloader",
+          "fluent-design",
+          "ftp",
+          "http3",
+          "magnet",
+          "pyqt",
+          "pyside6",
+          "python",
+          "qt",
+          "quic",
+          "react",
+          "software",
+          "streaming"
+        ],
+        "forks": 1279,
+        "stars_24h": 836
+      },
+      {
+        "name": "HKUDS/CLI-Anything",
+        "stars": 67154,
+        "growth": 529,
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "language": "Python",
+        "topics": [],
+        "forks": 6179,
+        "stars_24h": 666
+      },
+      {
+        "name": "mvanhorn/last30days-skill",
+        "stars": 76509,
+        "growth": 491,
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "artificial-intelligence",
+          "automation",
+          "bot",
+          "command-line",
+          "data-science",
+          "dsh",
+          "dsh-plugin",
+          "golang",
+          "instagram",
+          "llms",
+          "nlp",
+          "osint",
+          "polymarket",
+          "python3",
+          "reddit",
+          "terminal",
+          "tiktok",
+          "twitter",
+          "youtube"
+        ],
+        "forks": 6808,
+        "stars_24h": 675
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 74602,
+        "growth": 460,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 5039,
+        "stars_24h": 725
       },
       {
         "name": "toeverything/AFFiNE",
-        "stars": 79138,
-        "growth": 461,
+        "stars": 79597,
+        "growth": 459,
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
         "language": "TypeScript",
         "topics": [
@@ -836,13 +823,36 @@
           "wiki",
           "workspace"
         ],
-        "forks": 5775,
-        "stars_24h": 525
+        "forks": 5854,
+        "stars_24h": 474
+      },
+      {
+        "name": "jingyaogong/minimind",
+        "stars": 72350,
+        "growth": 400,
+        "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "language": "Python",
+        "topics": [
+          "artificial-intelligence",
+          "large-language-model"
+        ],
+        "forks": 9462,
+        "stars_24h": 660
+      },
+      {
+        "name": "google-labs-code/stitch-skills",
+        "stars": 13678,
+        "growth": 264,
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1637,
+        "stars_24h": 311
       },
       {
         "name": "Tracer-Cloud/opensre",
-        "stars": 15957,
-        "growth": 325,
+        "stars": 16212,
+        "growth": 255,
         "description": "The open-source agent for CI/CD reliability.",
         "language": "Python",
         "topics": [
@@ -862,33 +872,49 @@
           "site-reliability-engineering",
           "slack"
         ],
-        "forks": 2084,
-        "stars_24h": 327
-      },
-      {
-        "name": "google-labs-code/stitch-skills",
-        "stars": 13414,
-        "growth": 308,
-        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "language": "TypeScript",
-        "topics": [],
-        "forks": 1580,
-        "stars_24h": 309
+        "forks": 2168,
+        "stars_24h": 328
       },
       {
         "name": "cursor/plugins",
-        "stars": 19874,
-        "growth": 244,
+        "stars": 20073,
+        "growth": 199,
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
         "topics": [],
-        "forks": 2169,
-        "stars_24h": 270
+        "forks": 2248,
+        "stars_24h": 243
+      },
+      {
+        "name": "nginx/nginx",
+        "stars": 33704,
+        "growth": 129,
+        "description": "The official NGINX Open Source repository.",
+        "language": "C",
+        "topics": [
+          "content-cache",
+          "http",
+          "http2",
+          "http3",
+          "https",
+          "load-balancer",
+          "mail-proxy-server",
+          "nginx",
+          "quic",
+          "reverse-proxy",
+          "security",
+          "tcp-proxy-server",
+          "tls",
+          "udp-proxy-server",
+          "web-server"
+        ],
+        "forks": 8487,
+        "stars_24h": 146
       },
       {
         "name": "openvinotoolkit/openvino",
-        "stars": 12868,
-        "growth": 150,
+        "stars": 12983,
+        "growth": 115,
         "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
         "language": "C++",
         "topics": [
@@ -912,41 +938,15 @@
           "transformers",
           "yolo"
         ],
-        "forks": 3754,
-        "stars_24h": 176
-      },
-      {
-        "name": "nginx/nginx",
-        "stars": 33575,
-        "growth": 141,
-        "description": "The official NGINX Open Source repository.",
-        "language": "C",
-        "topics": [
-          "content-cache",
-          "http",
-          "http2",
-          "http3",
-          "https",
-          "load-balancer",
-          "mail-proxy-server",
-          "nginx",
-          "quic",
-          "reverse-proxy",
-          "security",
-          "tcp-proxy-server",
-          "tls",
-          "udp-proxy-server",
-          "web-server"
-        ],
-        "forks": 8441,
-        "stars_24h": 150
+        "forks": 3817,
+        "stars_24h": 151
       }
     ],
     "weekly": [
       {
         "name": "elementalsouls/Claude-BugHunter",
-        "stars": 25176,
-        "growth": 12145,
+        "stars": 26503,
+        "growth": 11734,
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
         "language": "Python",
         "topics": [
@@ -967,13 +967,13 @@
           "security-tools",
           "web-security"
         ],
-        "forks": 2559,
-        "stars_24h": 1597
+        "forks": 2710,
+        "stars_24h": 1608
       },
       {
         "name": "firecrawl/firecrawl",
-        "stars": 211217,
-        "growth": 6646,
+        "stars": 211877,
+        "growth": 6335,
         "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
         "language": "TypeScript",
         "topics": [
@@ -997,13 +997,13 @@
           "web-search",
           "webscraping"
         ],
-        "forks": 11073,
-        "stars_24h": 1046
+        "forks": 11156,
+        "stars_24h": 822
       },
       {
         "name": "XiaoYouChR/Ghost-Downloader-3",
-        "stars": 19488,
-        "growth": 6360,
+        "stars": 20106,
+        "growth": 6140,
         "description": "The only downloader you need. 下载器的集大成者。",
         "language": "Python",
         "topics": [
@@ -1027,23 +1027,23 @@
           "software",
           "streaming"
         ],
-        "forks": 1187,
-        "stars_24h": 889
+        "forks": 1279,
+        "stars_24h": 836
       },
       {
         "name": "HKUDS/CLI-Anything",
-        "stars": 66625,
-        "growth": 5813,
+        "stars": 67154,
+        "growth": 5565,
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "language": "Python",
         "topics": [],
-        "forks": 6082,
-        "stars_24h": 746
+        "forks": 6179,
+        "stars_24h": 666
       },
       {
         "name": "obra/superpowers",
-        "stars": 327815,
-        "growth": 5484,
+        "stars": 328566,
+        "growth": 5551,
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "topics": [
@@ -1056,32 +1056,13 @@
           "subagent-driven-development",
           "superpowers"
         ],
-        "forks": 29089,
-        "stars_24h": 854
-      },
-      {
-        "name": "cathrynlavery/diagram-design",
-        "stars": 74142,
-        "growth": 5274,
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "topics": [
-          "agent-skills",
-          "claude-code",
-          "codex",
-          "data-visualization",
-          "diagrams",
-          "drawio",
-          "mermaid",
-          "svg"
-        ],
-        "forks": 4966,
-        "stars_24h": 955
+        "forks": 29204,
+        "stars_24h": 922
       },
       {
         "name": "mjmirza/app-store-compliance",
-        "stars": 7231,
-        "growth": 5058,
+        "stars": 8104,
+        "growth": 5172,
         "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
         "language": "Shell",
         "topics": [
@@ -1106,13 +1087,32 @@
           "pre-submission-checklist",
           "privacy-manifest"
         ],
-        "forks": 504,
-        "stars_24h": 562
+        "forks": 610,
+        "stars_24h": 530
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "stars": 74602,
+        "growth": 5146,
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "forks": 5039,
+        "stars_24h": 725
       },
       {
         "name": "mvanhorn/last30days-skill",
-        "stars": 76018,
-        "growth": 4991,
+        "stars": 76509,
+        "growth": 4914,
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "language": "Python",
         "topics": [
@@ -1137,26 +1137,26 @@
           "twitter",
           "youtube"
         ],
-        "forks": 6715,
-        "stars_24h": 759
+        "forks": 6808,
+        "stars_24h": 675
       },
       {
         "name": "jingyaogong/minimind",
-        "stars": 71950,
-        "growth": 4704,
+        "stars": 72350,
+        "growth": 4512,
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "language": "Python",
         "topics": [
           "artificial-intelligence",
           "large-language-model"
         ],
-        "forks": 9358,
-        "stars_24h": 702
+        "forks": 9462,
+        "stars_24h": 660
       },
       {
         "name": "toeverything/AFFiNE",
-        "stars": 79138,
-        "growth": 3782,
+        "stars": 79597,
+        "growth": 3659,
         "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
         "language": "TypeScript",
         "topics": [
@@ -1179,13 +1179,23 @@
           "wiki",
           "workspace"
         ],
-        "forks": 5775,
-        "stars_24h": 525
+        "forks": 5854,
+        "stars_24h": 474
+      },
+      {
+        "name": "google-labs-code/stitch-skills",
+        "stars": 13678,
+        "growth": 2538,
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "topics": [],
+        "forks": 1637,
+        "stars_24h": 311
       },
       {
         "name": "Tracer-Cloud/opensre",
-        "stars": 15957,
-        "growth": 2684,
+        "stars": 16212,
+        "growth": 2490,
         "description": "The open-source agent for CI/CD reliability.",
         "language": "Python",
         "topics": [
@@ -1205,33 +1215,23 @@
           "site-reliability-engineering",
           "slack"
         ],
-        "forks": 2084,
-        "stars_24h": 327
-      },
-      {
-        "name": "google-labs-code/stitch-skills",
-        "stars": 13414,
-        "growth": 2589,
-        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "language": "TypeScript",
-        "topics": [],
-        "forks": 1580,
-        "stars_24h": 309
+        "forks": 2168,
+        "stars_24h": 328
       },
       {
         "name": "cursor/plugins",
-        "stars": 19874,
-        "growth": 2226,
+        "stars": 20073,
+        "growth": 2149,
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
         "topics": [],
-        "forks": 2169,
-        "stars_24h": 270
+        "forks": 2248,
+        "stars_24h": 243
       },
       {
         "name": "openvinotoolkit/openvino",
-        "stars": 12868,
-        "growth": 1240,
+        "stars": 12983,
+        "growth": 1147,
         "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
         "language": "C++",
         "topics": [
@@ -1255,13 +1255,13 @@
           "transformers",
           "yolo"
         ],
-        "forks": 3754,
-        "stars_24h": 176
+        "forks": 3817,
+        "stars_24h": 151
       },
       {
         "name": "nginx/nginx",
-        "stars": 33575,
-        "growth": 1152,
+        "stars": 33704,
+        "growth": 1080,
         "description": "The official NGINX Open Source repository.",
         "language": "C",
         "topics": [
@@ -1281,15 +1281,15 @@
           "udp-proxy-server",
           "web-server"
         ],
-        "forks": 8441,
-        "stars_24h": 150
+        "forks": 8487,
+        "stars_24h": 146
       }
     ],
     "monthly": [
       {
         "name": "obra/superpowers",
-        "stars": 327815,
-        "growth": 21137,
+        "stars": 328566,
+        "growth": 20903,
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "topics": [
@@ -1302,28 +1302,28 @@
           "subagent-driven-development",
           "superpowers"
         ],
-        "forks": 29089,
-        "stars_24h": 854
+        "forks": 29204,
+        "stars_24h": 922
       }
     ],
     "3month": [
       {
         "name": "jingyaogong/minimind",
-        "stars": 71950,
-        "growth": 15547,
+        "stars": 72350,
+        "growth": 15947,
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "language": "Python",
         "topics": [
           "artificial-intelligence",
           "large-language-model"
         ],
-        "forks": 9358,
-        "stars_24h": 702
+        "forks": 9462,
+        "stars_24h": 660
       },
       {
         "name": "mvanhorn/last30days-skill",
-        "stars": 76018,
-        "growth": 15379,
+        "stars": 76509,
+        "growth": 15870,
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "language": "Python",
         "topics": [
@@ -1348,72 +1348,64 @@
           "twitter",
           "youtube"
         ],
-        "forks": 6715,
-        "stars_24h": 759
+        "forks": 6808,
+        "stars_24h": 675
       },
       {
         "name": "cursor/plugins",
-        "stars": 19874,
-        "growth": 13848,
+        "stars": 20073,
+        "growth": 14047,
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
         "topics": [],
-        "forks": 2169,
-        "stars_24h": 270
+        "forks": 2248,
+        "stars_24h": 243
       }
     ],
     "6month": [
       {
-        "name": "obra/superpowers",
-        "stars": 327815,
-        "growth": 116448,
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
+        "name": "mvanhorn/last30days-skill",
+        "stars": 76509,
+        "growth": 48763,
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
         "topics": [
-          "ai",
-          "brainstorming",
-          "coding",
-          "obra",
-          "sdlc",
-          "skills",
-          "subagent-driven-development",
-          "superpowers"
+          "agent-skills",
+          "artificial-intelligence",
+          "automation",
+          "bot",
+          "command-line",
+          "data-science",
+          "dsh",
+          "dsh-plugin",
+          "golang",
+          "instagram",
+          "llms",
+          "nlp",
+          "osint",
+          "polymarket",
+          "python3",
+          "reddit",
+          "terminal",
+          "tiktok",
+          "twitter",
+          "youtube"
         ],
-        "forks": 29089,
-        "stars_24h": 854
+        "forks": 6808,
+        "stars_24h": 675
       },
       {
         "name": "cursor/plugins",
-        "stars": 19874,
-        "growth": 18385,
+        "stars": 20073,
+        "growth": 18584,
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
         "topics": [],
-        "forks": 2169,
-        "stars_24h": 270
+        "forks": 2248,
+        "stars_24h": 243
       }
     ],
-    "9month": [
-      {
-        "name": "obra/superpowers",
-        "stars": 327815,
-        "growth": 262914,
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "topics": [
-          "ai",
-          "brainstorming",
-          "coding",
-          "obra",
-          "sdlc",
-          "skills",
-          "subagent-driven-development",
-          "superpowers"
-        ],
-        "forks": 29089,
-        "stars_24h": 854
-      }
-    ],
+    "9month": [],
     "yearly": []
   },
   "meta": {
